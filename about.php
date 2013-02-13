@@ -28,7 +28,11 @@
 <div class="nine mobile-two pull-two-mobile columns">
  <!-- Main Content
         ====================== -->
-        <div class="six mobile-two pull-two-mobile columns">
+        <div class="twelve">
+       <img src="http://placehold.it/800x300">
+        </div>
+        
+        <div class="nine mobile-two pull-two-mobile columns">
             <h4 class="title red">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h4>
             <hr/>
             <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p>
@@ -42,14 +46,15 @@
             
             <h5 class="teal">Laboramus maiestatis referrentur est ne.</h5>
             <p>Possit integre est an, vivendum praesent complectitur quo ad, te libris vocibus qui.</p>
-        </div><!-- #end-of-main-content-area -->
+      </div><!-- #end-of-main-content-area -->
         
         
         <!-- Right Sidebar
         ====================== -->
         <div class="three mobile-four columns">
             <br/>
-
+			<h1>title</h1>
+            <p>content</p>
         </div><!-- #end-of-right-sidebar -->
     
     </div>
