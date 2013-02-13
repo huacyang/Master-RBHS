@@ -1,0 +1,50 @@
+/* Color classes */
+.black {
+	color:#000;	
+}
+
+.green {
+	color:#007052;
+}
+
+.orange {
+	color:#e0671e;
+}
+
+.red {
+	color:#990000;	
+}
+
+.teal {
+	color:#004c63;
+}
+
+.white {
+	color:#FFF;
+}
+
+/* General classes */
+.body_border {
+	border:5px solid #f4f3df;
+}
+
+.right {
+	float:right;
+}
+
+.shiftup {
+	margin-top:-30px;
+}
+
+.shiftup_ex {
+	margin-top:-33px;
+}
+
+.title {
+	font-family:'Times New Roman', 'Times Roman';
+	font-size:26px;
+}
+
+.white_background {
+	background-color:#ffffff;
+}
