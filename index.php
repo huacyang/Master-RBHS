@@ -61,7 +61,7 @@
         
         <!-- Main Content
         ====================== -->
-        <div class="five push-five mobile-four columns">
+        <div class="five push-three mobile-four columns">
             <h4 class="title red">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h4>
             <hr/>
             <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p>
@@ -82,7 +82,7 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div class="four push-four mobile-two pull-two-mobile columns">
+        <div class="four mobile-two columns">
             <br/>
             <!-- Panel One -->
             <div class="panel">

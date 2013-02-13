@@ -1,4 +1,4 @@
-<div class="three pull-three mobile-two push-two-mobile columns sidebar">
+<div class="three pull-five mobile-two columns sidebar">
 	<!-- First Section -->
     <h4 class="green title">Quick Links</h4><hr/>
     <div class="row">
@@ -14,7 +14,7 @@
         
         <h6 class="subheader show-for-small">Doors at 00:00pm</h6>
         </div>
-	</div><!-- #end-of-first-section -->
+	</div>
     <!-- Second Section -->
     <h4 class="green title">Follow Us</h4><hr/>
     <div class="row">
@@ -26,5 +26,5 @@
         
         <h6 class="subheader show-for-small">Doors at 00:00pm</h6>
         </div>
-	</div><!-- #end-of-seconds-section -->
+	</div>
 </div>
