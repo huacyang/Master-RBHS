@@ -62,7 +62,7 @@
         <?php include("includes/side_nav-home.php") ?>
         
         <!-- Main Content
-        =================== -->
+        ====================== -->
         <div class="five mobile-two pull-two-mobile columns">
             <h4 class="title red">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h4>
             <hr/>
