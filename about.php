@@ -49,20 +49,7 @@
         ====================== -->
         <div class="three mobile-four columns">
             <br/>
-            <!-- Panel One -->
-            <div class="panel">
-                <h4 class="orange">Meet the Chancellor</h4>
-                <img src="http://placehold.it/500x350" />
-                <h5 class="subheader teal">Eu nibh aliquam nam, esta quidam utroque vertus</h5>
-                <p class="subheader">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
-            </div>
-            <!-- Panel Two -->
-            <div class="panel hide-for-small">
-                <h4 class="orange">Per primis Causae</h4>
-                <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
-                <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <h6><a href="#" class="teal">More »</a></h6>
-            </div>
+
         </div><!-- #end-of-right-sidebar -->
     
     </div>
