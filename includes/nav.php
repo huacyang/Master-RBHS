@@ -4,10 +4,10 @@
 <ul class="left">
     <li class="divider"></li>
     <!-- #menu-item-one -->
-    <li><a href="#">Home</a></li>
+    <li><a href="index.php">Home</a></li>
     <!-- #menu-item-two -->
     <li class="has-dropdown">
-    <a class="active" href="#">About RBHS</a>
+    <a class="active" href="about.php">About RBHS</a>
         <ul class="dropdown">
             <li><label>Section Name</label></li>
             <li><a href="#" class="">Dropdown Level 1</a></li>
