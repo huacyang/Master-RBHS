@@ -58,12 +58,10 @@
     
     <div class="row">
     <div class="twelve white_background columns shiftup_ex ">
-        <!-- Includes Left Side Navigation -->
-        <?php include("includes/side_nav-home.php") ?>
         
         <!-- Main Content
         ====================== -->
-        <div class="five mobile-two pull-two-mobile columns">
+        <div class="five push-five mobile-four columns">
             <h4 class="title red">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h4>
             <hr/>
             <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p>
@@ -79,10 +77,12 @@
             <p>Possit integre est an, vivendum praesent complectitur quo ad, te libris vocibus qui.</p>
         </div><!-- #end-of-main-content-area -->
         
+        <!-- Includes Left Sidebar -->
+        <?php include("includes/side_nav-home.php") ?>
         
         <!-- Right Sidebar
         ====================== -->
-        <div class="four mobile-four columns">
+        <div class="four push-four mobile-two pull-two-mobile columns">
             <br/>
             <!-- Panel One -->
             <div class="panel">

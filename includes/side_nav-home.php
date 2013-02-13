@@ -1,4 +1,4 @@
-<div class="three mobile-two push-two-mobile columns sidebar">
+<div class="three pull-three mobile-two push-two-mobile columns sidebar">
 	<!-- First Section -->
     <h4 class="green title">Quick Links</h4><hr/>
     <div class="row">
@@ -20,8 +20,8 @@
     <div class="row">
         <div class="twelve columns">
         <ul class="green_bullets">
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">Twitter</a></li>
+            <li class="facebook"><a href="#">Facebook</a></li>
+            <li class="twitter"><a href="#">Twitter</a></li>
         </ul>
         
         <h6 class="subheader show-for-small">Doors at 00:00pm</h6>

@@ -1,3 +1,29 @@
+/* ======================
+ * Override existing tags 
+ * ======================
+ */
+ 
+h4 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+p, a {
+	color:#000;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	line-height:1.4em;
+}
+
+ul { 
+	list-style-position: inside;
+}
+
+/* =========================
+ * Override existing classes 
+ * =========================
+ */
+ 
 .carousel-nav a {
 	width:65px;
 	height:50px;
@@ -10,6 +36,10 @@
 .carousel-nav a.active {
 	/*background:url('../img/button_greenbullet.png') no-repeat;*/
 	border-bottom:5px solid white;
+}
+
+.facebook {
+	list-style-image:url(../img/facebook.jpg);
 }
 
 .item p, .item h4 {
@@ -27,6 +57,15 @@
 .span9 {
 	width:725px;
 }
+
+.twitter {
+	list-style-image:url(../img/twitter.jpg);
+}
+
+/* =======================
+ * Override exisiting ID's
+ * =======================
+ */
 
 #content_area {
 	background-color:#7481a3;
@@ -48,20 +87,4 @@
 #slideshow_area {
 	width:1100px;
 	margin-left:-35px;
-}
-
-h4 {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-}
-
-p, a {
-	color:#000;
-	font-size:12px;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-weight:normal;
-	line-height:1.4em;
-}
-
-ul { 
-	list-style-position: inside;
 }
