@@ -13,8 +13,8 @@
     
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/bootstrap.css" />
-    <link type="text/css" rel="stylesheet" href="includes/css/templates.css">
-    <link type="text/css" rel="stylesheet" href="includes/css/class.css">
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/jquery.js"></script>
@@ -61,7 +61,7 @@
     </div>
     
     <div class="row">
-    <div class="twelve columns shiftup_ex white_background">
+    <div class="twelve columns shiftup_ex bg-white">
         
         <!-- Main Content
         ====================== -->
@@ -71,13 +71,13 @@
             <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p>
             <p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p>
             
-            <h5 class="teal">Decore deserunt ne sed, docendi moderatius sit ea.</h5>
+            <a href="#"><h5 class="teal">Decore deserunt ne sed, docendi moderatius sit ea. >></h5></a>
             <p>Quas iriure et nam. Vis magna dolor cu?</p>
             
-            <h5 class="teal">Pri agam paulo graecis at.</h5>
+            <a href="#"><h5 class="teal">Pri agam paulo graecis at. >></h5></a>
             <p>At tantas philosophia eam, sed vero assentior no.</p>
             
-            <h5 class="teal">Laboramus maiestatis referrentur est ne.</h5>
+            <a href="#"><h5 class="teal">Laboramus maiestatis referrentur est ne. >></h5></a>
             <p>Possit integre est an, vivendum praesent complectitur quo ad, te libris vocibus qui.</p>
         </div><!-- #end-of-main-content-area -->
         

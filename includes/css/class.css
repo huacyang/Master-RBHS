@@ -3,6 +3,14 @@
 	color:#000;	
 }
 
+.blue {
+	color:#2c4c7f;	
+}
+
+.blue-lit {
+	color:#9ad3dc;
+}
+
 .green {
 	color:#007052;
 }
@@ -16,11 +24,19 @@
 }
 
 .teal {
-	color:#004c63;
+	color:#127696;
 }
 
 .white {
 	color:#FFF;
+}
+
+.bg-black {
+	background-color:#675c56;
+}
+
+.bg-white {
+	background-color:#ffffff;
 }
 
 /* General classes */
@@ -40,11 +56,15 @@
 	margin-top:-33px;
 }
 
+.shift-tab {
+	margin-left:-15px;
+}
+
+.tab {
+	margin-left:25px;
+}
+
 .title {
 	font-family:'Times New Roman', 'Times Roman';
 	font-size:26px;
-}
-
-.white_background {
-	background-color:#ffffff;
 }

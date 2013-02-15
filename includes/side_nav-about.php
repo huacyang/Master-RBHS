@@ -1,29 +1,29 @@
 <div class="three mobile-two push-two-mobile columns">
 	<!-- First Section -->
-    <h1>About RBHS</h1><hr/>
+    <h5 class="shift-tab">About RBHS</h5>
     <div class="row">
         <div class="twelve columns">
-        <ul>
+        <ul class="nav-bar vertical bg-white">
             <li><a href="#">About Us</a></li>
             <li><a href="#">Contact Us</a></li>
             <li><a href="#">Diversity Advantage</a></li>
             <li><a href="#">Frequently Asked Questions</a></li>
-        </ul><h6 class="subheader show-for-small">Doors at 00:00pm</h6>
+        </ul>
         </div>
 	</div><!-- #end-of-first-section -->
     <!-- Second Section -->
-    <h4>Related</h4><hr/>
+    <div class="panel bg-white">
+    <h5 class="orange">Related</h5>
     <div class="row">
         <div class="twelve columns">
-        <ul>
+        <ul class="bullets-orange">
             <li><a href="#">Before You Apply</a></li>
             <li><a href="#">Application Guidelines</a></li>
             <li><a href="#">Supporting Materials</a></li>
             <li><a href="#">Check your Status</a></li>
             <li><a href="#">What's Next?</a></li>
         </ul>
-        
-        <h6 class="subheader show-for-small">Doors at 00:00pm</h6>
         </div>
+    </div>
 	</div><!-- #end-of-seconds-section -->
 </div>

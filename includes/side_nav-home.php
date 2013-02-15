@@ -2,7 +2,7 @@
 	<!-- First Section -->
     <div class="twelve mobile-four columns">
     <h4 class="green title">Quick Links</h4><hr/>
-        <ul class="green_bullets">
+        <ul class="bullets-green">
             <li><a href="#">Sea Decore Omnium</a></li>
             <li><a href="#">Ei Quando Numquam</a></li>
             <li><a href="#">Vel Tota Fugit</a></li>
