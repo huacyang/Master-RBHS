@@ -24,11 +24,13 @@
     <script type="text/javascript" src="includes/js/rbhs.js"></script>
 </head>
 <body class="body_border">
+	<div class="row">
 	<div class="twelve columns" >
 	<!-- Includes Header -->	
     <?php include("includes/header.php") ?>
     <!-- Includes Navigation -->
     <?php include("includes/nav.php") ?>
+    </div>
     </div>
     
     <div class="row">
@@ -55,9 +57,11 @@
             </div>
         </div>
         <br/><!-- #end-of-slideshow -->
+    </div>
+    </div>
     
     <div class="row">
-    <div class="twelve white_background columns shiftup_ex ">
+    <div class="twelve columns shiftup_ex white_background">
         
         <!-- Main Content
         ====================== -->
@@ -77,12 +81,9 @@
             <p>Possit integre est an, vivendum praesent complectitur quo ad, te libris vocibus qui.</p>
         </div><!-- #end-of-main-content-area -->
         
-        <!-- Includes Left Sidebar -->
-        <?php include("includes/side_nav-home.php") ?>
-        
         <!-- Right Sidebar
         ====================== -->
-        <div class="four mobile-two columns">
+        <div class="four push-three mobile-four columns">
             <br/>
             <!-- Panel One -->
             <div class="panel">
@@ -92,21 +93,21 @@
                 <p class="subheader">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
             </div>
             <!-- Panel Two -->
-            <div class="panel hide-for-small">
+            <div class="panel">
                 <h4 class="orange title">Per primis Causae</h4>
                 <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
                 <h6><a href="#" class="teal right">More »</a></h6>
             </div>
         </div><!-- #end-of-right-sidebar -->
+        
+        <!-- Includes Left Sidebar -->
+        <?php include("includes/side_nav-home.php") ?>
     
     </div>
     </div><!-- #end-of-all-content -->
     
     <!-- Includes Footer -->
     <?php include("includes/footer.php") ?>
-    
-    </div>
-    </div>
 </body>
 </html>
