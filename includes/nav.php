@@ -3,7 +3,7 @@
 <section>
 <ul class="left">
 	<!-- #wrapper-for-mobile-devices -->
-    <li id="mobile_menu" class=""><a href="#" class="show-for-small">Menus</a>
+    <li id="mobile_menu" class=""><a href="#" class="show-for-medium-down">Menus</a>
     <ul id="mobile_dropdown" class="">
         <!-- #menu-item-one -->
         <li><a href="index.php">Home</a></li>
