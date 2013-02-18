@@ -9,7 +9,11 @@
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
     <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
     <script type="text/javascript" src="includes/js/templates.js"></script>
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
 </head>
 <body>
 	<div class="row">
