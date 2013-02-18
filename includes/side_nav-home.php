@@ -1,6 +1,6 @@
-<div class="three pull-nine mobile-four columns sidebar">
+<div class="three pull-nine mobile-four columns sidebar padding">
 	<!-- First Section -->
-    <div class="twelve mobile-four columns">
+    <div class="twelve mobile-four columns padding">
     <h4 class="green title">Quick Links</h4><hr/>
         <ul class="bullets-green">
             <li><a href="#">Sea Decore Omnium</a></li>
@@ -12,7 +12,7 @@
         </ul>
 	</div>
     <!-- Second Section -->
-    <div class="twelve mobile-four columns">
+    <div class="twelve mobile-four columns padding">
     <h4 class="green title">Follow Us</h4><hr/>
         <ul>
             <li class="facebook"><a href="#">Facebook</a></li>

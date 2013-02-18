@@ -65,7 +65,7 @@
         
         <!-- Main Content
         ====================== -->
-        <div class="five push-three mobile-four columns">
+        <div class="six push-three mobile-four columns">
             <h4 class="title red">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h4>
             <hr/>
             <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p>
@@ -83,17 +83,17 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div class="four push-three mobile-four columns">
+        <div class="three push-three mobile-four columns">
             <br/>
             <!-- Panel One -->
-            <div class="panel">
+            <div class="panel padding">
                 <h4 class="orange title">Meet the Chancellor</h4>
                 <img src="http://placehold.it/250x150" />
                 <h5 class="subheader teal">Eu nibh aliquam nam, esta quidam utroque vertus</h5>
                 <p class="subheader">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
             </div>
             <!-- Panel Two -->
-            <div class="panel">
+            <div class="panel padding">
                 <h4 class="orange title">Per primis Causae</h4>
                 <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
