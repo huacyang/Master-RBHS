@@ -31,6 +31,7 @@
 	color:#FFF;
 }
 
+
 .bg-black {
 	background-color:#675c56;
 }
@@ -67,4 +68,19 @@
 .title {
 	font-family:'Times New Roman', 'Times Roman';
 	font-size:26px;
+}
+
+.small {
+	font-size:13px;
+}
+.smaller {
+	font-size:11px;
+}
+
+.padding {
+	padding:13px;
+}
+.margin {
+    margin-bottom: 3px;
+
 }

@@ -84,6 +84,13 @@ ul {
 	list-style-image:url(../img/twitter.jpg);
 }
 
+.nav-bar.vertical > li:last-child { border-bottom: solid 1px #ddded0; }
+
+.nav-bar.vertical > li > a:hover {
+	background: #CCC;
+	color:#C00;
+}
+
 /* =======================
  * Override exisiting ID's
  * =======================
@@ -111,4 +118,3 @@ ul {
 	margin-left:-35px;
 }
 
-.nav-bar.vertical > li:last-child { border-bottom: solid 1px #ddded0; }

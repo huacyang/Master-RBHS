@@ -42,7 +42,7 @@
                 	<p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.<br/><br/>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.<br/><br/>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
                 <h4 class="title blue shift-tab">Probo Tacimates</h4>
                 	<p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.
-                        <ul class="tab">
+                        <ul class="tab small">
                             <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
                         </ul>
                 	</p>
@@ -57,33 +57,33 @@
         <div class="four mobile-four columns">
 			<br/>
             <!-- Panel One -->
-            <div class="panel bg-black">
-            	<h5 class="white">Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h5>
+            <div class="panel padding bg-black">
+            	<h5 class="white small">Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h5>
             </div>
-            <div class="panel shiftup">
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
+            <div class="panel padding shiftup">
+                <p class="margin smaller">Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
                 <ul>
-                	<li>El eos accusam pericula, ex quo sumo cetero, <a href="#" class="blue-lit">et com delenit mediocritatem</a>.</li><li>Et quo mundi utamur, <a href="#" class="blue-lit">te has</a>.</li><li>Commodo periculis, <a href="#" class="blue-lit">etiam adipisci</a>.</li><li>Hinc inermis mea ei, pro viris audire.</li><li><a href="#" class="blue-lit">Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li><li>Eos vero autem theophrastus.</li>
+                	<li class="margin smaller">El eos accusam pericula, ex quo sumo cetero, <a href="#" class="margin teal smaller">et com delenit mediocritatem</a>.</li><li class="margin smaller">Et quo mundi utamur, <a href="#" class="teal smaller">te has</a>.</li><li class="margin smaller">Commodo periculis, <a href="#" class="teal smaller">etiam adipisci</a>.</li><li class="margin smaller">Hinc inermis mea ei, pro viris audire.</li><li class="margin smaller"><a href="#" class="teal smaller">Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li><li class="margin smaller">Eos vero autem theophrastus.</li>
                 </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
+                <p class="margin smaller">Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
             </div>
             <!-- Panel Two -->
-            <div class="panel bg-black">
-            	<h5 class="white">An Habemus</h5>
+            <div class="panel padding bg-black">
+            	<h5 class="white small">An Habemus</h5>
             </div>
-            <div class="panel shiftup">
-                <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
-                <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <h6><a href="#" class="teal right">More »</a></h6>
+            <div class="panel padding shiftup">
+                <h5 class="subheader teal smaller">Mundi habemus facilisi vix at, at quo eligendi.</h5>
+                <p class="margin smaller">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+                <h6><a href="#" class="teal right margin smaller">More »</a></h6>
             </div>
             <!-- Panel Three -->
-            <div class="panel bg-black">
-            	<h5 class="white">Ei nam Ludus Dolorum, Nusquam Liberavisse</h5>
+            <div class="panel padding bg-black">
+            	<h5 class="white small">Ei nam Ludus Dolorum, Nusquam Liberavisse</h5>
             </div>
-            <div class="panel shiftup">
-                <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
-                <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <h6><a href="#" class="teal right">More »</a></h6>
+            <div class="panel padding shiftup">
+                <h5 class="subheader teal smaller">Mundi habemus facilisi vix at, at quo eligendi.</h5>
+                <p class="margin smaller">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+                <h6><a href="#" class="teal right margin smaller">More »</a></h6>
             </div>
         </div><!-- #end-of-right-sidebar -->
     

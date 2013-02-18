@@ -1301,7 +1301,7 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 	padding-bottom: 5px;
 	position:absolute;
 }
-p.copy {
+.copy {
 	font-size:10px;
 	text-align:center;
 }
