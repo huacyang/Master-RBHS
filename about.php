@@ -5,16 +5,20 @@
 	<title>Rutgers | Biomedical and Health Science - About</title>
 
     <!-- Included CSS Files -->
-    <link type="text/css" rel="stylesheet" href="includes/css/templates.css">
-    <link type="text/css" rel="stylesheet" href="includes/css/class.css">
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/templates.js"></script>
 </head>
 <body>
-<div class="twelve columns" >
+	<div class="row">
+	<div class="twelve columns" >
 	<!-- Includes Header -->	
     <?php include("includes/header.php") ?>
     <!-- Includes Navigation -->
     <?php include("includes/nav.php") ?>
+    </div>
     </div>
 
     <div class="row">
