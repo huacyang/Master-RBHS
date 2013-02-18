@@ -13,8 +13,8 @@
     </div>
 	</div>
 
-    <div id="masthead">
-        <a href="index.php" id="logo"><img src="includes/img/logo.gif" alt="Rutgers" title="Rutgers" width="168" height="47" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="#" id="site-name">Biomedical and Health Sciences</a>
+   <div id="masthead">
+         <!--<a href="index.php" id="logo"><img src="includes/img/logo.gif" alt="Rutgers" title="Rutgers" width="168" height="47" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#" id="site-name">Biomedical and Health Sciences</a>-->
     </div>
 </div>
