@@ -1299,6 +1299,7 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 	color: black;
 	font-size: 25px;
 	padding-bottom: 5px;
+	position:absolute;
 }
 p.copy {
 	font-size:10px;
