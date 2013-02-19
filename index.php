@@ -1,14 +1,10 @@
-<!DOCTYPE>
-
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!DOCTYPE HTML>
+<html>
 <head>
     <meta charset="utf-8" />
-    
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width" />
-    
+    <!-- title -->
     <title>Rutgers | Biomedical and Health Science</title>
     
     <!-- Included CSS Files -->
@@ -21,9 +17,9 @@
     <script type="text/javascript" src="includes/js/jquery-json.js"></script>
     <script type="text/javascript" src="includes/js/templates.js"></script>
     <script type="text/javascript" src="includes/js/bootstrap.js"></script>
-    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+    <script type="text/javascript" src="includes/js/home.js"></script>
 </head>
-<body class="body_border">
+<body>
 	<div class="row">
 	<div class="twelve columns" >
 	<!-- Includes Header -->	
@@ -33,11 +29,11 @@
     </div>
     </div>
     
+    <!-- Slideshow
+    ====================== -->
     <div class="row">
     <div class="twelve columns">
-    	<!-- Slideshow
-    	====================== -->
-        <div id="slideshow_area" class="shiftup hide-for-small">
+        <div id="slideshow_area" class="shiftup hide-for-medium-down">
             <!-- Image Slider -->
             <div id="carousel_img" class="carousel slide span9">
                 <div id="image" class="carousel-inner"></div>
@@ -51,22 +47,20 @@
             </div>
         </div>
         <!-- Mobile Slider -->
-        <div class="row">
-            <div class="twelve columns show-for-small">
-                <img src="http://placehold.it/1200x700&text=Mobile Header">
-            </div>
+        <div id="shifting" class="twelve columns show-for-medium-down">
+            <img src="http://placehold.it/1200x700&text=Mobile Header">
         </div>
-        <br/><!-- #end-of-slideshow -->
+        <br/>
     </div>
-    </div>
+    </div><!-- #end-of-slideshow -->
     
     <div class="row">
     <div class="twelve columns shiftup_ex bg-white">
         
         <!-- Main Content
         ====================== -->
-        <div class="six push-three mobile-four columns">
-            <h4 class="title red">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h4>
+        <div class="six push-three mobile-four columns"><br/>
+            <h2 class="title">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h2>
             <hr/>
             <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p>
             <p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p>
@@ -87,14 +81,14 @@
             <br/>
             <!-- Panel One -->
             <div class="panel padding">
-                <h4 class="orange title">Meet the Chancellor</h4>
+                <h1 class="title">Meet the Chancellor</h1>
                 <img src="http://placehold.it/250x150" />
                 <h5 class="subheader teal">Eu nibh aliquam nam, esta quidam utroque vertus</h5>
                 <p class="subheader">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
             </div>
             <!-- Panel Two -->
             <div class="panel padding">
-                <h4 class="orange title">Per primis Causae</h4>
+                <h1 class="title">Per primis Causae</h1>
                 <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
                 <h6><a href="#" class="teal right">More »</a></h6>
@@ -109,5 +103,6 @@
     
     <!-- Includes Footer -->
     <?php include("includes/footer.php") ?>
+    
 </body>
 </html>

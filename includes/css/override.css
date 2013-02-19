@@ -2,17 +2,57 @@
  * Override existing tags 
  * ======================
  */
- 
-h4 {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-}
 
-p, a {
+a {
 	color:#000;
-	font-size:12px;
+	font-size:11px;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	font-weight:normal;
 	line-height:1.4em;
+}
+
+p, li {
+	border:0;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	margin:0;
+	outline:0;
+	padding:0;
+	vertical-align:baseline;
+}
+
+h1 {
+	font-family:'Times New Roman';
+	font-weight:normal;
+	line-height:1.2em;
+	overflow:hidden;
+}
+
+h2 {
+	color:#1A4383;
+	font-family:'Times New Roman';
+	font-size:22px;
+	font-weight:normal;
+	margin:0 0 14px;
+}
+
+h1.title {
+	color:#006D52;
+	font-size:20px;
+	margin:0 0 6px;
+}
+
+h2.title {
+	color:#990000;
+	font-size:24px;
+	margin:0 0 6px;
+}
+
+.panel > h1.title {
+	color:#D7652E;
+	font-size:24px;
+	margin-top:8px;
 }
 
 ul { 
@@ -48,6 +88,10 @@ ul {
 
 .facebook {
 	list-style-image:url(../img/facebook.jpg);
+}
+
+.top-bar > ul {
+	list-style:none;
 }
 
 .item p, .item h4 {
@@ -111,6 +155,23 @@ ul {
 #carouselnav {
 	float:right;
 	margin-right:10px;
+}
+
+#page-title {
+	font-family:'Times New Roman';
+	font-size:27px;
+	font-weight:normal;
+	line-height:31px;
+	padding-top:0;
+	margin:0 0 16px;
+	overflow:hidden;
+}
+
+#sidebar h2 {
+	color:#000;
+	font-size:13px;
+	margin:0 0 12px;
+	line-height:1.4em;
 }
 
 #slideshow_area {
