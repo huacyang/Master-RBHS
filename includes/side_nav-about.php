@@ -1,6 +1,6 @@
 <div id="sidebar" class="three mobile-two push-two-mobile columns"><br/>
 	<!-- First Section -->
-    <h2>About RBHS</h2>
+    <h5 class="small">About RBHS</h5>
     <div class="row">
         <div class="twelve columns">
         <ul class="nav-bar vertical bg-white small">
@@ -13,7 +13,7 @@
 	</div><!-- #end-of-first-section -->
     <!-- Second Section -->
     <div class="panel bg-white padding">
-    <h2>Related</h2>
+    <h5 class="small">Related</h5>
     <div class="row">
         <div class="twelve columns">
         <ul class="bullets-orange small">
