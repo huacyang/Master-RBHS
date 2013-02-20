@@ -138,3 +138,25 @@ $(window).ready(function(e) {
 	
 	mobile();
 });
+
+
+/* 
+random img mobile code 
+
+i wanna grab images from txt file and use this concept. sorry i don't really code javascript so this might take me a while to add onto your code. if they want this part earlier you can delete. i wanna learn though xD -sue
+
+
+function random_imglink(){
+var myimages=new Array()
+
+img[1]="image1.gif"
+img[2]="image2.gif"
+img[3]="image3.gif"
+img[4]="image4.gif"
+
+var ry=Math.floor(Math.random()*myimages.length)
+if (ry==0)
+ry=1
+document.write('<img src="'+myimages[ry]+'" border=0>')
+}
+random_imglink()*/
