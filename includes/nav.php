@@ -12,43 +12,25 @@
         <a class="active" href="about.php">About RBHS</a>
             <ul class="dropdown">
                 <li><label>Section Name</label></li>
-                <li class="has-dropdown"><a href="#">Dropdown Level 1</a>
-                    <ul class="dropdown">
-                        <li><a href="#">Inner 1</a></li>
-                        <li><a href="#">Inner 2</a></li>
-                    </ul>
-                </li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><label>Section Name</label></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all &rarr;</a></li>
+                <li><a href="about.php">About RBHS</a>
             </ul>
         </li>
         <!-- #menu-item-three -->
         <li class="has-dropdown">
         <a href="#">Academics</a>
             <ul class="dropdown">
+                <li><label>Section Name</label></li>
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all &rarr;</a></li>
             </ul>
         </li>
         <!-- #menu-item-four -->
         <li class="has-dropdown">
         <a href="#">Admissions</a>
             <ul class="dropdown">
+                <li><label>Section Name</label></li>
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all &rarr;</a></li>
             </ul>
         </li>
         <!-- #menu-item-five -->
@@ -57,9 +39,6 @@
             <ul class="dropdown">
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all &rarr;</a></li>
             </ul>
         </li>
         <!-- #menu-item-six -->
@@ -70,8 +49,6 @@
                 <li><a href="#" class="">Dropdown Level 1</a></li>
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all &rarr;</a></li>
             </ul>
         </li>
         <!-- #menu-item-seven -->
@@ -82,8 +59,6 @@
                 <li><a href="#" class="">Dropdown Level 1</a></li>
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all &rarr;</a></li>
             </ul>
         </li>
         <!-- #menu-item-eight -->
@@ -94,8 +69,6 @@
                 <li><a href="#" class="">Dropdown Level 1</a></li>
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all &rarr;</a></li>
             </ul>
         </li>
     </ul>

@@ -1,4 +1,4 @@
-<div id="sidebar" class="three mobile-two push-two-mobile columns"><br/>
+<div id="sidebar" class="three pull-nine mobile-four columns"><br/>
 	<!-- First Section -->
     <h5 class="small">About RBHS</h5>
     <div class="row">
