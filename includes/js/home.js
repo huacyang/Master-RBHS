@@ -33,7 +33,7 @@ function mobile() {
 		slideshow_area.removeClass('hide-for-medium-down');
 	}
 	
-	if ($(window).width() >= 940) {
+	if ($(window).width() >= 924) {
 		shifting.addClass('shiftup');
 	} else {
 		shifting.removeClass('shiftup');
