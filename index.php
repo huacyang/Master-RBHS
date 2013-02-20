@@ -39,7 +39,7 @@
                 <div id="image" class="carousel-inner"></div>
             </div>
             <!-- Content Slider -->
-            <div id="content_area" class="span3 hide-for-small"><br/>
+            <div id="content_area" class="span3"><br/>
                 <div id="content_inner" class="carousel slide span3">
                     <div id="content" class="carousel-inner"></div>
                 </div>
@@ -47,8 +47,10 @@
             </div>
         </div>
         <!-- Mobile Slider -->
-        <div id="shifting" class="twelve columns show-for-medium-down">
-            <img src="http://placehold.it/1200x700&text=Mobile Header">
+        <div class="row">
+            <div id="shifting" class="show-for-medium-down">
+                <img src="http://placehold.it/1200x600&text=Mobile Header" />
+            </div>
         </div>
         <br/>
     </div>
