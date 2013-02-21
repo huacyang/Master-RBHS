@@ -11,6 +11,11 @@ a {
 	line-height:1.4em;
 }
 
+a:active {
+	color:#d54b5a;
+	background-color:#ebeee1;
+}
+
 p, li {
 	border:0;
 	font-size:12px;
@@ -20,6 +25,11 @@ p, li {
 	outline:0;
 	padding:0;
 	vertical-align:baseline;
+}
+
+li {
+	list-style:disc outside none;
+	margin:0 0 6px 12px;
 }
 
 h1 {
@@ -37,6 +47,13 @@ h2 {
 	margin:0 0 14px;
 }
 
+h5 {
+	font-family:'Verdana, Geneva, sans-serif';
+	font-size:14px;
+	font-weight:normal;
+	margin:0 0 14px;
+}
+
 h1.title {
 	color:#006D52;
 	font-size:20px;
@@ -47,6 +64,11 @@ h2.title {
 	color:#990000;
 	font-size:24px;
 	margin:0 0 6px;
+}
+
+img {
+	max-width:100%;
+	vertical-align:middle;	
 }
 
 .panel > h1.title {
@@ -108,12 +130,21 @@ ul {
 	color:#000;
 	font-size:12px;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
-	margin-left:-10px;
+	margin-left:-13px;
 	line-height:30px;
 }
 
 .nav-bar.vertical > li > a:hover {
 	background-color:#FC6;
+}
+
+.nav-bar.vertical > li:last-child { 
+	border-bottom:solid 1px #ddded0;
+}
+
+.nav-bar.vertical > li > a:hover {
+	background:#CCC;
+	color:#C00;
 }
 
 .span3 {
@@ -128,11 +159,9 @@ ul {
 	list-style-image:url(../img/twitter.jpg);
 }
 
-.nav-bar.vertical > li:last-child { border-bottom: solid 1px #ddded0; }
-
-.nav-bar.vertical > li > a:hover {
-	background: #CCC;
-	color:#C00;
+.top-bar ul > li {
+	list-style:none none;
+	margin:0 0 0;
 }
 
 .top-bar ul > li.has-dropdown a:after {
@@ -143,6 +172,10 @@ ul {
  * Override exisiting ID's
  * =======================
  */
+ 
+#banner {
+	width:702px;
+}
 
 #content_area {
 	background-color:#7481a3;
@@ -171,11 +204,29 @@ ul {
 	overflow:hidden;
 }
 
-#sidebar h2 {
-	color:#000;
-	font-size:13px;
-	margin:0 0 12px;
-	line-height:1.4em;
+#side_bar h2 {
+	color:#FFFFFF;
+	background-color:#675c56;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	line-height:17px;
+	padding:6px 24px;
+	text-align:center;
+}
+
+#side_bar li {
+	margin-bottom:6px;
+	margin-left:30px;
+	padding-bottom:0;
+}
+
+#side_bar p, #side_bar h5 {
+	padding:6px 16px;
+}
+
+#side_nav {
+	margin-top:35px;
 }
 
 #slideshow_area {

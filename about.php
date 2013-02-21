@@ -18,10 +18,10 @@
 <body>
 	<div class="row">
 	<div class="twelve columns" >
-	<!-- Includes Header -->	
-    <?php include("includes/header.php") ?>
-    <!-- Includes Navigation -->
-    <?php include("includes/nav.php") ?>
+        <!-- Includes Header -->	
+        <?php include("includes/header.php") ?>
+        <!-- Includes Navigation -->
+        <?php include("includes/nav.php") ?>
     </div>
     </div>
 
@@ -29,11 +29,10 @@
     <div id="shifting" class="twelve columns bg-white">
     
     <div class="nine push-three mobile-four columns">
-        <!-- Main Content
+        <!-- Top Banner Area
         ====================== -->
-        <div class="twelve">
-        <br/>
-        <img src="http://placehold.it/800x300">
+        <div class="twelve"><br/>
+        	<img src="http://placehold.it/702x300">
         </div>
         <br/>
         
@@ -53,34 +52,28 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div class="four mobile-four columns">
+        <div id="side_bar" class="four mobile-four columns">
 			<br/>
             <!-- Panel One -->
-            <div class="panel padding bg-black">
-            	<h5 class="white small">Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h5>
-            </div>
-            <div class="panel padding shiftup">
-                <p class="margin smaller">Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
-                <ul>
-                	<li class="margin smaller">El eos accusam pericula, ex quo sumo cetero, <a href="#" class="margin teal smaller">et com delenit mediocritatem</a>.</li><li class="margin smaller">Et quo mundi utamur, <a href="#" class="teal smaller">te has</a>.</li><li class="margin smaller">Commodo periculis, <a href="#" class="teal smaller">etiam adipisci</a>.</li><li class="margin smaller">Hinc inermis mea ei, pro viris audire.</li><li class="margin smaller"><a href="#" class="teal smaller">Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li><li class="margin smaller">Eos vero autem theophrastus.</li>
-                </ul>
-                <p class="margin smaller">Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
+            <h2 class="white small">Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
+            <div class="beige">
+            <p class="margin smaller">Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
+            <ul>
+                <li class="margin smaller">El eos accusam pericula, ex quo sumo cetero, <a href="#" class="margin teal smaller">et com delenit mediocritatem</a>.</li><li class="margin smaller">Et quo mundi utamur, <a href="#" class="teal smaller">te has</a>.</li><li class="margin smaller">Commodo periculis, <a href="#" class="teal smaller">etiam adipisci</a>.</li><li class="margin smaller">Hinc inermis mea ei, pro viris audire.</li><li class="margin smaller"><a href="#" class="teal smaller">Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li><li class="margin smaller">Eos vero autem theophrastus.</li>
+            </ul>
+            <p class="margin smaller">Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
             </div>
             <!-- Panel Two -->
-            <div class="panel padding bg-black">
-            	<h5 class="white small">An Habemus</h5>
-            </div>
-            <div class="panel padding shiftup">
-                <h5 class="subheader teal smaller">Mundi habemus facilisi vix at, at quo eligendi.</h5>
+            <h2 class="white small">An Habemus</h2>
+            <div class="beige">
+                <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p class="margin smaller">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
                 <h6><a href="#" class="teal right margin smaller">More »</a></h6>
             </div>
             <!-- Panel Three -->
-            <div class="panel padding bg-black">
-            	<h5 class="white small">Ei nam Ludus Dolorum, Nusquam Liberavisse</h5>
-            </div>
-            <div class="panel padding shiftup">
-                <h5 class="subheader teal smaller">Mundi habemus facilisi vix at, at quo eligendi.</h5>
+            <h2 class="white small">Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
+            <div class="beige">
+                <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p class="margin smaller">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
                 <h6><a href="#" class="teal right margin smaller">More »</a></h6>
             </div>
@@ -96,7 +89,6 @@
     <!-- Includes Footer -->
     <?php include("includes/footer.php") ?>
     
-    </div>
     </div>
 </body>
 </html>

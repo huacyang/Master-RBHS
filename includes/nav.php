@@ -3,7 +3,8 @@
 <section>
 <ul class="left">
 	<!-- #wrapper-for-mobile-devices -->
-    <li id="mobile_menu" class="has-dropdown"><a id="mobile_header" class="active" href="#"><img src="" /></a>
+    <li id="mobile_menu" class="has-dropdown">
+    <a id="mobile_header" class="active" href="#"><img src="includes/img/bars.jpg" /></a>
     <ul id="mobile_dropdown" class="dropdown">
         <!-- #menu-item-one -->
         <li><a href="index.php">Home</a></li>

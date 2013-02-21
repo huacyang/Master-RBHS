@@ -1,4 +1,9 @@
 /* Color classes */
+.beige {
+	background:none repeat scroll 0 0 #EBEEE1;
+	margin-top:-14px;
+}
+
 .black {
 	color:#000;	
 }
@@ -45,6 +50,20 @@
 	border:5px solid #f4f3df;
 }
 
+.item-list ul li {
+	background-attachment:scroll;
+	background-color:transparent;
+	background-image:url(../img/bullet-square-orange.gif);
+	background-position:0 0;
+	background-repeat:no-repeat no-repeat;
+	line-height:14px;
+	list-style-image:none !important;
+	list-style-position:outside !important;
+	list-style-type:none !important;
+	margin:0 8px !important;
+	padding:0 0 4px 9px;
+}
+
 .right {
 	float:right;
 }
@@ -58,7 +77,7 @@
 }
 
 .shift-tab {
-	margin-left:-15px;
+	margin-left:-13px;
 }
 
 .tab {

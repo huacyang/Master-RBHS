@@ -5,10 +5,13 @@
 
 html { font-size: 62.5%; }
 
-body {  background: none repeat scroll 0 0 #F5F4E2;
+body {  
+	background: none repeat scroll 0 0 #F5F4E2;
     color: #333333;
     font: 10px/1.6 Verdana,Geneva,sans-serif;
-	font-weight: normal; font-style: normal; font-size: 14px; line-height: 1; color: #222222; position: relative; -webkit-font-smoothing: antialiased; }
+	font-weight: normal; font-style: normal; font-size: 14px; line-height: 1; color: #222222; position: relative; 
+	-webkit-font-smoothing: antialiased; 
+}
 
 /* Links ---------------------- */
 a img { border: none; }
