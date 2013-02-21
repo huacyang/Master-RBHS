@@ -135,6 +135,10 @@ ul {
 	color:#C00;
 }
 
+.top-bar ul > li.has-dropdown a:after {
+	border-style:none;
+}
+
 /* =======================
  * Override exisiting ID's
  * =======================
