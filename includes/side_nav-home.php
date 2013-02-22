@@ -1,4 +1,5 @@
-<div class="three pull-nine mobile-four columns sidebar padding">
+<div id="side_bar-home" class="three pull-nine mobile-four columns padding">
+<div class="row">
 	<!-- First Section -->
     <div class="twelve mobile-four columns padding">
     <h1 class="title">Quick Links</h1><hr/>
@@ -19,4 +20,5 @@
             <li class="twitter"><a href="#">Twitter</a></li>
         </ul>
 	</div>
+</div>
 </div>

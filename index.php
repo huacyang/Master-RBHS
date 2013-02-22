@@ -80,7 +80,7 @@
         <!-- Right Sidebar
         ====================== -->
         <div class="three push-three mobile-four columns">
-            <br/>
+        <div class="row"><br/>
             <!-- Panel One -->
             <div class="panel padding">
                 <h1 class="title">Meet the Chancellor</h1>
@@ -95,6 +95,7 @@
                 <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
                 <h6><a href="#" class="teal right">More »</a></h6>
             </div>
+        </div>
         </div><!-- #end-of-right-sidebar -->
         
         <!-- Includes Left Sidebar -->

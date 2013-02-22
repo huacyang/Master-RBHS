@@ -50,6 +50,10 @@
 	border:5px solid #f4f3df;
 }
 
+.item-list {
+	margin-bottom:-15px;
+}
+
 .item-list ul li {
 	background-attachment:scroll;
 	background-color:transparent;
@@ -78,10 +82,6 @@
 
 .shift-tab {
 	margin-left:-13px;
-}
-
-.tab {
-	margin-left:25px;
 }
 
 .small {
