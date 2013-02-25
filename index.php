@@ -53,21 +53,15 @@
 					function random_imglink(){
 					var myimages=new Array()
 					//specify random images below. You can have as many as you wish
-					myimages[1]="http://placehold.it/1200x600&text=Mobile Header"
-					myimages[2]="http://placehold.it/800x600&text=Mobile Header"
-					myimages[3]="http://placehold.it/900x600&text=Mobile Header"
-					myimages[4]="http://placehold.it/1000x600&text=Mobile Header"
-					myimages[5]="http://placehold.it/700x600&text=Mobile Header"
-					myimages[6]="http://placehold.it/1100x600&text=Mobile Header"
+					myimages[1]="includes/slide_img/slide1.jpg"
+					myimages[2]="includes/slide_img/slide2.jpg"
+					myimages[3]="includes/slide_img/slide3.jpg"
 					
 					//specify corresponding links below
 					var imagelinks=new Array()
 					imagelinks[1]="#"
 					imagelinks[2]="#"
 					imagelinks[3]="#"
-					imagelinks[4]="#"
-					imagelinks[5]="#"
-					imagelinks[6]="#"
 					
 					var ry=Math.floor(Math.random()*myimages.length)
 					if (ry==0)
