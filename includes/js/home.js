@@ -3,6 +3,8 @@ var total_content = 0;
 /*
  * Function for changing the navigation bar.
  */
+ 
+
 function mobile() {
 	console.log("Windows width: " + $(window).width());
 	var menu = $('#mobile_menu');
@@ -110,7 +112,7 @@ $(window).ready(function(e) {
 	xmlhttp.open("GET",filePath,false);
 	xmlhttp.send(null);
 	// Parse the context of the text into an array,
-	//  separated by new lines
+	// separated by new lines
 	var fileContent = xmlhttp.responseText;
 	var fileArray = fileContent.split('\n')
 	
@@ -140,23 +142,4 @@ $(window).ready(function(e) {
 });
 
 
-/* 
-random img mobile code 
 
-i wanna grab images from txt file and use this concept. sorry i don't really code javascript so this might take me a while to add onto your code. if they want this part earlier you can delete. i wanna learn though xD -sue
-
-
-function random_imglink(){
-var myimages=new Array()
-
-img[1]="image1.gif"
-img[2]="image2.gif"
-img[3]="image3.gif"
-img[4]="image4.gif"
-
-var ry=Math.floor(Math.random()*myimages.length)
-if (ry==0)
-ry=1
-document.write('<img src="'+myimages[ry]+'" border=0>')
-}
-random_imglink()*/
