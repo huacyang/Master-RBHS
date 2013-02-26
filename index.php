@@ -48,28 +48,8 @@
         </div>
         <!-- Mobile Slider -->
         <div class="row">
-            <div id="shifting" class="show-for-medium-down">           
-                 <script language="JavaScript">
-					function random_imglink(){
-					var myimages=new Array()
-					//specify random images below. You can have as many as you wish
-					myimages[1]="includes/slide_img/slide1.jpg"
-					myimages[2]="includes/slide_img/slide2.jpg"
-					myimages[3]="includes/slide_img/slide3.jpg"
-					
-					//specify corresponding links below
-					var imagelinks=new Array()
-					imagelinks[1]="#"
-					imagelinks[2]="#"
-					imagelinks[3]="#"
-					
-					var ry=Math.floor(Math.random()*myimages.length)
-					if (ry==0)
-					ry=1
-					document.write('<a href='+'"'+imagelinks[ry]+'"'+'><img src="'+myimages[ry]+'" border=0></a>')
-					}
-					random_imglink()
-				</script>
+            <div id="shifting" class="show-for-medium-down">
+            
             </div>
         </div>
         <br/>

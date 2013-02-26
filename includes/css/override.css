@@ -109,10 +109,6 @@ img {
 	list-style-image:url(../img/facebook.jpg);
 }
 
-.top-bar > ul {
-	list-style:none;
-}
-
 .item p, .item h4 {
 	color:#FFF;
 }
@@ -157,13 +153,27 @@ img {
 	list-style-image:url(../img/twitter.jpg);
 }
 
-.top-bar ul > li {
+.top-bar {
+	background-color:#36312a;
+}
+
+.top-bar ul li {
 	list-style:none none;
+	background-color:#36312a;
 	margin:0 0 0;
 }
 
 .top-bar ul > li.has-dropdown a:after {
 	border-style:none;
+	background-color:#7D756B;
+}
+
+.top-bar ul > li.has-dropdown .dropdown li {
+	background-color:#7D756B;
+}
+
+.top-bar ul > li a:hover {
+	background-color:#7D756B;
 }
 
 /* =======================
@@ -213,6 +223,10 @@ img {
 	padding-top:0;
 	margin:0 0 16px;
 	overflow:hidden;
+}
+
+#shifting > img {
+	width:100%;	
 }
 
 #side_bar {

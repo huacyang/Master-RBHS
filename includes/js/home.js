@@ -1,10 +1,21 @@
 var total_content = 0;
+var randomimages = new Array()
+
+function randomize() {
+	var shifting = document.getElementById("shifting");
+	var img = document.createElement("img");
+	var randomly = Math.floor(Math.random() * randomimages.length);
+	console.log(randomly);
+	img.src = randomimages[randomly];
+	shifting.removeChild(shifting.lastChild);
+	shifting.appendChild(img);
+}
 
 /*
- * Function for changing the navigation bar.
+ * Function for changing the navigation bar,
+ *  from full screen to mobile view,
+ *  depending on the wide of the browser
  */
- 
-
 function mobile() {
 	console.log("Windows width: " + $(window).width());
 	var menu = $('#mobile_menu');
@@ -23,6 +34,7 @@ function mobile() {
 		shifting.addClass('show-for-medium-down');
 		slideshow_area.removeClass('hide-for-small');
 		slideshow_area.addClass('hide-for-medium-down');
+		randomize();
 	} else if ($(window).width() > 1000 && menu.hasClass('has-dropdown')) {
 		console.log("Full Screen");
 		menu.removeClass('has-dropdown');
@@ -105,6 +117,7 @@ $(window).ready(function(e) {
 		if (first) { atag.className = "active"; }
 		document.getElementById("carouselnav").appendChild(atag);
 	}
+	
 	// Pathway to the text file
 	var filePath = "slideshow_content.txt"
 	// XML request to the above pathway
@@ -132,12 +145,14 @@ $(window).ready(function(e) {
 			append_content(first, "image", create_img(img_link), null);
 			append_content(first, "content", create_tag("h4", img_title), create_tag("p", img_content));
 			append_atag(first, count, img_thumb);
+			randomimages.push(img_link);
 			count++;
 			total_content++;
 			if (first) { first = false; }
 		}
 	} while (i < fileArray.length);
 	
+	randomize();
 	mobile();
 });
 

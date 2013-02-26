@@ -12,14 +12,13 @@
         <li class="has-dropdown">
         <a class="active" href="about.php">About RBHS</a>
             <ul class="dropdown">
-                <li><a href="about.php">About RBHS</a>
+                <li><a href="about.php">About RBHS</a></li>
             </ul>
         </li>
         <!-- #menu-item-three -->
         <li class="has-dropdown">
         <a href="#">Academics</a>
             <ul class="dropdown">
-                <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
         </li>
