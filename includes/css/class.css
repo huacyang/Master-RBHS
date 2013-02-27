@@ -57,7 +57,7 @@
 .item-list ul li {
 	background-attachment:scroll;
 	background-color:transparent;
-	background-image:url(../img/bullet-square-orange.gif);
+	background-image:url(img/bullet-square-orange.gif);
 	background-position:0 0;
 	background-repeat:no-repeat no-repeat;
 	line-height:14px;
@@ -66,8 +66,11 @@
 	list-style-type:none !important;
 	margin:0 8px !important;
 	padding:0 0 4px 9px;
-}
 
+}
+.top-bar ul > li.has-dropdown .dropdown {
+	background:#7D756B;
+}
 .right {
 	float:right;
 }
