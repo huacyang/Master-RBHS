@@ -176,6 +176,14 @@ img {
 	background-color:#7D756B;
 }
 
+.top-bar ul > li.has-dropdown:hover {
+	background-color:#7D756B;
+}
+
+.top-bar ul > li.has-dropdown .dropdown {
+	background:#7D756B;
+}
+
 /* =======================
  * Override exisiting ID's
  * =======================
