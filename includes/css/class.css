@@ -36,7 +36,6 @@
 	color:#FFF;
 }
 
-
 .bg-black {
 	background-color:#675c56;
 }
@@ -52,12 +51,14 @@
 
 .item-list {
 	margin-bottom:-15px;
+	margin-top:-10px;
+	margin-left:-10px;
 }
 
 .item-list ul li {
 	background-attachment:scroll;
 	background-color:transparent;
-	background-image:url(img/bullet-square-orange.gif);
+	background-image:url(../img/bullet-square-orange.gif);
 	background-position:0 0;
 	background-repeat:no-repeat no-repeat;
 	line-height:14px;
@@ -66,7 +67,6 @@
 	list-style-type:none !important;
 	margin:0 8px !important;
 	padding:0 0 4px 9px;
-
 }
 
 .right {
@@ -99,4 +99,8 @@
 
 .margin {
     margin-bottom: 3px;
+}
+
+.wrapper {
+	width:190px;
 }

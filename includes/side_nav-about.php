@@ -1,7 +1,7 @@
 <div id="side_nav" class="three pull-nine mobile-four columns"><br/>
-	<div style="width:190px">
+	<div class="wrapper">
     <!-- First Section -->
-    <h5 class="shift-tab">About RBHS</h5>
+    <h2>About RBHS</h2>
     <div class="row">
         <div class="twelve columns">
         <ul class="nav-bar vertical bg-white small">
@@ -14,7 +14,7 @@
 	</div>
     <!-- Second Section -->
     <div class="panel bg-white padding">
-    <h5>Related</h5>
+    <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
