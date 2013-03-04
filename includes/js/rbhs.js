@@ -32,7 +32,6 @@ function active() {
 	var token = url.replace(".", "/", "g");
 	token = token.split("/");
 	for(var i = 0; i < token.length; i++) {
-		console.log(token);
 		if (token[i] == "about") {
 			document.getElementById("about").className = "has-dropdown active";
 			break;
