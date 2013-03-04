@@ -54,6 +54,10 @@ function mobile() {
 	}
 }
 
+function active() {
+	document.getElementById("home").className = "has-dropdown active";
+}
+
 $(window).load(function(){
 	// Specific the image slider speed (in seconds)
 	$('#carousel_img').each(function(){
@@ -154,6 +158,7 @@ $(window).ready(function(e) {
 	
 	randomize();
 	mobile();
+	active();
 });
 
 

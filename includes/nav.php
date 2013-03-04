@@ -3,40 +3,40 @@
     <section id="section-wrapper">
     <ul id="navigation" class="left">
         <!-- #menu-item-one -->
-        <li><a href="index.php">Home</a></li>
+        <li id="home"><a href="index.php">Home</a></li>
         <!-- #menu-item-two -->
-        <li class="has-dropdown">
-        <a class="active" href="about.php">About RBHS</a>
+        <li id="about" class="has-dropdown">
+        <a href="about.php">About RBHS</a>
             <ul class="dropdown">
                 <li><a href="about.php">About RBHS</a></li>
             </ul>
         </li>
         <!-- #menu-item-three -->
-        <li class="has-dropdown">
-        <a href="#">Academics</a>
+        <li id="academics" class="has-dropdown">
+        <a href="academics.php">Academics</a>
             <ul class="dropdown">
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
         </li>
         <!-- #menu-item-four -->
-        <li class="has-dropdown">
-        <a href="#">Admissions</a>
+        <li id="admissions" class="has-dropdown">
+        <a href="admissions.php">Admissions</a>
             <ul class="dropdown">
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
         </li>
         <!-- #menu-item-five -->
-        <li class="has-dropdown">
-        <a href="#">Patient Care</a>
+        <li id="care" class="has-dropdown">
+        <a href="care.php">Patient Care</a>
             <ul class="dropdown">
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
         </li>
         <!-- #menu-item-six -->
-        <li class="has-dropdown">
-        <a class="active" href="#">News</a>
+        <li id="news" class="has-dropdown">
+        <a href="news.php">News</a>
             <ul class="dropdown">
                 <li><a href="#" class="">Dropdown Level 1</a></li>
                 <li><a href="#">Dropdown Option</a></li>
@@ -44,8 +44,8 @@
             </ul>
         </li>
         <!-- #menu-item-seven -->
-        <li class="has-dropdown">
-        <a class="active" href="#">Research</a>
+        <li id="research" class="has-dropdown">
+        <a href="research.php">Research</a>
             <ul class="dropdown">
                 <li><a href="#" class="">Dropdown Level 1</a></li>
                 <li><a href="#">Dropdown Option</a></li>
@@ -53,8 +53,8 @@
             </ul>
         </li>
         <!-- #menu-item-eight -->
-        <li class="has-dropdown">
-        <a class="active" href="#">Information For</a>
+        <li id="information" class="has-dropdown">
+        <a href="information.php">Information For</a>
             <ul class="dropdown">
                 <li><a href="#" class="">Dropdown Level 1</a></li>
                 <li><a href="#">Dropdown Option</a></li>

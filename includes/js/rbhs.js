@@ -24,6 +24,39 @@ function mobile() {
 	}
 }
 
+/*
+ * Function for setting the corresponding tab on the navigation bar active
+ */
+function active() {
+	var url = document.URL, index = 0, found = false;
+	var token = url.split("/.-");
+	for(var i = 0; i < token.length; i++) {
+		console.log(token);
+		if (token[i] == "about") {
+			document.getElementById("about").className = "has-dropdown active";
+			break;
+		} else if (token[i] == "academics") {
+			document.getElementById("academics").className = "has-dropdown active";
+			break;
+		} else if (token[i] == "admissions") {
+			document.getElementById("admissions").className = "has-dropdown active";
+			break;
+		} else if (token[i] == "care") {
+			document.getElementById("care").className = "has-dropdown active";
+			break;
+		} else if (token[i] == "news") {
+			document.getElementById("news").className = "has-dropdown active";
+			break;
+		} else if (token[i] == "research") {
+			document.getElementById("research").className = "has-dropdown active";
+			break;
+		} else if (token[i] == "information") {
+			document.getElementById("information").className = "has-dropdown active";
+			break;
+		}
+	}
+}
+
 // During load
 $(window).load(function(){
 	$(window).resize(function() {
@@ -34,4 +67,5 @@ $(window).load(function(){
 // On first load
 $(window).ready(function(e) {
 	mobile();
+	active();
 });
