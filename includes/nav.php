@@ -1,11 +1,7 @@
-<div class="row">
-<nav class="top-bar">
-<section>
-<ul class="left">
-	<!-- #wrapper-for-mobile-devices -->
-    <li id="mobile_menu" class="has-dropdown">
-    <a id="mobile_header" class="active" href="#"><img src="includes/img/bars.jpg" /></a>
-    <ul id="mobile_dropdown" class="dropdown">
+    <div class="row">
+    <nav class="top-bar">
+    <section id="section-wrapper">
+    <ul id="navigation" class="left">
         <!-- #menu-item-one -->
         <li><a href="index.php">Home</a></li>
         <!-- #menu-item-two -->
@@ -66,8 +62,6 @@
             </ul>
         </li>
     </ul>
-    </li>
-</ul>
-</section>
-</nav>
-</div>
+    </section>
+    </nav>
+    </div>

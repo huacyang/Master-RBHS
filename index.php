@@ -17,6 +17,7 @@
     <script type="text/javascript" src="includes/js/jquery-json.js"></script>
     <script type="text/javascript" src="includes/js/templates.js"></script>
     <script type="text/javascript" src="includes/js/bootstrap.js"></script>
+    <!--[if (gt IE 8)|!(IE)]><!--><script type="text/javascript" src="includes/js/ie8.js"></script><!--<![endif]-->
     <script type="text/javascript" src="includes/js/home.js"></script>
 </head>
 <body>
