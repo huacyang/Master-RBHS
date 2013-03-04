@@ -2,6 +2,11 @@
     <nav class="top-bar">
     <section id="section-wrapper">
     <ul id="navigation" class="left">
+    <!--
+	<li id="mobile_menu" class="has-dropdown">
+	<a id="mobile_header" href="#"><img src="includes/img/bars.jpg" /></a>
+	<ul id="mobile_dropdown" class="dropdown">
+    -->
         <!-- #menu-item-one -->
         <li id="home"><a href="index.php">Home</a></li>
         <!-- #menu-item-two -->
@@ -61,6 +66,10 @@
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
         </li>
+    <!--
+    </ul>
+    </li>
+    -->
     </ul>
     </section>
     </nav>

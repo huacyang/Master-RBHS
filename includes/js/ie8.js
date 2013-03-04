@@ -12,7 +12,7 @@ function create_mobileNav() {
 	li.id = "mobile_menu";
 	li.className = "has-dropdown";
 	new_nav.id = "navigation";
-	new_nav.class = "left";
+	new_nav.className = "left";
 	old_nav.id = "mobile_dropdown";
 	old_nav.className = "dropdown";
 	
@@ -21,7 +21,7 @@ function create_mobileNav() {
 	li.appendChild(old_nav);
 	new_nav.appendChild(li);
 	wrapper.appendChild(new_nav);
-	console.log(navigation);
+	console.log(wrapper);
 }
 
 $(window).ready(function(e) {
