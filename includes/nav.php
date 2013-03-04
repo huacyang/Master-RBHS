@@ -1,11 +1,14 @@
-<div class="row">
-<nav class="top-bar">
-<section>
-<ul class="left">
-	<!-- #wrapper-for-mobile-devices -->
-    <li id="mobile_menu" class="has-dropdown">
-    <a id="mobile_header" class="active" href="#"><img src="includes/img/bars.jpg" /></a>
-    <ul id="mobile_dropdown" class="dropdown">
+    <!-- Top Navigation Bar -->
+    <nav class="top-bar">
+    <ul class="title-area">
+        <li class="name show-for-small"><h1><a href="/">Rutgers</a></h1></li>
+        <!-- Mobile Title -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+    
+    <section class="top-bar-section">
+    <!-- Left Navigation Section -->
+    <ul class="left">
         <!-- #menu-item-one -->
         <li><a href="index.php">Home</a></li>
         <!-- #menu-item-two -->
@@ -66,8 +69,6 @@
             </ul>
         </li>
     </ul>
-    </li>
-</ul>
-</section>
-</nav>
-</div>
+    </section>
+    </nav>
+    
