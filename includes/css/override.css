@@ -117,6 +117,13 @@ img {
 	color:#FFF;
 }
 
+.top-bar { min-height: 30px; line-height: 30px; height: 30px; }
+.top-bar ul > li a:not(.button) { min-height: 30px; line-height: 30px; height: 30px;}
+.top-bar ul > li.has-dropdown .dropdown li:last-child { padding-bottom: 0px;}
+.top-bar ul > li.has-dropdown .dropdown { padding:0px;}
+.top-bar ul { min-height: 30px; line-height: 30px; height: 30px; }
+.top-bar ul > li.has-dropdown .dropdown li a { padding:0px; text-align:center;}
+
 .nav-bar.vertical > li {
 	border-left-style:none;
 	border-right-style:none;
