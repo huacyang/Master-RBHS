@@ -1,7 +1,7 @@
-<div id="side_bar-home" class="large-3 pull-9 mobile-four columns padding">
+<div id="side_bar-home" class="three pull-nine mobile-four columns padding">
 <div class="row">
 	<!-- First Section -->
-    <div class="large-12 mobile-four columns padding">
+    <div class="twelve mobile-four columns padding">
     <h1 class="title">Quick Links</h1><hr/>
         <ul class="bullets-green">
             <li><a href="#">Sea Decore Omnium</a></li>
@@ -13,7 +13,7 @@
         </ul>
 	</div>
     <!-- Second Section -->
-    <div class="large-12 mobile-four columns padding">
+    <div class="twelve mobile-four columns padding">
     <h1 class="title">Follow Us</h1><hr/>
         <ul>
             <li class="facebook"><a href="#">Facebook</a></li>

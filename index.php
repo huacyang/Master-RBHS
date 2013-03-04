@@ -9,19 +9,19 @@
     
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/bootstrap.css" />
-    <link type="text/css" rel="stylesheet" href="includes/css/normalize.css" />
-    <link type="text/css" rel="stylesheet" href="includes/css/foundation.css" />
-    <link type="text/css" rel="stylesheet" href="includes/css/foundation.ie8.css" />
-    <!--
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
-    -->
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
-    
-    <script type="text/javascript" src="includes/js/custom.modernizr.js"></script>
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <script type="text/javascript" src="includes/js/bootstrap.js"></script>
+    <script type="text/javascript" src="includes/js/home.js"></script>
 </head>
 <body>
 	<div class="row">
-	<div class="large-12 columns" >
+	<div class="twelve columns" >
 	<!-- Includes Header -->	
     <?php include("includes/header.php") ?>
     <!-- Includes Navigation -->
@@ -32,7 +32,7 @@
     <!-- Slideshow
     ====================== -->
     <div class="row">
-    <div class="large-12 columns">
+    <div class="twelve columns">
         <div id="slideshow_area" class="shiftup hide-for-medium-down">
             <!-- Image Slider -->
             <div id="carousel_img" class="carousel slide span9">
@@ -57,11 +57,11 @@
     </div><!-- #end-of-slideshow -->
     
     <div class="row">
-    <div class="large-12 columns bg-white">
+    <div class="twelve columns shiftup_ex bg-white">
         
         <!-- Main Content
         ====================== -->
-        <div class="large-6 push-3 mobile-four columns"><br/>
+        <div class="six push-three mobile-four columns"><br/>
             <h2 class="title">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h2>
             <hr/>
             <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p>
@@ -79,7 +79,7 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div class="large-3 push-3 mobile-four columns">
+        <div class="three push-three mobile-four columns">
         <div class="row"><br/>
             <!-- Panel One -->
             <div class="panel padding">
@@ -106,6 +106,6 @@
     
     <!-- Includes Footer -->
     <?php include("includes/footer.php") ?>
-    <script type="text/javascript" src="includes/js/home.js"></script>
+    
 </body>
 </html>
