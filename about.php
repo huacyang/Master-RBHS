@@ -27,7 +27,7 @@
     </div>
 
     <div class="row">
-    <div class="twelve columns shiftup_ex bg-white">
+    <div id="shifting" class="twelve columns bg-white">
     
     <div class="nine push-three mobile-four columns">
         <!-- Top Banner Area

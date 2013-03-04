@@ -1,5 +1,4 @@
 function create_mobileNav() {
-	if ($(window).width() <= 940 && !document.getElementById("mobile_menu")) {
 		var wrapper = document.getElementById("section-wrapper");
 		var old_nav = document.getElementById("navigation");
 		var new_nav = document.createElement("ul");
@@ -22,7 +21,6 @@ function create_mobileNav() {
 		li.appendChild(old_nav);
 		new_nav.appendChild(li);
 		wrapper.appendChild(new_nav);
-	}
 }
 
 $(window).ready(function(e) {

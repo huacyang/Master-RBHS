@@ -29,7 +29,8 @@ function mobile() {
  */
 function active() {
 	var url = document.URL, index = 0, found = false;
-	var token = url.split("/.-");
+	var token = url.replace(".", "/", "g");
+	token = token.split("/");
 	for(var i = 0; i < token.length; i++) {
 		console.log(token);
 		if (token[i] == "about") {
