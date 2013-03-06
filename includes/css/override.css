@@ -195,7 +195,7 @@ img {
 
 .top-bar ul > li a:not(.button) {
 	font-size:12px;
-	text-decoration:none;}
+	font-weight:100;}
 
 /* =======================
  * Override exisiting ID's
