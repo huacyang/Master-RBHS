@@ -62,11 +62,13 @@
         
         <!-- Main Content
         ====================== -->
-        <div class="six push-three mobile-four columns"><br/>
+        <div id="main" class="six push-three mobile-four columns"><br/>
             <h2 class="title">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h2>
-            <hr/>
-            <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p>
-            <p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p>
+            <p>
+            Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.
+            <br/>
+            No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.
+            </p>
             
             <a href="#"><h5 class="teal">Decore deserunt ne sed, docendi moderatius sit ea. >></h5></a>
             <p>Quas iriure et nam. Vis magna dolor cu?</p>
@@ -81,13 +83,17 @@
         <!-- Right Sidebar
         ====================== -->
         <div class="three push-three mobile-four columns">
-        <div class="row"><br/>
+        <div id="home-rite_sidebar" class="row"><br/>
             <!-- Panel One -->
             <div class="panel padding">
+            <div class="row">
+            <div class="twelve columns">
                 <h1 class="title">Meet the Chancellor</h1>
-                <img src="http://placehold.it/250x150" />
+                <img src="http://placehold.it/200x120" />
                 <h5 class="subheader teal">Eu nibh aliquam nam, esta quidam utroque vertus</h5>
                 <p class="subheader">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
+            </div>
+            </div>
             </div>
             <!-- Panel Two -->
             <div class="panel padding">
