@@ -8,7 +8,7 @@
 	<ul id="mobile_dropdown" class="dropdown">
     -->
         <!-- #menu-item-one -->
-        <li id="home"><a href="index.php">Home</a></li>
+        <li id="home" class="has-dropdown"><a href="index.php">Home</a></li>
         <!-- #menu-item-two -->
         <li id="about" class="has-dropdown">
         <a href="about.php">About RBHS</a>
