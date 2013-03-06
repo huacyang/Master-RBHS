@@ -1,14 +1,14 @@
 Image 1 Title
-includes/slide_img/slide1.jpg
-includes/slide_thumbs/thumb1.jpg
+http://placehold.it/727x330
+http://placehold.it/65x30
 Ut qui assum legere principes. Periculis persequeris pro in. Ne tamquam mandamus voluptatum mea, eam cu esse aperiam saperet. Munere timeam vivendo mel te, an mei graeci definitio nem interpretaris. Modus malis sententiae duo et, has ex instructior conclusion emque.
 
 Image 2 Title
-includes/slide_img/slide2.jpg
-includes/slide_thumbs/thumb2.jpg
+http://placehold.it/727x330
+http://placehold.it/65x30
 Ut qui assum legere principes. Periculis persequeris pro in. Ne tamquam mandamus voluptatum mea, eam cu esse aperiam saperet. Munere timeam vivendo mel te, an mei graeci definitio nem interpretaris. Modus malis sententiae duo et, has ex instructior conclusion emque.
 
 Image 3 Title
-includes/slide_img/slide3.jpg
-includes/slide_thumbs/thumb3.jpg
+http://placehold.it/727x330
+http://placehold.it/65x30
 Ut qui assum legere principes. Periculis persequeris pro in. Ne tamquam mandamus voluptatum mea, eam cu esse aperiam saperet. Munere timeam vivendo mel te, an mei graeci definitio nem interpretaris. Modus malis sententiae duo et, has ex instructior conclusion emque.

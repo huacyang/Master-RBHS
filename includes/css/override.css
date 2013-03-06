@@ -152,12 +152,13 @@ img {
 	color:#d54b5a;
 }
 
-.span3 {
-	width:250px;
+#content_area.span3 {
+	width:253px;
+	height:330px;
 }
 
-.span9 {
-	width:725px;
+#carousel_img.span9 {
+	width:727px;
 }
 
 .twitter {
@@ -210,7 +211,7 @@ img {
 
 #content_inner {
 	width:220px;
-	height:225px;
+	height:243px;
 }
 
 #context a > h5 {
@@ -228,7 +229,17 @@ img {
 
 #carouselnav {
 	float:right;
-	margin-right:10px;
+	margin-right:-9px;
+}
+
+#carouselnav a {
+	margin-right:5px;
+	width:65px;
+	height:30px;
+}
+
+#carouselnav.span3 {
+	width:250px;	
 }
 
 #page-title {
