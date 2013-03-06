@@ -90,6 +90,12 @@ top:0px;
 	margin-left:-13px;
 }
 
+.sidenav-shift {
+ top:-3px;
+margin-left:3px;
+}
+
+
 .small {
 	font-size:13px;
 }
