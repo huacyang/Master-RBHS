@@ -33,7 +33,7 @@
         <!-- Top Banner Area
         ====================== -->
         <div class="twelve"><br/>
-        	<img src="http://placehold.it/702x300">
+        	<img src="http://placehold.it/702x240">
         </div>
         <br/>
         <div class="row">

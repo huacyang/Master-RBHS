@@ -193,6 +193,10 @@ img {
 	color:#f4d96d;
 }
 
+.top-bar ul > li a:not(.button) {
+	font-size:12px;
+	text-decoration:none;}
+
 /* =======================
  * Override exisiting ID's
  * =======================
