@@ -81,6 +81,11 @@
 	margin-top:-33px;
 }
 
+.shift-header {
+position:absolute;
+top:0px;
+}
+
 .shift-tab {
 	margin-left:-13px;
 }

@@ -1285,6 +1285,7 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 
 #hright{
 	float:right;
+	font-size:12px;
 }
 #hleft{
 	float:left;
