@@ -23,10 +23,10 @@
 <body>
 	<div class="row">
 	<div class="twelve columns" >
-	<!-- Includes Header -->	
-    <?php include("includes/header.php") ?>
-    <!-- Includes Navigation -->
-    <?php include("includes/nav.php") ?>
+        <!-- Includes Header -->	
+        <?php include("includes/header.php") ?>
+        <!-- Includes Navigation -->
+        <?php include("includes/nav.php") ?>
     </div>
     </div>
     
@@ -49,7 +49,7 @@
         </div>
         <!-- Mobile Slider -->
         <div class="row">
-            <div id="shifting" class="show-for-medium-down">
+            <div id="shifting" class="show-for-medium-down mobile-four columns">
             
             </div>
         </div>
@@ -66,17 +66,17 @@
             <h2 class="title">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h2>
             <p>
             Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.
-            <br/>
+            <br/><br/>
             No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.
             </p>
-            
-            <a href="#"><h5 class="teal">Decore deserunt ne sed, docendi moderatius sit ea. >></h5></a>
+            <br/>
+            <a href="#">Decore deserunt ne sed, docendi moderatius sit ea. >></a>
             <p>Quas iriure et nam. Vis magna dolor cu?</p>
-            
-            <a href="#"><h5 class="teal">Pri agam paulo graecis at. >></h5></a>
+            <br/>
+            <a href="#">Pri agam paulo graecis at. >></a>
             <p>At tantas philosophia eam, sed vero assentior no.</p>
-            
-            <a href="#"><h5 class="teal">Laboramus maiestatis referrentur est ne. >></h5></a>
+            <br/>
+            <a href="#">Laboramus maiestatis referrentur est ne. >></a>
             <p>Possit integre est an, vivendum praesent complectitur quo ad, te libris vocibus qui.</p>
         </div><!-- #end-of-main-content-area -->
         
@@ -91,7 +91,7 @@
                 <h1 class="title">Meet the Chancellor</h1>
                 <img src="http://placehold.it/200x120" />
                 <h5 class="subheader teal">Eu nibh aliquam nam, esta quidam utroque vertus</h5>
-                <p class="subheader">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
+                <p class="subheader last">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
             </div>
             </div>
             </div>
@@ -100,7 +100,7 @@
                 <h1 class="title">Per primis Causae</h1>
                 <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <h6><a href="#" class="teal right">More »</a></h6>
+                <p class="last more"><a href="#" class="teal">More »</a></p>
             </div>
         </div>
         </div><!-- #end-of-right-sidebar -->

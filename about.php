@@ -29,11 +29,13 @@
     <div class="row">
     <div id="shifting" class="twelve columns bg-white">
     
-    <div class="nine push-three mobile-four columns">
+    <div id="submain" class="nine push-three mobile-four columns">
         <!-- Top Banner Area
         ====================== -->
-        <div class="twelve"><br/>
-        	<img src="http://placehold.it/702x240">
+        <div class="row">
+        <div class="twelve columns"><br/>
+        	<img src="http://placehold.it/720x235" />
+        </div>
         </div>
         <br/>
         <div class="row">
@@ -49,13 +51,13 @@
                 </p>
             <h2>Sed Quis Accusamus Et</h2>
                 <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#"><h5 class="teal">Laboramus maiestatis referrentur est ne. >></h5></a>
+                <p><a href="#">Laboramus maiestatis referrentur est ne. >></a></p>
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
-        <div class="four mobile-four columns">
-        <ul id="side_bar">
+        <div id="side_bar" class="four mobile-four columns">
+        <ul>
             <!-- Panel One -->
             <li class="beige">
             <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
@@ -73,16 +75,14 @@
             <!-- Panel Two -->
             <li class="beige">
             <h2>An Habemus</h2>
-                <h5 class="teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <h5><a href="#" class="teal">More »</a></h5>
+                <p class="last more"><a href="#" class="teal">More »</a></p>
             </li>
             <!-- Panel Three -->
             <li class="beige">
             <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <h5 class="teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <h5><a href="#" class="teal">More »</a></h5>
+                <p class="last more"><a href="#" class="teal">More »</a></p>
             </li>
         </ul>
         </div>

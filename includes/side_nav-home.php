@@ -13,11 +13,11 @@
         </ul>
 	</div>
     <!-- Second Section -->
-    <div class="ten mobile-four columns end padding">
+    <div class="ten mobile-four columns end padding socialmedia">
     <h1 class="title">Follow Us</h1>
         <ul>
-            <li class="facebook"><a href="#">Facebook</a></li>
-            <li class="twitter"><a href="#">Twitter</a></li>
+            <li><a href="#"><img src="includes/img/facebook.jpg" />Facebook</a></li>
+            <li><a href="#"><img src="includes/img/twitter.jpg" />Twitter</a></li>
         </ul>
 	</div>
 </div>

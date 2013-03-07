@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Rutgers | Biomedical and Health Science - About</title>
+	<title>Rutgers | Health - About</title>
 
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
@@ -29,16 +29,18 @@
     <div class="row">
     <div id="shifting" class="twelve columns bg-white">
     
-    <div class="nine push-three mobile-four columns">
+    <div id="submain" class="nine push-three mobile-four columns">
         <!-- Top Banner Area
         ====================== -->
-        <div class="twelve"><br/>
-        	<img src="http://placehold.it/702x300">
+        <div class="row">
+        <div class="twelve columns"><br/>
+        	<img src="http://placehold.it/720x235" />
+        </div>
         </div>
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">Care</h1>
+            <h1 id="page-title">Patient Care</h1>
                 <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
             <h2>Probo Tacimates</h2>
                 <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
@@ -49,13 +51,13 @@
                 </p>
             <h2>Sed Quis Accusamus Et</h2>
                 <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#"><h5 class="teal">Laboramus maiestatis referrentur est ne. >></h5></a>
+                <p><a href="#">Laboramus maiestatis referrentur est ne. >></a></p>
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
-        <div class="four mobile-four columns">
-        <ul id="side_bar">
+        <div id="side_bar" class="four mobile-four columns">
+        <ul>
             <!-- Panel One -->
             <li class="beige">
             <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
@@ -73,16 +75,14 @@
             <!-- Panel Two -->
             <li class="beige">
             <h2>An Habemus</h2>
-                <h5 class="teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <h5><a href="#" class="teal">More »</a></h5>
+                <p class="last more"><a href="#" class="teal">More »</a></p>
             </li>
             <!-- Panel Three -->
             <li class="beige">
             <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <h5 class="teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
                 <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <h5><a href="#" class="teal">More »</a></h5>
+                <p class="last more"><a href="#" class="teal">More »</a></p>
             </li>
         </ul>
         </div>

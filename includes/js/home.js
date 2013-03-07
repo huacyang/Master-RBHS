@@ -55,7 +55,7 @@ function mobile() {
 }
 
 function active() {
-	document.getElementById("home").className = "has-dropdown active";
+	document.getElementById("home").className = "active";
 }
 
 $(window).load(function(){
