@@ -24,7 +24,7 @@
 	<div class="row">
 	<div class="twelve columns" >
         <!-- Includes Header -->	
-        <?php include("includes/header.php") ?>
+        <?php include("images/header.php") ?>
         <!-- Includes Navigation -->
         <?php include("includes/nav.php") ?>
     </div>
@@ -89,7 +89,7 @@
             <div class="row">
             <div class="twelve columns">
                 <h1 class="title">Meet the Chancellor</h1>
-                <img src="http://placehold.it/200x120" />
+                <img src="images/sm_image_FPO.jpg" />
                 <h5 class="subheader teal">Eu nibh aliquam nam, esta quidam utroque vertus</h5>
                 <p class="subheader last">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
             </div>

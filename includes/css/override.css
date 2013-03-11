@@ -221,27 +221,31 @@ footer p {
 	background-color:#36312A;}
 
 .top-bar ul > li a:hover {
-background-color:#7D756B;
-color:#f4d96d;}
+	background-color:#7D756B;
+	color:#f4d96d;}
 	
 .top-bar ul > li.has-dropdown a {
 	padding-right:28px;
-	padding-left:29.5px;
-}
+	padding-left:29.5px;}
 
 .top-bar ul > li.has-dropdown a:after {
 	border-style:none;
+	background-color:#7D756B;}
+	
+.top-bar ul > li.has-dropdown .dropdown li a:after {
 	background-color:#7D756B;
-}
+	color:#ffffff;
+	padding-top:4px;}
+	
 .top-bar ul > li:not(.name).active a { 
 	background-color:#7D756B;
 	color:#F4D96D;}
-
-.top-bar ul > li:not(.name).active a.no-active { 
-	background-color:#36312A;
-	color:#ffffff;}
 	
-.top-bar ul > li:not(.name):hover a.change-hover { color:#F4D96D; }
+.top-bar ul > li:not(.name):hover a.change-hover { color:#F4D96D;}
+.top-bar ul > li.active-parent > a {
+    background: none repeat scroll 0 0 #7D756B;
+    cursor: pointer;
+}
 
 /* =======================
  * Override exisiting ID's

@@ -20,7 +20,7 @@
 	<div class="row">
 	<div class="twelve columns" >
         <!-- Includes Header -->	
-        <?php include("includes/header.php") ?>
+        <?php include("images/header.php") ?>
         <!-- Includes Navigation -->
         <?php include("includes/nav.php") ?>
     </div>
@@ -34,7 +34,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="http://placehold.it/720x235" />
+        	<img src="images/landing_fpo.jpg" />
         </div>
         </div>
         <br/>

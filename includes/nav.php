@@ -7,8 +7,9 @@
 	<a id="mobile_header" href="#"><img src="includes/img/bars.jpg" /></a>
 	<ul id="mobile_dropdown" class="dropdown">
     -->
+
         <!-- #menu-item-one -->
-        <li id="home"><a href="index.php" class="no-active change-hover">Home</a></li>
+		<li id="home" ><a class="change-hover no-active" href="index.php">Home</a></li>   
         <!-- #menu-item-two -->
         <li id="about" class="has-dropdown">
         <a href="about.php">About</a>
