@@ -4,7 +4,7 @@
     <ul id="navigation" class="left nav-cover">
     <!--
 	<li id="mobile_menu" class="has-dropdown">
-	<a id="mobile_header" href="#"><img src="includes/img/bars.jpg" /></a>
+	<a id="mobile_header" href="#"><img src="images/img/bars.jpg" /></a>
 	<ul id="mobile_dropdown" class="dropdown">
     -->
 

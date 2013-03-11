@@ -1257,7 +1257,7 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 /** Custom **/
 
 #top {
-    background: url("img/header_bg.gif") no-repeat scroll 0 0 transparent;
+    background: url("../img/header_bg.gif") no-repeat scroll 0 0 transparent;
     height: 28px;
     padding-top: 4px;
 	width:100%
@@ -1292,7 +1292,7 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 }
 
 #masthead {
-    background: url("img/banner_red.jpg") no-repeat scroll 0 0 transparent;
+    background: url("../img/banner_red.jpg") no-repeat scroll 0 0 transparent;
     height: 95px !important;
     position: relative;
 	padding:25px;

@@ -20,7 +20,7 @@
 	<div class="row">
 	<div class="twelve columns" >
         <!-- Includes Header -->	
-        <?php include("images/header.php") ?>
+        <?php include("includes/header.php") ?>
         <!-- Includes Navigation -->
         <?php include("includes/nav.php") ?>
     </div>
