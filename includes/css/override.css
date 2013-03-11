@@ -221,7 +221,11 @@ footer p {
 	font-weight:500;
 	padding-left:50px;
 	padding-right:29.5px;
-	text-decoration:none;}
+	text-decoration:none;
+	background color:#7D756B;}
+
+.top-bar ul > li a:hover {color:#FFFFFF;}
+	
 .top-bar ul > li.has-dropdown a {
 	padding-right:28px;
 	padding-left:29.5px;
