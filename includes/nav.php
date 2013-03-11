@@ -1,7 +1,7 @@
     <div class="row">
     <nav class="top-bar">
     <section id="section-wrapper">
-    <ul id="navigation" class="left">
+    <ul id="navigation" class="left nav-cover">
     <!--
 	<li id="mobile_menu" class="has-dropdown">
 	<a id="mobile_header" href="#"><img src="includes/img/bars.jpg" /></a>

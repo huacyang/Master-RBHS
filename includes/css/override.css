@@ -150,7 +150,7 @@ footer p {
 .top-bar ul > li.has-dropdown .dropdown li a { padding:10 0 0 0px; text-align:center;text-decoration:none;}
 .top-bar ul > li.has-dropdown .dropdown li:hover a  { text-decoration:none;}
 .top-bar ul > li.has-dropdown:hover a, .top-bar ul > li.has-dropdown .dropdown li:hover a { text-decoration:none;}
-.top-bar ul > li:not(.name):hover a, .top-bar ul > li:not(.name).active a, .top-bar ul > li:not(.name):focus a { color: #d9d9d9; }
+.top-bar ul > li:not(.name):hover a, .top-bar ul > li:not(.name).active a, .top-bar ul > li:not(.name):focus a { color: #ffffff; }
 
 .nav-bar.vertical > li {
 	border-left-style:none;
@@ -191,17 +191,13 @@ footer p {
 
 .top-bar {
 	background-color:#36312a;
+	 padding-left:30px;
 }
 
 .top-bar ul li {
 	list-style:none none;
 	background-color:#36312a;
 	margin:0 0 0;
-}
-
-.top-bar ul > li.has-dropdown a:after {
-	border-style:none;
-	background-color:#7D756B;
 }
 
 .top-bar ul > li a:hover, 
@@ -215,21 +211,28 @@ footer p {
 .top-bar ul > li.has-dropdown .dropdown li:hover a {
 	color:#f4d96d;
 }
-
 .top-bar ul > li a:not(.button) {
 	font-size:12px;
 	font-weight:500;
-	padding-left:50px;
+	padding-left:20px;
 	padding-right:29.5px;
 	text-decoration:none;
-	background color:#7D756B;}
+	background-color:#36312A;}
 
-.top-bar ul > li a:hover {color:#FFFFFF;}
+.top-bar ul > li a:hover {
+background-color:#7D756B;
+color:#f4d96d;}
 	
 .top-bar ul > li.has-dropdown a {
 	padding-right:28px;
 	padding-left:29.5px;
 }
+
+.top-bar ul > li.has-dropdown a:after {
+	border-style:none;
+	background-color:#7D756B;
+}
+
 /* =======================
  * Override exisiting ID's
  * =======================
