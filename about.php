@@ -63,11 +63,11 @@
             <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
                 <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
                 <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" class="teal">et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" class="teal">te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" class="teal">etiam adipisci</a>.</li>
+                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
+                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
+                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
                     <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" class="teal">Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
+                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
                     <li>Eos vero autem theophrastus.</li>
                 </ul>
                 <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
@@ -76,13 +76,13 @@
             <li class="beige">
             <h2>An Habemus</h2>
                 <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <p class="last more"><a href="#" class="teal">More »</a></p>
+                <p class="last more"><a href="#" >More »</a></p>
             </li>
             <!-- Panel Three -->
             <li class="beige">
             <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
                 <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <p class="last more"><a href="#" class="teal">More »</a></p>
+                <p class="last more"><a href="#" >More »</a></p>
             </li>
         </ul>
         </div>
