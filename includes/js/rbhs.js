@@ -24,6 +24,10 @@ function mobile() {
 	}
 }
 
+function active_about() {
+	document.getElementById("side_about").className = "active";
+}
+
 /*
  * Function for setting the corresponding tab on the navigation bar active
  */
@@ -34,6 +38,7 @@ function active() {
 	for(var i = 0; i < token.length; i++) {
 		if (token[i] == "about") {
 			document.getElementById("about").className = "has-dropdown active";
+			active_about();
 			break;
 		} else if (token[i] == "academics") {
 			document.getElementById("academics").className = "has-dropdown active";

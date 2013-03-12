@@ -82,8 +82,8 @@
 }
 
 .shift-header {
-position:absolute;
-top:0px;
+	position:absolute;
+	top:0px;
 }
 
 .shift-tab {
@@ -91,10 +91,9 @@ top:0px;
 }
 
 .sidenav-shift {
- top:-3px;
-margin-left:3px;
+	margin-top:-3px;
+	margin-left:3px;
 }
-
 
 .small {
 	font-size:13px;
@@ -104,6 +103,13 @@ margin-left:3px;
 	font-size:11px;
 }
 
+.subhead {
+	color:#017ea5;
+	font-weight:bold;
+	margin:0 0 12px;
+	margin-left:20px;
+}
+
 .padding {
 	padding:13px;
 }
@@ -111,7 +117,6 @@ margin-left:3px;
 .margin {
     margin-bottom: 3px;
 }
-
 
 .wrapper {
 	width:190px;
