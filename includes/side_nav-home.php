@@ -2,7 +2,7 @@
 <div class="row">
 	<!-- First Section -->
     <div class="ten mobile-four columns end padding">
-    <h1 class="title">Quick Links</h1>
+    <h2 class="title">Quick Links</h2>
         <ul class="bullets-green">
             <li><a href="#">Sea Decore Omnium</a></li>
             <li><a href="#">Ei Quando Numquam</a></li>
@@ -14,7 +14,7 @@
 	</div>
     <!-- Second Section -->
     <div class="ten mobile-four columns end padding socialmedia">
-    <h1 class="title">Follow Us</h1>
+    <h2 class="title">Follow Us</h2>
         <ul>
             <li><a href="#"><img src="includes/img/facebook.jpg" />Facebook</a></li>
             <li><a href="#"><img src="includes/img/twitter.jpg" />Twitter</a></li>

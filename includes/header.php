@@ -9,7 +9,7 @@
         </ul>
     </div>
     <div id="hright">
-    University search
+    University Search
     </div>
 	</div>
 

@@ -6,7 +6,7 @@ function create_mobileNav() {
 	var a = document.createElement("a");
 	var img = document.createElement("img");
 	
-	img.src = "images/img/bars.jpg";
+	img.src = "includes/img/bars.jpg";
 	a.id = "mobile_header";
 	a.href = "#";
 	li.id = "mobile_menu";
@@ -21,7 +21,6 @@ function create_mobileNav() {
 	li.appendChild(old_nav);
 	new_nav.appendChild(li);
 	wrapper.appendChild(new_nav);
-	console.log(wrapper);
 }
 
 $(window).ready(function(e) {

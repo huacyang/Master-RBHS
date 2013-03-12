@@ -1,14 +1,21 @@
+// Format: Fill in the following, empty spaces MATTERS!
+// Step 1: [Insert image title]
+// Step 2: [Insert image url]
+// Step 3: [Insert image link]
+// Step 4: [Insert image text, all in ONE line]
+// Step 5: [Insert empty space, repeat step 1]
+
 Image 1 Title
 images/slide_img/slide1.jpg
-images/slide_img/slide1.jpg
+#
 Ut qui assum legere principes. Periculis persequeris pro in. Ne tamquam mandamus voluptatum mea, eam cu esse aperiam saperet. Munere timeam vivendo mel te, an mei graeci definitio nem interpretaris. Modus malis sententiae duo et, has ex instructior conclusion emque.
 
 Image 2 Title
 images/slide_img/slide2.jpg
-images/slide_img/slide2.jpg
+#
 Ut qui assum legere principes. Periculis persequeris pro in. Ne tamquam mandamus voluptatum mea, eam cu esse aperiam saperet. Munere timeam vivendo mel te, an mei graeci definitio nem interpretaris. Modus malis sententiae duo et, has ex instructior conclusion emque.
 
 Image 3 Title
 images/slide_img/slide3.jpg
-images/slide_img/slide3.jpg
+#
 Ut qui assum legere principes. Periculis persequeris pro in. Ne tamquam mandamus voluptatum mea, eam cu esse aperiam saperet. Munere timeam vivendo mel te, an mei graeci definitio nem interpretaris. Modus malis sententiae duo et, has ex instructior conclusion emque.

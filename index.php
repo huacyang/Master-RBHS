@@ -17,7 +17,7 @@
     <script type="text/javascript" src="includes/js/jquery-json.js"></script>
     <script type="text/javascript" src="includes/js/templates.js"></script>
     <script type="text/javascript" src="includes/js/bootstrap.js"></script>
-    <!--[if (gt IE 8)|!(IE)]><!--><script type="text/javascript" src="includes/js/ie8.js"></script><!--<![endif]-->
+    <!--[if (gt IE 8)|!(IE)]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
     <script type="text/javascript" src="includes/js/home.js"></script>
 </head>
 <body>
@@ -63,20 +63,18 @@
         <!-- Main Content
         ====================== -->
         <div id="main" class="six push-three mobile-four columns"><br/>
-            <h2 class="title">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h2>
+            <h1 class="title">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h1>
             <p>
             Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.
-            <br/><br/>
+            </p>
+            <p>
             No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.
             </p>
-            <br/>
-            <a href="#">Decore deserunt ne sed, docendi moderatius sit ea. >></a>
+            <a href="#">Decore deserunt ne sed, docendi moderatius sit ea. </a><img src="includes/img/arrow-blue.gif" alt=""/>
             <p>Quas iriure et nam. Vis magna dolor cu?</p>
-            <br/>
-            <a href="#">Pri agam paulo graecis at. >></a>
+            <a href="#">Pri agam paulo graecis at. </a><img src="includes/img/arrow-blue.gif" alt=""/>
             <p>At tantas philosophia eam, sed vero assentior no.</p>
-            <br/>
-            <a href="#">Laboramus maiestatis referrentur est ne. >></a>
+            <a href="#">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
             <p>Possit integre est an, vivendum praesent complectitur quo ad, te libris vocibus qui.</p>
         </div><!-- #end-of-main-content-area -->
         
@@ -88,19 +86,19 @@
             <div class="panel padding">
             <div class="row">
             <div class="twelve columns">
-                <h1 class="title">Meet the Chancellor</h1>
+                <h2 class="title">Meet the Chancellor</h2>
                 <img src="images/sm_image_FPO.jpg" />
-                <h5 class="subheader teal">Eu nibh aliquam nam, esta quidam utroque vertus</h5>
-                <p class="subheader last">Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
+                <a>Eu nibh aliquam nam, esta quidam utroque vertus</a>
+                <p>Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
             </div>
             </div>
             </div>
             <!-- Panel Two -->
             <div class="panel padding">
-                <h1 class="title">Per primis Causae</h1>
-                <h5 class="subheader teal">Mundi habemus facilisi vix at, at quo eligendi.</h5>
-                <p class="subheader">Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <p class="last more"><a href="#" class="teal">More »</a></p>
+                <h2 class="title">Per primis Causae</h2>
+                <a>Mundi habemus facilisi vix at, at quo eligendi.</a>
+                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+                <p class="more"><a href="#">More &gt;</a></p>
             </div>
         </div>
         </div><!-- #end-of-right-sidebar -->
