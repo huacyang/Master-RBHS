@@ -125,6 +125,7 @@ footer p {
 
 .more {
 	text-align:right;
+	padding-top:12px;
 }
 
 .last.more a {
@@ -174,11 +175,12 @@ footer p {
 
 #content_area.span3 {
 	width:253px;
-	height:330px;
+	height:329px;
 }
 
 #carousel_img.span9 {
 	width:727px;
+	height:329px;
 }
 
 .panel {
@@ -354,10 +356,16 @@ footer p {
 	padding-bottom:8px;
 }
 
-#main a, #submain a {
-	font-size:12px;
+#main a {
+	font-size:14px;
 	font-weight:bold;
-	color:#127696;
+	color:#017ea5;
+}
+
+#submain a {
+	font-size:14px;
+	font-weight:bold;
+	color:#017ea5;
 }
 
 #main p {
