@@ -15,12 +15,16 @@
         <a href="about.php">About</a>
             <ul class="dropdown">
                 <li><a href="about.php">About RU Health</a></li>
+                <li><a href="#">Dropdown Option</a></li>
+                <li><a href="#">Dropdown Option</a></li>
             </ul>
         </li>
         <!-- #menu-item-three -->
         <li id="academics" class="has-dropdown">
         <a href="academics.php">Academics</a>
             <ul class="dropdown">
+                <li><a href="#">Dropdown Option</a></li>
+                <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
         </li>
@@ -44,7 +48,7 @@
         <li id="news" class="has-dropdown">
         <a href="news.php">News</a>
             <ul class="dropdown">
-                <li><a href="#" class="">Dropdown Level 1</a></li>
+                <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
@@ -53,7 +57,7 @@
         <li id="research" class="has-dropdown">
         <a href="research.php">Research</a>
             <ul class="dropdown">
-                <li><a href="#" class="">Dropdown Level 1</a></li>
+                <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
@@ -62,7 +66,7 @@
         <li id="information" class="has-dropdown">
         <a href="information.php">Information For</a>
             <ul class="dropdown">
-                <li><a href="#" class="">Dropdown Level 1</a></li>
+                <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
                 <li><a href="#">Dropdown Option</a></li>
             </ul>

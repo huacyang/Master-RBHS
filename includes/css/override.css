@@ -205,8 +205,8 @@ footer p {
 	margin:0 0 0;
 }
 
-.top-bar ul.dropdown > li a {
-	margin-top:5px;
+.top-bar ul > li.has-dropdown .dropdown li a {
+	margin-bottom:-8px;
 }
 
 .top-bar ul > li a:hover, 
@@ -228,6 +228,10 @@ footer p {
 	padding-left:19px;
 	padding-right:29.5px;
 	text-decoration:none;
+}
+
+.top-bar ul > li.has-dropdown .dropdown li a:not(.button) {
+	font-size:10px;
 }
 
 .top-bar ul > li a:hover {
