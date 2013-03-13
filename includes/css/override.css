@@ -151,7 +151,7 @@ footer p {
 .top-bar ul > li.has-dropdown .dropdown li a { padding:10 0 0 0px; text-align:center;text-decoration:none;}
 .top-bar ul > li.has-dropdown .dropdown li:hover a  { text-decoration:none;}
 .top-bar ul > li.has-dropdown:hover a, .top-bar ul > li.has-dropdown .dropdown li:hover a { text-decoration:none;}
-.top-bar ul > li:not(.name):focus a, .top-bar ul > li:not(.name):hover a { color:#ffffff; }
+.top-bar ul > li:not(.name):hover a, .top-bar ul > li:not(.name).active a, .top-bar ul > li:not(.name):focus a { color: #ffffff; }
 
 .nav-bar.vertical {
 	background-color:#FFF;
@@ -205,6 +205,10 @@ footer p {
 	margin:0 0 0;
 }
 
+.top-bar ul.dropdown > li a {
+	margin-top:5px;
+}
+
 .top-bar ul > li a:hover, 
 .top-bar ul > li.has-dropdown:hover,
 .top-bar ul > li.has-dropdown .dropdown,
@@ -216,13 +220,14 @@ footer p {
 .top-bar ul > li.has-dropdown .dropdown li:hover a {
 	color:#f4d96d;
 }
+
 .top-bar ul > li a:not(.button) {
 	font-size:12px;
 	font-weight:500;
-	padding-left:20px;
+	padding-left:19px;
 	padding-right:29.5px;
 	text-decoration:none;
-	background-color:#36312A;}
+}
 
 .top-bar ul > li a:hover {
 	background-color:#7D756B;
@@ -230,7 +235,8 @@ footer p {
 	
 .top-bar ul > li.has-dropdown a {
 	padding-right:28px;
-	padding-left:29.5px;}
+	padding-left:29.5px;
+}
 
 .top-bar ul > li.has-dropdown a:after {
 	border-style:none;
@@ -242,22 +248,18 @@ footer p {
 	padding-top:10px;
 	font-size:4px;}
 	
+
 .top-bar ul > li:not(.name).active a { 
 	background-color:#7D756B;
-	color:#F4D96D;}
+	color:#F4D96D;
+}
 	
-.top-bar ul > li:not(.name):hover a.change-hover { color:#F4D96D;}
 .top-bar ul > li.active-parent > a {
     background: none repeat scroll 0 0 #7D756B;
     cursor: pointer;
 }
 .top-bar ul > li.has-dropdown .dropdown li {
 	padding-bottom:0px;}
-	
-.top-bar ul > li.active:not(.name) a.no-active {
-	color:#FFFFFF;
-	background-color:#36312A;
-}
 
 /* =======================
  * Override exisiting ID's
