@@ -214,6 +214,7 @@ footer p {
 .top-bar ul > li.has-dropdown .dropdown,
 .top-bar ul > li.has-dropdown .dropdown li {
 	background-color:#7D756B;
+	height:30px;
 }
 
 .top-bar ul > li.has-dropdown:hover a,
