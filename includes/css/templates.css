@@ -1258,8 +1258,7 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 
 #top {
     background: url("../img/header_bg.gif") no-repeat scroll 0 0 transparent;
-    height: 28px;
-    padding-top: 4px;
+    height: 32px;
 	width:100%
 }
 #top a {
@@ -1286,6 +1285,7 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 #hright{
 	float:right;
 	font-size:12px;
+	padding-top:10px;
 }
 #hleft{
 	float:left;

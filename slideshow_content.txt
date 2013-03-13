@@ -9,12 +9,10 @@ Image 1 Title
 images/slide_img/slide1.jpg
 #
 Ut qui assum legere principes. Periculis persequeris pro in. Ne tamquam mandamus voluptatum mea, eam cu esse aperiam saperet. Munere timeam vivendo mel te, an mei graeci definitio nem interpretaris. Modus malis sententiae duo et, has ex instructior conclusion emque.
-
 Image 2 Title
 images/slide_img/slide2.jpg
 #
 Ut qui assum legere principes. Periculis persequeris pro in. Ne tamquam mandamus voluptatum mea, eam cu esse aperiam saperet. Munere timeam vivendo mel te, an mei graeci definitio nem interpretaris. Modus malis sententiae duo et, has ex instructior conclusion emque.
-
 Image 3 Title
 images/slide_img/slide3.jpg
 #

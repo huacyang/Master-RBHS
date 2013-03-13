@@ -98,7 +98,7 @@
                 <h2 class="title">Per primis Causae</h2>
                 <a>Mundi habemus facilisi vix at, at quo eligendi.</a>
                 <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-                <p class="more"><a href="#">More &gt;</a></p>
+                <!--<p class="more"><a href="#">More &gt;</a></p>-->
             </div>
         </div>
         </div><!-- #end-of-right-sidebar -->

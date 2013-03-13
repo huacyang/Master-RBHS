@@ -83,8 +83,11 @@
 
 .shift-header {
 	position:absolute;
-	top:0px;
+	top:2px;
 }
+
+.shift-header li a { 
+	font-size:12px; }
 
 .shift-tab {
 	margin-left:-13px;
