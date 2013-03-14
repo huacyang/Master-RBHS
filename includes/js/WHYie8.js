@@ -7,4 +7,5 @@ function shiftup() {
 
 $(window).ready(function(e) {
 	shiftup();
+	console.log("WHY ie8?!");
 });
