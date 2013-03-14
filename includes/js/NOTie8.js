@@ -21,6 +21,7 @@ function create_mobileNav() {
 	li.appendChild(old_nav);
 	new_nav.appendChild(li);
 	wrapper.appendChild(new_nav);
+	console.log("NOT IE8");
 }
 
 $(window).ready(function(e) {
