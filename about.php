@@ -9,17 +9,17 @@
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
     <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
     <script type="text/javascript" src="includes/js/jquery.js"></script>
     <script type="text/javascript" src="includes/js/jquery-json.js"></script>
     <script type="text/javascript" src="includes/js/templates.js"></script>
     <!--[if (gt IE 8)|!(IE)]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
     <script type="text/javascript" src="includes/js/rbhs.js"></script>
-    <script type="text/javascript" src="includes/js/modernizr.js"></script>
 
 </head>
 <body>
 	<div class="row">
-	<div class="twelve columns" >
+	<div id="header" class="twelve columns" >
         <!-- Includes Header -->	
         <?php include("includes/header.php") ?>
         <!-- Includes Navigation -->

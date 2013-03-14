@@ -3,7 +3,7 @@
 // Step 2: [Insert image url]
 // Step 3: [Insert image link]
 // Step 4: [Insert image text, all in ONE line]
-// Step 5: [Insert empty space, repeat step 1]
+// Step 5: [Insert empty space (optional, for better readability), repeat step 1]
 
 Image 1 Title
 images/slide_img/slide1.jpg
