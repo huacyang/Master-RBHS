@@ -19,6 +19,7 @@
     <script type="text/javascript" src="includes/js/bootstrap.js"></script>
     <!--[if (gt IE 8)|!(IE)]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
     <script type="text/javascript" src="includes/js/home.js"></script>
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
 </head>
 <body>
 	<div class="row">
