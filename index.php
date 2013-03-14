@@ -26,7 +26,7 @@
 </head>
 <body>
 	<!--[if IE]><h2>You're using IE</h2><![endif]-->
-    <!--[if !(IE)]--><h2>You're not using IE</h2><!--[endif]-->
+    <!--[if !(IE)]>--><h2>You're not using IE</h2><!--<[endif]-->
 	<div class="row">
 	<div class="twelve columns" >
         <!-- Includes Header -->	
