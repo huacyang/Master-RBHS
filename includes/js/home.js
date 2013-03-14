@@ -5,7 +5,6 @@ function randomize() {
 	var shifting = document.getElementById("shifting");
 	var img = document.createElement("img");
 	var randomly = Math.floor(Math.random() * randomimages.length);
-	console.log(randomly);
 	img.src = randomimages[randomly];
 	shifting.removeChild(shifting.lastChild);
 	shifting.appendChild(img);
@@ -17,7 +16,7 @@ function randomize() {
  *  depending on the wide of the browser
  */
 function mobile() {
-	console.log("Windows width: " + $(window).width());
+	//console.log("Windows width: " + $(window).width());
 	var menu = $('#mobile_menu');
 	var header = $('#mobile_header');
 	var dropdown = $('#mobile_dropdown');
@@ -25,7 +24,7 @@ function mobile() {
 	var slideshow_area = $('#slideshow_area');
 	
 	if ($(window).width() <= 1000 && !menu.hasClass('has-dropdown')) {
-		console.log("Mobile");
+		//console.log("Mobile");
 		menu.addClass('has-dropdown');
 		dropdown.addClass('dropdown');
 		header.addClass('show-for-medium-down');
@@ -36,7 +35,7 @@ function mobile() {
 		slideshow_area.addClass('hide-for-medium-down');
 		randomize();
 	} else if ($(window).width() > 1000 && menu.hasClass('has-dropdown')) {
-		console.log("Full Screen");
+		//console.log("Full Screen");
 		menu.removeClass('has-dropdown');
 		dropdown.removeClass('dropdown');
 		header.removeClass('show-for-medium-down');
@@ -145,12 +144,6 @@ $(window).ready(function(e) {
 			continue;
 		} else {
 			i = i+4;
-			
-			console.log("img_title: " + img_title);
-			console.log("img_url: " + img_url);
-			console.log("img_link: " + img_link);
-			console.log("img_content: " + img_content);
-			
 			append_content(first, "image", link_img(img_url, img_link, null), null);
 			append_content(first, "content", create_tag("h4", img_title), create_tag("p", img_content));
 			append_atag(first, link_img(img_url, null, count));

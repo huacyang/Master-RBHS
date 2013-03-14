@@ -8,14 +8,14 @@ function mobile() {
 	var dropdown = $('#mobile_dropdown');
 	var shifting = $('#shifting');
 	if ($(window).width() <= 940 && !menu.hasClass('has-dropdown')) {
-		console.log("Mobile");
+		//console.log("Mobile");
 		menu.addClass('has-dropdown');
 		dropdown.addClass('dropdown');
 		header.addClass('show-for-medium-down');
 		header.removeClass('show-for-small');
 		shifting.removeClass('shiftup');
 	} else if ($(window).width() >= 940 && menu.hasClass('has-dropdown')) {
-		console.log("Full Screen");
+		//console.log("Full Screen");
 		menu.removeClass('has-dropdown');
 		dropdown.removeClass('dropdown');
 		header.removeClass('show-for-medium-down');
