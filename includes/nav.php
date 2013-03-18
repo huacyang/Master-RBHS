@@ -15,7 +15,7 @@
         <a href="about.php">About</a>
             <ul class="dropdown">
                 <li><a href="about.php">About RU Health</a></li>
-                <li><a href="#">Dropdown Option</a></li>
+                <li><a href="#">Dropdown</a></li>
                 <li><a href="#">Dropdown Option</a></li>
             </ul>
         </li>

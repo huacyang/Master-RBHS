@@ -19,14 +19,11 @@
     <script type="text/javascript" src="includes/js/jquery.js"></script>
     <script type="text/javascript" src="includes/js/jquery-json.js"></script>
     <script type="text/javascript" src="includes/js/templates.js"></script>
-    <script type="text/javascript" src="includes/js/bootstrap.js"></script>
     <!--[if !(IE)]>--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<[endif]-->
     <!--[if IE]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
     <script type="text/javascript" src="includes/js/home.js"></script>
 </head>
 <body>
-	<!--[if IE]><h2>You're using IE</h2><![endif]-->
-    <!--[if !(IE)]>--><h2>You're not using IE</h2><!--<[endif]-->
 	<div class="row">
 	<div class="twelve columns" >
         <!-- Includes Header -->	
