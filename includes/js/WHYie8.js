@@ -8,6 +8,8 @@ function shiftup() {
 	if (content) {
 		content.className = "twelve columns bg-white shifting"
 	}
+	
+	document.getElementById("WHYie").innerHTML = "Test: This is IE";
 }
 
 $(window).ready(function(e) {
