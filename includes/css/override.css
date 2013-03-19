@@ -55,7 +55,7 @@ h5 {
 h1.title {
 	color:#990000;
 	padding-bottom:8px;
-	border-bottom:dotted 1px black;
+	border-bottom:dotted 1px #a4a4a4;
 	margin:0 0 8px;
 }
 
@@ -101,8 +101,10 @@ footer p {
 	margin-left:5px;
 }
 
-.carousel-nav a.active {
+.carousel-nav a.active img {
 	border:3px solid #f9cc33;
+	height:30px;
+	width:100px;
 }
 
 .socialmedia h1 {
@@ -148,7 +150,7 @@ footer p {
 .top-bar ul > li.has-dropdown .dropdown li:last-child { padding-bottom: 0px;}
 .top-bar ul > li.has-dropdown .dropdown { padding:0px;}
 .top-bar ul { min-height: 30px; line-height: 30px; height: 30px; }
-.top-bar ul > li.has-dropdown .dropdown li a { padding:10 0 0 0px; text-align:center;text-decoration:none;}
+.top-bar ul > li.has-dropdown .dropdown li a { padding:10 0 0 0px;text-decoration:none;}
 .top-bar ul > li.has-dropdown .dropdown li:hover a  { text-decoration:none;}
 .top-bar ul > li.has-dropdown:hover a, .top-bar ul > li.has-dropdown .dropdown li:hover a { text-decoration:none;}
 .top-bar ul > li:not(.name):hover a, .top-bar ul > li:not(.name).active a, .top-bar ul > li:not(.name):focus a { color: #ffffff; }
@@ -180,11 +182,11 @@ footer p {
 
 #carousel_img.span9 {
 	width:727px;
-	height:329px;
+	height:330px;
 }
 
 .panel {
-	background-color:#eeefdd;
+	background-color:#ebeee1;
 }
 
 .row { 
@@ -317,6 +319,7 @@ footer p {
 
 #home-rite_sidebar .panel {
 	width:97%;
+	border:none;
 }
 
 #home-rite_sidebar .panel+.panel {
@@ -326,7 +329,7 @@ footer p {
 #home-rite_sidebar .panel h2 {
 	color:#D7652E;
 	margin-top:-6px;
-	margin-bottom:10px;
+	margin-bottom:6px;
 }
 
 #home-rite_sidebar .panel img {
@@ -341,11 +344,11 @@ footer p {
 	font-weight:700;
 	margin:14px 0 0;
 	margin-bottom:-1px;
-	line-height:19.2px;
+	line-height:18px;
 }
 
 #home-rite_sidebar p {
-	line-height:19.2px;
+	line-height:18px;
 	margin-bottom:-5px;
 	font-weight:400;
 	font-family:Verdana, Geneva, sans-serif;
@@ -363,7 +366,7 @@ footer p {
 	font-size:22px;
 	font-weight:500;
 	line-height:25px;
-	border-bottom:dotted 1px black;
+	border-bottom:dotted 1px #a4a4a4;
 	padding-bottom:8px;
 }
 
@@ -436,11 +439,11 @@ footer p {
 
 #side_bar li ul li {
 	padding:0 0 0.25em 0.25em;
-	margin-left:-5px;
+	margin-left:10px;
 	margin-bottom:0px;
 	line-height:15px;
 	list-style-type:disc;
-	list-style-position:inside;
+	list-style-position:outside;
 }
 
 #side_bar ul li h2 {
@@ -483,7 +486,7 @@ footer p {
 
 #side_bar-home h2 {
 	font-size:20px;
-	border-bottom:dotted 1px black;
+	border-bottom:dotted 1px #a4a4a4;
 	padding-bottom:8px;
 }
 
@@ -510,9 +513,9 @@ footer p {
 
 #side_nav ul > li a:hover,
 .nav-bar.vertical > li.active {
-	background:#f7efc9;
+	background:#f6f7f2;
 	border-right-color:#f7efc9;
-	color:#b48c00;
+	color:#d01133;
 }
 
 #side_nav h2 {
@@ -544,6 +547,10 @@ footer p {
 	margin-top:-5px;
 }
 
+#side_nav .panel .row:last-child {
+	margin-bottom:-15px;
+}
+
 #side_nav .panel > h2 {
 	color:#B86F2B;
 	font-size:12px;
@@ -564,4 +571,8 @@ footer p {
 #submain {
 	width:77%;
 	padding-bottom:50px;
+}
+
+#submain #context > h2 {
+	margin-top:18px;
 }

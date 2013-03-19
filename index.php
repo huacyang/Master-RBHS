@@ -26,10 +26,6 @@
 </head>
 <body>
 	<div class="row">
-    	<h2 id="WHYie"></h2>
-    	<h2 id="NOTie"></h2>
-    </div>
-	<div class="row">
 	<div class="twelve columns" >
         <!-- Includes Header -->	
         <?php include("includes/header.php") ?>
@@ -71,7 +67,7 @@
         <!-- Main Content
         ====================== -->
         <div id="main" class="six push-three mobile-four columns"><br/>
-            <h1 class="title">Leading the Way in Academic Health Care: Rutgers Biomedical and Health Sciences</h1>
+            <h1 class="title">Leading the Way in Academic Health Care:<br/>Rutgers Biomedical and Health Sciences</h1>
             <p>
             Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.
             </p>
