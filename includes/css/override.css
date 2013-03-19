@@ -94,17 +94,18 @@ footer p {
 }
  
 .carousel-nav a {
-	width:65px;
-	height:50px;
-	border:0;
+	border:1px solid white;
 	float:left;
+	height:29px;
 	margin-left:5px;
+	overflow:hidden;
+	width:65px;
 }
 
-.carousel-nav a.active img {
+.carousel-nav a.active {
+	height:29px;
 	border:3px solid #f9cc33;
-	height:30px;
-	width:100px;
+	width:65px;
 }
 
 .socialmedia h1 {
@@ -304,13 +305,13 @@ footer p {
 
 #carouselnav {
 	float:right;
-	margin-right:-9px;
+	margin-right:-10px;
 }
 
 #carouselnav a {
 	margin-right:5px;
 	width:65px;
-	height:32px;
+	height:29px;
 }
 
 #carouselnav.span3 {
