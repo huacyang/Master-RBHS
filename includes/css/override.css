@@ -286,7 +286,7 @@ footer p {
 }
 
 #content_inner {
-	width:220px;
+	width:210px;
 	height:243px;
 }
 
@@ -354,6 +354,10 @@ footer p {
 	font-weight:400;
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:12px;
+}
+
+.item p {
+width:210px;
 }
 
 #main {
