@@ -71,7 +71,7 @@ $(window).load(function(){
 		$(item).addClass('active');
 	});
 	
-	$("#carousel_img").bind('slide', function(e) {
+	//$("#carousel_img").bind('slide', function(e) {
 		var elements = total_content;
 		var nav = $('.carousel-nav');
 		var index = $('#carousel_img').find('.item.active').index();
@@ -81,7 +81,7 @@ $(window).load(function(){
 		$(item).addClass('active');
 		
 		$('#content_inner').carousel(index);
-	});
+	//});
 	
 	
 	$(window).resize(function() {
