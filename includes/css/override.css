@@ -497,6 +497,7 @@ footer p {
 
 #side_bar p, #side_bar h5 {
 	padding:6px 16px;
+	
 }
 #side_bar > ul > li > a {
 	color:#127696;
@@ -510,6 +511,12 @@ footer p {
 #side_nav a {
 	font-size:11px;
 	color:#868684;
+	margin-left:0px;
+}
+.nav-bar > li > a:first-child {
+ padding-left:6px;
+ padding-top:0px;
+ padding-bottom:0px;
 }
 
 #side_nav ul > li a:hover,
@@ -537,7 +544,7 @@ footer p {
 }
 
 #side_nav .wrapper > h2 {
-	color:#000;
+	color:#D01133;
 	margin-left:-20px;
 	margin-top:15px;
 }
