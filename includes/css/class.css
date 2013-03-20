@@ -45,6 +45,8 @@
 }
 
 /* General classes */
+
+
 .body_border {
 	border:5px solid #f4f3df;
 }
@@ -124,3 +126,4 @@
 .wrapper {
 	width:190px;
 }
+

@@ -55,7 +55,7 @@
                 </p>
             <h2>Sed Quis Accusamus Et</h2>
                 <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a>
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar

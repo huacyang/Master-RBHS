@@ -74,11 +74,11 @@
             <p>
             No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.
             </p>
-            <a href="#">Decore deserunt ne sed, docendi moderatius sit ea. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+            <a href="#">Decore deserunt ne sed, docendi moderatius sit ea. </a>
             <p>Quas iriure et nam. Vis magna dolor cu?</p>
-            <a href="#">Pri agam paulo graecis at. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+            <a href="#">Pri agam paulo graecis at. </a>
             <p>At tantas philosophia eam, sed vero assentior no.</p>
-            <a href="#">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+            <a href="#">Laboramus maiestatis referrentur est ne. </a>
             <p>Possit integre est an, vivendum praesent complectitur quo ad, te libris vocibus qui.</p>
         </div><!-- #end-of-main-content-area -->
         

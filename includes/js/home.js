@@ -57,7 +57,7 @@ $(window).load(function(){
 	// Specific the image slider speed (in seconds)
 	$('#carousel_img').each(function(){
 		$(this).carousel({
-			interval: 10000
+			interval: 20000
 		});
 	});
 	
