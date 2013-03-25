@@ -11,8 +11,12 @@
     <link type="text/css" rel="stylesheet" href="includes/css/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
-    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+	<link type="text/css" rel="stylesheet" href="includes/css/override.css" /> 	
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    
+	<!-- Cusrom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/mobile.css" />
+    
     
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>

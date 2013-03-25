@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#masthead{
+	top:0px;
+	position:absolute;}
+	
+
+.top-bar{
+	top:0px;
+    height:35px;
+    width:100%;
+    padding:0px; 
+	position:absolute;       
+}
+
+#mobile_header img{
+    padding-top:5px;
+    float:right;
+
+}
+#home-rite_sidebar .panel {
+	width:30%;}
+
+#shifting{
+	top:63px;
+	}
+	
+
