@@ -33,26 +33,39 @@ function active_about() {
  */
 function active() {
 	var url = document.URL, index = 0, found = false;
-	var token = url.replace(".", "/", "g");
+	var token = url.replace("._", "/", "g");
 	token = token.split("/");
 	for(var i = 0; i < token.length; i++) {
-		if (token[i] == "about") {
+		if (token[i] == "about" || 
+			token[i] == "chancellor" || 
+			token[i] == "locations") {
 			document.getElementById("about").className = "has-dropdown active";
 			active_about();
 			break;
-		} else if (token[i] == "academics") {
+		} else if (token[i] == "academics" || 
+				   token[i] == "schools" || 
+				   token[i] == "continuing" || 
+				   token[i] == "online" ||
+				   token[i] == "graduate" ||
+				   token[i] == "undergraduate") {
 			document.getElementById("academics").className = "has-dropdown active";
 			break;
-		} else if (token[i] == "admissions") {
+		} else if (token[i] == "admissions" ||
+				   token[i] == "financial") {
 			document.getElementById("admissions").className = "has-dropdown active";
 			break;
-		} else if (token[i] == "care") {
+		} else if (token[i] == "care" ||
+				   token[i] == "reference" ||
+				   token[i] == "community" ||
+				   token[i] == "practices" ||
+				   token[i] == "trials") {
 			document.getElementById("care").className = "has-dropdown active";
 			break;
 		} else if (token[i] == "news") {
 			document.getElementById("news").className = "has-dropdown active";
 			break;
-		} else if (token[i] == "research") {
+		} else if (token[i] == "research" ||
+				   token[i] == "institutes") {
 			document.getElementById("research").className = "has-dropdown active";
 			break;
 		} else if (token[i] == "information") {

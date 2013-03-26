@@ -9,7 +9,7 @@ function shiftup() {
 		content.className = "twelve columns bg-white shifting"
 	}
 	
-	document.getElementById("WHYie").innerHTML = "Test: This is IE";
+	document.getElementById("WHYie").innerHTML = "Message of the day: Why are you using IE?!";
 }
 
 $(window).ready(function(e) {
