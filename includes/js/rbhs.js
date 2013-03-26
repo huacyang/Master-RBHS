@@ -32,10 +32,11 @@ function active_about() {
  * Function for setting the corresponding tab on the navigation bar active
  */
 function active() {
-	var url = document.URL, index = 0, found = false;
-	var token = url.replace("._", "/", "g");
+	var url = document.URL, i = 0, found = false;
+	var token = url.replace(".", "/", "g").replace("_", "/", "g");
 	token = token.split("/");
-	for(var i = 0; i < token.length; i++) {
+	for(; i < token.length; i++) {
+		console.log(token[i]);
 		if (token[i] == "about" || 
 			token[i] == "chancellor" || 
 			token[i] == "locations") {
