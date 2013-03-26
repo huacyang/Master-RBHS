@@ -194,7 +194,7 @@ footer p {
 .row {
 	width:90%;
 	max-width: 980px; 
-	min-width: 768px; 
+	min-width: 400px; 
 	margin: 0 auto; 
 }
 

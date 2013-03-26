@@ -21,10 +21,9 @@ function create_mobileNav() {
 	li.appendChild(old_nav);
 	new_nav.appendChild(li);
 	wrapper.appendChild(new_nav);
-	
-	document.getElementById("NOTie").innerHTML = "Message of the Day: You're Awesome for not using IE!";
 }
 
 $(window).ready(function(e) {
-	create_mobileNav();
+	//create_mobileNav();
+	document.getElementById("NOTie").innerHTML = "Message of the Day: You're Awesome for not using IE!";
 });

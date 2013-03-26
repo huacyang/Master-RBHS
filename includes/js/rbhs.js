@@ -36,7 +36,7 @@ function active() {
 	var token = url.replace(".", "/", "g").replace("_", "/", "g");
 	token = token.split("/");
 	for(; i < token.length; i++) {
-		console.log(token[i]);
+		//console.log(token[i]);
 		if (token[i] == "about" || 
 			token[i] == "chancellor" || 
 			token[i] == "locations") {

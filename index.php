@@ -14,10 +14,10 @@
 	<link type="text/css" rel="stylesheet" href="includes/css/override.css" /> 	
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
     
-	<!-- Cusrom Mobile -->
-    <!--
-    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/mobile.css" />
-    -->
+	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
     
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
@@ -71,7 +71,7 @@
         
         <!-- Main Content
         ====================== -->
-        <div id="main" class="six push-three mobile-four columns"><br/>
+        <div id="main" class="six push-three columns"><br/>
             <h1 class="title">Leading the Way in Academic Health Care:<br/>Rutgers Biomedical and Health Sciences</h1>
             <p>
             Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.
@@ -89,7 +89,7 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div class="three push-three mobile-four columns">
+        <div class="three push-three columns">
         <div id="home-rite_sidebar" class="row"><br/>
             <!-- Panel One -->
             <div class="panel padding">

@@ -55,10 +55,12 @@ function mobile() {
 
 $(window).load(function(){
 	// Specific the image slider speed (in seconds)
-	$('#carousel_img').each(function(){
-		$(this).carousel({
-			interval: 20000
-		});
+	$('#carousel_img').carousel({
+		interval:20000
+	});
+	
+	$('#content_inner').carousel({
+		interval:false
 	});
 	
 	$(".carousel-nav a").click(function(e){

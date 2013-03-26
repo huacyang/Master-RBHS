@@ -8,10 +8,9 @@ function shiftup() {
 	if (content) {
 		content.className = "twelve columns bg-white shifting"
 	}
-	
-	document.getElementById("WHYie").innerHTML = "Message of the day: Why are you using IE?!";
 }
 
 $(window).ready(function(e) {
 	shiftup();
+	document.getElementById("WHYie").innerHTML = "Message of the day: Why are you using IE?!";
 });

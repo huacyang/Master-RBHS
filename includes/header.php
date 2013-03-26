@@ -1,4 +1,4 @@
-<div class="row">
+<div id="header" class="row">
     <div id="top">   
     <div id="hleft">
         <ul class="shift-header">

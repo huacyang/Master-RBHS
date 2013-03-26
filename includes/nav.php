@@ -1,15 +1,13 @@
-    <div class="row">
+    <div id="nav-wrapper" class="row">
     <nav class="top-bar">
     <section id="section-wrapper">
     <ul id="navigation" class="left nav-cover">
-    <!--
 	<li id="mobile_menu" class="has-dropdown">
-	<a id="mobile_header" href="#"><img src="images/img/bars.jpg" /></a>
+	<a id="mobile_header" href="#"><img src="includes/img/bars.jpg" /></a>
 	<ul id="mobile_dropdown" class="dropdown">
-    -->
 
         <!-- #menu-item-one -->
-		<li id="home" class="has-dropdown"><a class="change-hover no-active" href="index.php">Home</a></li>   
+		<li id="home"><a class="change-hover no-active" href="index.php">Home</a></li>   
         <!-- #menu-item-two -->
         <li id="about" class="has-dropdown">
         <a href="about.php">About</a>
@@ -70,7 +68,7 @@
         </li>
         <!-- #menu-item-eight -->
         <li id="information" class="has-dropdown">
-        <a href="information.php">Information For</a>
+        <a href="information_prospective.php">Information For</a>
             <ul class="dropdown">
                 <li><a href="information_prospective.php">Prospective Students</a></li>
                 <li><a href="information_current.php">Current Students</a></li>
@@ -80,10 +78,8 @@
                 <li><a href="information_donors.php">Donors</a></li>
             </ul>
         </li>
-    <!--
     </ul>
     </li>
-    -->
     </ul>
     </section>
     </nav>
