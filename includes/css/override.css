@@ -191,8 +191,8 @@ footer p {
 	background-color:#ebeee1;
 }
 
-.row { 
-	width: 980px; 
+.row {
+	width:90%;
 	max-width: 980px; 
 	min-width: 768px; 
 	margin: 0 auto; 
@@ -376,22 +376,48 @@ width:210px;
 	padding-bottom:8px;
 }
 
-#main a {
-	background: url("../img/arrow-blue.gif") no-repeat scroll right 3px transparent;
-	padding-right: 10px;
-	font-size:14px;
-	font-weight:bold;
-	color:#017ea5;
-	font-family:Arial, Helvetica, sans-serif;
+#main a, #submain a {
+	color:#056191;
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
 	text-decoration:none;
 }
 
-#submain a {
-    background: url("../img/arrow-blue.gif") no-repeat scroll right 3px transparent;
-    color: #017ea5;
-    font: bold 14px Arial,sans-serif;
-    padding-right: 10px;
-    text-decoration: none;
+#main a:hover, #submain a:hover {
+	text-decoration:underline;
+}
+
+#main h3, #submain h3 {
+	line-height:16px;
+	padding-top:3px;
+	color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	margin:0 0 14px;
+	padding:0 0 0 20px;
+	text-transform:uppercase;
+}
+
+#main h4, #submain h4 {
+	color:black;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	line-height:18px;
+	padding-bottom:4px;
+	padding-left:20px;
+}
+
+a.subhead {
+	background: url("../img/arrow-blue.gif") no-repeat scroll right 3px transparent;
+	padding-right:10px;
+	font-weight:bold;
+	font-size:14px;
+}
+
+#submain a.subhead {
+	margin-left:20px;
 }
 
 #main p {

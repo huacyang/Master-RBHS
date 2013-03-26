@@ -24,7 +24,7 @@ function mobile() {
 	var slideshow_area = $('#slideshow_area');
 	
 	if ($(window).width() <= 1000 && !menu.hasClass('has-dropdown')) {
-		//console.log("Mobile");
+		console.log("Mobile");
 		menu.addClass('has-dropdown');
 		dropdown.addClass('dropdown');
 		header.addClass('show-for-medium-down');
@@ -35,7 +35,7 @@ function mobile() {
 		slideshow_area.addClass('hide-for-medium-down');
 		randomize();
 	} else if ($(window).width() > 1000 && menu.hasClass('has-dropdown')) {
-		//console.log("Full Screen");
+		console.log("Full Screen");
 		menu.removeClass('has-dropdown');
 		dropdown.removeClass('dropdown');
 		header.removeClass('show-for-medium-down');
@@ -71,7 +71,7 @@ $(window).load(function(){
 		$(item).addClass('active');
 	});
 	
-	//$("#carousel_img").bind('slide', function(e) {
+	$("#carousel_img").bind('slide', function(e) {
 		var elements = total_content;
 		var nav = $('.carousel-nav');
 		var index = $('#carousel_img').find('.item.active').index();
@@ -81,7 +81,7 @@ $(window).load(function(){
 		$(item).addClass('active');
 		
 		$('#content_inner').carousel(index);
-	//});
+	});
 	
 	
 	$(window).resize(function() {
@@ -157,6 +157,3 @@ $(window).ready(function(e) {
 	randomize();
 	mobile();
 });
-
-
-
