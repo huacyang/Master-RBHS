@@ -1,4 +1,5 @@
-<div id="header" class="row">
+
+<div id="header" class="row show-for-large show-for-xlarge">
     <div id="top">   
     <div id="hleft">
         <ul class="shift-header">
