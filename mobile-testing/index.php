@@ -1,292 +1,270 @@
 <!DOCTYPE html>
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
 <head>
-  <meta charset="utf-8" />
-
-  <!-- Set the viewport width to device width for mobile -->
+	<meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
+  <title>Foundation 4</title>
 
-  <title>Welcome to Foundation | Grid</title>
-
-  <!-- Included CSS Files -->
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/foundation.css">
+  <link rel="stylesheet" href="css/normalize.css" />
+  
+  <link rel="stylesheet" href="css/foundation.css" />
   
 
   <script src="js/vendor/custom.modernizr.js"></script>
 
 </head>
 <body>
+<!-- Header and Nav -->
+<nav class="top-bar">
+<ul class="title-area">
+<!-- Title Area -->
+<li class="name">
+<h1>
+<a href="#">
+Top Bar Title
+</a>
+</h1>
+</li>
+<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+</ul>
+ 
+<section class="top-bar-section">
+<!-- Left Nav Section -->
+<ul class="left">
+<li class="divider"></li>
+<li class="has-dropdown">
+<a class="active" href="#">Main Item 1</a>
+<ul class="dropdown">
+<li><label>Section Name</label></li>
+<li><a href="#" class="">Dropdown Level 1</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li class="divider"></li>
+<li><label>Section Name</label></li>
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li class="divider"></li>
+<li><a href="#">See all &rarr;</a></li>
+</ul>
+</li>
+<li class="divider"></li>
+<li><a href="#">Main Item 2</a></li>
+<li class="divider"></li>
+<li class="has-dropdown">
+<a href="#">Main Item 3</a>
+<ul class="dropdown">
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li class="divider"></li>
+<li><a href="#">See all &rarr;</a></li>
+</ul>
+</li>
+</ul>
+ 
+<!-- Right Nav Section -->
+<ul class="right">
+<li class="divider"></li>
+<li class="has-dropdown">
+<a href="#">Main Item 4</a>
+<ul class="dropdown">
+<li><label>Section Name</label></li>
+<li class="has-dropdown">
+<a href="#" class="">Has Dropdown, Level 1</a>
+<ul class="dropdown">
+<li><a href="#">Dropdown Options</a></li>
+<li><a href="#">Dropdown Options</a></li>
+<li class="has-dropdown">
+<a href="#">Has Dropdown, Level 2</a>
+<ul class="dropdown test">
+<li><a href="#">Subdropdown Option</a></li>
+<li><a href="#">Subdropdown Option</a></li>
+<li><a href="#">Subdropdown Option</a></li>
+</ul>
+</li>
+<li><a href="#">Subdropdown Option</a></li>
+<li><a href="#">Subdropdown Option</a></li>
+<li><a href="#">Subdropdown Option</a></li>
+</ul>
+</li>
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li class="divider"></li>
+<li><label>Section Name</label></li>
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li class="divider"></li>
+<li><a href="#">See all &rarr;</a></li>
+</ul>
+</li>
+<li class="divider"></li>
+<li><a href="#">Main Item 5</a></li>
+<li class="divider"></li>
+<li class="has-dropdown">
+<a href="#">Main Item 6</a>
+<ul class="dropdown">
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li><a href="#">Dropdown Option</a></li>
+<li class="divider"></li>
+<li><a href="#">See all &rarr;</a></li>
+</ul>
+</li>
+</ul>
+</section>
+</nav>
+ 
+ 
+<!-- End Header and Nav -->
 
-  <!-- Header and Nav -->
-  <nav class="top-bar hide-for-large hide-for-xlarge show-for-medium show-for-small">
-
-    <ul class="title-area">
-      <!-- Title Area -->
-      <li class="name">
-        <h1>
-          <a href="#">
-            Top Bar Title
-          </a>
-        </h1>
-      </li>
-
-      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-    </ul>
-
-    <section class="top-bar-section">
-      <!-- Left Nav Section -->
-      <ul class="left">
-        <li class="divider"></li>
-        <li class="has-dropdown">
-          <a class="active" href="#">Main Item 1</a>
-
-          <ul class="dropdown">
-            <li><label>Section Name</label></li>
-            <li><a href="#" class="">Dropdown Level 1</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><label>Section Name</label></li>
-
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><a href="#">See all &rarr;</a></li>
-          </ul>
-        </li>
-
-        <li class="divider"></li>
-        <li><a href="#">Main Item 2</a></li>
-        <li class="divider"></li>
-        <li class="has-dropdown">
-          <a href="#">Main Item 3</a>
-          <ul class="dropdown">
-            <li><a href="#">Dropdown Option</a></li>
-
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><a href="#">See all &rarr;</a></li>
-          </ul>
-        </li>
-       
-      </ul>
-
-      <!-- Right Nav Section -->
-      <ul class="right">
-        <li class="divider"></li>
-        <li class="has-dropdown">
-          <a href="#">Main Item 4</a>
-          <ul class="dropdown">
-            <li><label>Section Name</label></li>
-
-            <li class="has-dropdown">
-              <a href="#" class="">Has Dropdown, Level 1</a>
-              <ul class="dropdown">
-                <li><a href="#">Dropdown Options</a></li>
-                <li><a href="#">Dropdown Options</a></li>
-                <li class="has-dropdown">
-                  <a href="#">Has Dropdown, Level 2</a>
-
-                  <ul class="dropdown test">
-                    <li><a href="#">Subdropdown Option</a></li>
-                    <li><a href="#">Subdropdown Option</a></li>
-                    <li><a href="#">Subdropdown Option</a></li>
-                  </ul>
-                </li>
-                <li><a href="#">Subdropdown Option</a></li>
-
-                <li><a href="#">Subdropdown Option</a></li>
-                <li><a href="#">Subdropdown Option</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-
-            <li><label>Section Name</label></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><a href="#">See all &rarr;</a></li>
-
-          </ul>
-        </li>
-        <li class="divider"></li>
-        <li><a href="#">Main Item 5</a></li>
-        <li class="divider"></li>
-        <li class="has-dropdown">
-          <a href="#">Main Item 6</a>
-          <ul class="dropdown">
-
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li><a href="#">Dropdown Option</a></li>
-            <li class="divider"></li>
-            <li><a href="#">See all &rarr;</a></li>
-          </ul>
-        </li>
-
-      </ul>
-    </section>
-  </nav>
-
-
-  <!-- End Header and Nav -->
-
-  <!-- Main Grid Section -->
-
-  <div class="row">
-
-    <div class="large-3 columns">
-      <div class="panel">
-        <h5>Panel Title</h5>
-        <p>This is a three columns grid panel with an arbitrary height.</p>
-      </div>
-    </div>
-    <div class="large-6 columns">
-      <div class="panel">
-
-        <h5>Panel Title</h5>
-        <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
-      </div>
-    </div>
-    <div class="large-3  columns">
-      <div class="panel">
-        <h5>Panel Title</h5>
-
-        <p>This is a three columns grid panel with an arbitrary height.</p>
-      </div>
-    </div>
-
-  </div>
+<!-- Basic orbit markup -->
+	<div class="row">
+		<div class="large-12 columns">
+<ul data-orbit>
+  <li>
+    <img src="images/slide_img/slide1.jpg" />
+    <div class="orbit-caption">...</div>
+  </li>
+  <li>
+    <img src="images/slide_img/slide2.jpg" />
+    <div class="orbit-caption">...</div>
+  </li>
+  <li>
+    <img src="images/slide_img/slide3.jpg" />
+    <div class="orbit-caption">...</div>
+  </li>
+</ul>
+		</div>
+	</div>
 
 
+	<div class="row">
+		<div class="large-12 columns">
+			<h2>Welcome to Foundation</h2>
+			<p>This is version 4.0.9.</p>
+			<hr />
+		</div>
+	</div>
 
-  <div class="row">
+	<div class="row">
+		<div class="large-8 columns">
+			<h3>The Grid</h3>
 
-    <div class="large-6 columns">
+			<!-- Grid Example -->
+			<div class="row">
+				<div class="large-12 columns">
+					<div class="panel">
+						<p>This is a twelve column section in a row. Each of these includes a div.panel element so you can see where the columns are - it's not required at all for the grid.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="large-6 columns">
+					<div class="panel">
+						<p>Six columns</p>
+					</div>
+				</div>
+				<div class="large-6 columns">
+					<div class="panel">
+						<p>Six columns</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="large-4 columns">
+					<div class="panel">
+						<p>Four columns</p>
+					</div>
+				</div>
+				<div class="large-4 columns">
+					<div class="panel">
+						<p>Four columns</p>
+					</div>
+				</div>
+				<div class="large-4 columns">
+					<div class="panel">
+						<p>Four columns</p>
+					</div>
+				</div>
+			</div>
 
-      <div class="panel">
-        <h5>Panel Title</h5>
-        <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
-      </div>
-    </div>
-    <div class="large-2 columns">
-      <div class="panel">
-        <p>
+			<h3>Buttons</h3>
 
-          <img src="http://placehold.it/200x200" />
-        </p>
-      </div>
-    </div>
-    <div class="large-4 columns">
-      <div class="panel">
-        <h5>Panel Title</h5>
-        <p>This is a four columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami.</p>
-
-      </div>
-    </div>
-
-  </div>
-
-
-  <div class="row">
-
-    <div class="large-4 columns">
-      <div class="panel">
-        <p>
-
-          <img src="http://placehold.it/400x300" />
-        </p>
-      </div>
-    </div>
-    <div class="large-4 columns">
-      <div class="panel">
-        <p>
-          <img src="http://placehold.it/400x300" />
-        </p>
-
-      </div>
-    </div>
-    <div class="large-4 columns">
-      <div class="panel">
-        <p>
-          <img src="http://placehold.it/400x300" />
-        </p>
-      </div>
-    </div>
-
-  </div>
-
-
-  <div class="row">
-
-    <div class="large-6 columns">
-      <div class="panel">
-        <h5>Panel Title</h5>
-        <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
-
-      </div>
-    </div>
-    <div class="large-3 columns">
-      <div class="panel">
-        <h5>Panel Title</h5>
-        <p>This is a three columns grid panel with an arbitrary height.</p>
-      </div>
-    </div>
-
-    <div class="large-3 columns">
-      <div class="panel">
-        <h5>Panel Title</h5>
-        <p>This is a three columns grid panel with an arbitrary height.</p>
-      </div>
-    </div>
-
-  </div>
-
-  <!-- End Grid Section -->
-
-
-
-  <!-- Footer -->
-
-  <footer class="row">
-    <div class="large-12 columns">
-      <hr />
       <div class="row">
-
         <div class="large-6 columns">
-          <p>&copy; Copyright no one at all. Go to town.</p>
+          <p><a href="#" class="small button">Small Button</a></p>
+          <p><a href="#" class="button">Medium Button</a></p>
+          <p><a href="#" class="large button">Large Button</a></p>
         </div>
         <div class="large-6 columns">
-          <ul class="inline-list right">
-            <li><a href="#">Section 1</a></li>
-            <li><a href="#">Section 2</a></li>
-
-            <li><a href="#">Section 3</a></li>
-            <li><a href="#">Section 4</a></li>
-          </ul>
+          <p><a href="#" class="small alert button">Small Alert Button</a></p>
+          <p><a href="#" class="success button">Medium Success Button</a></p>
+          <p><a href="#" class="large secondary button">Large Secondary Button</a></p>
         </div>
       </div>
-    </div>
-  </footer>
-  
+		</div>
+
+		<div class="large-4 columns">
+			<h4>Getting Started</h4>
+			<p>We're stoked you want to try Foundation! To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
+
+			<h4>Other Resources</h4>
+			<p>Once you've exhausted the fun in this document, you should check out:</p>
+			<ul class="disc">
+				<li><a href="http://foundation.zurb.com/docs">Foundation Documentation</a><br />Everything you need to know about using the framework.</li>
+				<li><a href="http://github.com/zurb/foundation">Foundation on Github</a><br />Latest code, issue reports, feature requests and more.</li>
+				<li><a href="http://twitter.com/foundationzurb">@foundationzurb</a><br />Ping us on Twitter if you have questions. If you build something with this we'd love to see it (and send you a totally boss sticker).</li>
+			</ul>
+		</div>
+	</div>
+
   <script>
-  document.write('<script src=js/vendor/' +
-  ('__proto__' in {} ? 'zepto' : 'jquery') +
+  document.write('<script src=' +
+  ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
   '.js><\/script>')
   </script>
-
+  
   <script src="js/foundation.min.js"></script>
+  <script src="js/foundation/foundation.orbit.js"></script>
+  <!--
+  
+  <script src="js/foundation/foundation.js"></script>
+  
+  <script src="js/foundation/foundation.alerts.js"></script>
+  
+  <script src="js/foundation/foundation.clearing.js"></script>
+  
+  <script src="js/foundation/foundation.cookie.js"></script>
+  
+  <script src="js/foundation/foundation.dropdown.js"></script>
+  
+  <script src="js/foundation/foundation.forms.js"></script>
+  
+  <script src="js/foundation/foundation.joyride.js"></script>
+  
+  <script src="js/foundation/foundation.magellan.js"></script>
+  
+  <script src="js/foundation/foundation.orbit.js"></script>
+  
+  <script src="js/foundation/foundation.placeholder.js"></script>
+  
+  <script src="js/foundation/foundation.reveal.js"></script>
+  
+  <script src="js/foundation/foundation.section.js"></script>
+  
+  <script src="js/foundation/foundation.tooltips.js"></script>
+  
+  <script src="js/foundation/foundation.topbar.js"></script>
+  
+  -->
+  
   <script>
     $(document).foundation();
   </script>
-
 </body>
 </html>
+

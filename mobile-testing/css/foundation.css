@@ -2242,21 +2242,21 @@ form.custom {
   .section-container.accordion .section {
     padding-top: 0 !important; }
 
-  .section-container.vertical-nav2 {
+  .section-container.vertical-nav {
     border: 1px solid #cccccc;
     border-top: none; }
-    .section-container.vertical-nav2 section,
-    .section-container.vertical-nav2 .section {
+    .section-container.vertical-nav section,
+    .section-container.vertical-nav .section {
       padding-top: 0 !important; }
-      .section-container.vertical-nav2 section .title a,
-      .section-container.vertical-nav2 .section .title a {
+      .section-container.vertical-nav section .title a,
+      .section-container.vertical-nav .section .title a {
         display: block;
         width: 100%; }
-      .section-container.vertical-nav2 section .content,
-      .section-container.vertical-nav2 .section .content {
+      .section-container.vertical-nav section .content,
+      .section-container.vertical-nav .section .content {
         display: none; }
-      .section-container.vertical-nav2 section.active .content,
-      .section-container.vertical-nav2 .section.active .content {
+      .section-container.vertical-nav section.active .content,
+      .section-container.vertical-nav .section.active .content {
         display: block;
         position: absolute;
         left: 100%;
@@ -2265,31 +2265,31 @@ form.custom {
         min-width: 12.5em;
         border: 1px solid #cccccc; }
 
-  .section-container.horizontal-nav2 {
+  .section-container.horizontal-nav {
     position: relative;
     background: #efefef;
     border: 1px solid #cccccc; }
-    .section-container.horizontal-nav2 section,
-    .section-container.horizontal-nav2 .section {
+    .section-container.horizontal-nav section,
+    .section-container.horizontal-nav .section {
       padding-top: 0;
       border: 0;
       position: static; }
-      .section-container.horizontal-nav2 section .title,
-      .section-container.horizontal-nav2 .section .title {
+      .section-container.horizontal-nav section .title,
+      .section-container.horizontal-nav .section .title {
         width: auto;
         border: 1px solid #cccccc;
         border-left: 0;
         top: -1px;
         position: absolute;
         z-index: 1; }
-        .section-container.horizontal-nav2 section .title a,
-        .section-container.horizontal-nav2 .section .title a {
+        .section-container.horizontal-nav section .title a,
+        .section-container.horizontal-nav .section .title a {
           width: 100%; }
-      .section-container.horizontal-nav2 section .content,
-      .section-container.horizontal-nav2 .section .content {
+      .section-container.horizontal-nav section .content,
+      .section-container.horizontal-nav .section .content {
         display: none; }
-      .section-container.horizontal-nav2 section.active .content,
-      .section-container.horizontal-nav2 .section.active .content {
+      .section-container.horizontal-nav section.active .content,
+      .section-container.horizontal-nav .section.active .content {
         display: block;
         position: absolute;
         z-index: 999;
@@ -3159,10 +3159,10 @@ form.custom {
       color: #333333; }
     .breadcrumbs li.current:hover a, .breadcrumbs li.current:focus a {
       text-decoration: none; }
-    .breadcrumbs li.unav2ailable a {
+    .breadcrumbs li.unavailable a {
       color: #999999; }
-    .breadcrumbs li.unav2ailable:hover a,
-    .breadcrumbs li.unav2ailable a:focus {
+    .breadcrumbs li.unavailable:hover a,
+    .breadcrumbs li.unavailable a:focus {
       text-decoration: none;
       color: #999999;
       cursor: default; }
@@ -3253,10 +3253,10 @@ kbd {
     .pagination li:hover a,
     .pagination li a:focus {
       background: #e6e6e6; }
-    .pagination li.unav2ailable a {
+    .pagination li.unavailable a {
       cursor: default;
       color: #999999; }
-    .pagination li.unav2ailable:hover a, .pagination li.unav2ailable a:focus {
+    .pagination li.unavailable:hover a, .pagination li.unavailable a:focus {
       background: transparent; }
     .pagination li.current a {
       background: #2ba6cb;
@@ -3395,31 +3395,31 @@ kbd {
       -webkit-border-radius: 999px;
       border-radius: 999px; }
 
-/* Side nav2 */
-.side-nav2 {
+/* Side Nav */
+.side-nav {
   display: block;
   margin: 0;
   padding: 0.875em 0;
   list-style-type: none;
   list-style-position: inside; }
-  .side-nav2 li {
+  .side-nav li {
     margin: 0 0 0.4375em 0;
     font-size: 0.875em; }
-    .side-nav2 li a {
+    .side-nav li a {
       display: block;
       color: #2ba6cb; }
-    .side-nav2 li.active a {
+    .side-nav li.active a {
       color: #4d4d4d;
       font-weight: bold; }
-    .side-nav2 li.divider {
+    .side-nav li.divider {
       border-top: 1px solid;
       height: 0;
       padding: 0;
       list-style: none;
       border-top-color: #e6e6e6; }
 
-/* Side nav2 */
-.sub-nav2 {
+/* Side Nav */
+.sub-nav {
   display: block;
   width: auto;
   overflow: hidden;
@@ -3427,20 +3427,20 @@ kbd {
   padding-top: 0.25em;
   margin-right: 0;
   margin-left: -0.5625em; }
-  .sub-nav2 dt,
-  .sub-nav2 dd {
+  .sub-nav dt,
+  .sub-nav dd {
     float: left;
     display: inline;
     margin-left: 0.5625em;
     margin-bottom: 0.625em;
     font-weight: normal;
     font-size: 0.875em; }
-    .sub-nav2 dt a,
-    .sub-nav2 dd a {
+    .sub-nav dt a,
+    .sub-nav dd a {
       color: #999999;
       text-decoration: none; }
-    .sub-nav2 dt.active a,
-    .sub-nav2 dd.active a {
+    .sub-nav dt.active a,
+    .sub-nav dd.active a {
       -webkit-border-radius: 1000px;
       border-radius: 1000px;
       font-weight: bold;
@@ -3609,9 +3609,9 @@ kbd {
   z-index: 997;
   min-width: 100%;
   padding: 10px; }
-  [data-magellan-expedition] .sub-nav2 {
+  [data-magellan-expedition] .sub-nav {
     margin-bottom: 0; }
-    [data-magellan-expedition] .sub-nav2 dd {
+    [data-magellan-expedition] .sub-nav dd {
       margin-bottom: 0; }
 
 /* Tables */

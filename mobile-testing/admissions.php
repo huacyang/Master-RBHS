@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Rutgers | Health - About</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if (gt IE 8)|!(IE)]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row">
+	<div class="twelve columns" >
+        <!-- Includes Header -->	
+        <?php include("includes/header.php") ?>
+        <!-- Includes Navigation -->
+        <?php include("includes/nav.php") ?>
+    </div>
+    </div>
+
+    <div class="row">
+    <div id="shifting" class="twelve columns bg-white">
+    
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br/>
+        	<img src="images/landing_fpo.jpg" />
+        </div>
+        </div>
+        <br/>
+        <div class="row">
+        <div id="context" class="eight mobile-four columns">
+            <h1 id="page-title">Admissions Overview</h1>
+                <p>When you choose to study at a Rutgers Biomedical Health Sciences school, you join a community of scholars at one of the nation’s leading comprehensive research universities. The full range of programs offered by RBHS schools—certificates, undergraduate, master’s, doctoral, postdoctoral, fellowships, residencies, and continuing education—provide many paths for your professional and personal goals.<br/>
+<br/>
+Our offerings are vast. Your options are open. Apply now.
+</p>
+            <h2>Admissions Basics</h2>
+                <p>These centralized hubs are a good place to start learning about admissions at Rutgers.</p>
+                <p>
+<ul>
+                        <li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Admissions overview portal</a></li>
+                        <li><a href="http://gradstudy.rutgers.edu" target="_blank">Graduate and Professional Admissions</a></li>
+                        <li><a href="http://admissions.rutgers.edu" target="_blank">University Undergraduate Admissions</a></li>
+</ul>
+                </p>
+            <h2>School-Specific Admissions Information</h2>
+                <p>Applications for most RBHS schools are handled directly by the schools, with some exceptions. </p>
+                <h3>Certificates, Undergraduate, Graduate Admissions</h3>
+                <ul><li><a href="http://nursing.rutgers.edu/academics/admission-requirements" target="_blank">College of Nursing</a></li>
+<li><a href="http://pharmacy.rutgers.edu/content/prospective_students" target="_blank">Ernest Mario School of Pharmacy</a></li>
+<li><a href="http://njms.umdnj.edu/gsbs/prospective_students/application_materials.htm" target="_blank">Graduate School of Biomedical Sciences at Newark</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://rwjms.umdnj.edu/education/gsbs/admissions/index.html" target="_blank">Graduate School of Biomedical Sciences at New Brunswick</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://njms.umdnj.edu/admissions/prospective/index.cfm" target="_blank">New Jersey Medical School</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://rwjms.umdnj.edu/education/admissions/index.html" target="_blank">Robert Wood Johnson Medical School</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://dentalschool.umdnj.edu/students/prospective/admissions.htm" target="_blank">Rutgers School of Dental Medicine</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://shrp.umdnj.edu/prospective_students/admissions/index.html">School of Health Related Professions</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/prospective/admissions.htm" target="_blank">School of Nursing</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://sph.umdnj.edu/admissions/" target="_blank">School of Public Health</a><span class="red"> [URL TO CHANGE]</span></li></ul>
+<h3>Graduate Medical Education Admissions</h3>
+<ul><li><a href="http://njms.umdnj.edu/education/post_grad/gme/index.cfm" target="_blank">New Jersey Medical School</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://rwjms.umdnj.edu/education/gme/index.html" target="_blank">Robert Wood Johnson Medical School</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://dentalschool.umdnj.edu/students/prospective/admissions.htm" target="_blank">Rutgers School of Dental Medicine</a></a><span class="red"> [URL TO CHANGE]</span></li></ul>
+<h2>Continuing Education</h2>
+<p>Continuing education registration is though individual schools and, in some cases, through central portals.</p>
+<ul><li><a href="http://ccoe.umdnj.edu" target="_blank">Center for Continuing and Outreach Education</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://lifelonglearning.rutgers.edu/" target="_blank">Division of Continuing Education</a></li>
+<li><a href="http://nursing.rutgers.edu/professional-development" target="_blank">College of Nursing</a></li>
+<li><a href="http://pharmacy.rutgers.edu/content/office_continuing_education" target="_blank">Ernest Mario School of Pharmacy</a></li>
+<li><a href="http://rwjms.umdnj.edu/education/ccoe/index.html" target="_blank">Robert Wood Johnson Medical School</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://dentalschool.umdnj.edu/CDE/" target="_blank">Rutgers School of Dental Medicine</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://shrp.umdnj.edu/conted/index.html" target="_blank">School of Health Related Professions</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/cont_ed/index.html" target="_blank">School of Nursing</a><span class="red"> [URL TO CHANGE]</span></li>
+<li><a href="http://sph.umdnj.edu/units/unit.detail.cfm?unitID=11&rightnavID=AltInfo1" target="_blank">School of Public Health</a><span class="red"> [URL TO CHANGE]</span></li></ul>
+</div><!-- #end-of-main-content-area -->
+        
+        <!-- Right Sidebar
+        ====================== -->
+        <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            <!-- Panel One -->
+            <li>
+            <h2>Explore Programs</h2>
+                <p>Visit the websites of the RBHS schools to learn about program offerings. <a href="schools.php">Learn more</a>.</p>
+                
+            </li>
+        </ul>
+</div>
+        </div><!-- #end-of-right-sidebar -->
+    
+    </div>
+    
+    <!-- Includes Left Side Navigation -->
+    <?php include("includes/side_nav-about.php") ?>
+    
+    </div><!-- #end-of-all-content -->
+    
+    <!-- Includes Footer -->
+    <?php include("includes/footer.php") ?>
+    
+    </div>
+</body>
+</html>

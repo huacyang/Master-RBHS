@@ -1,0 +1,15 @@
+.header_fix {
+	margin-bottom:-30px;
+}
+
+.top-bar ul > li.has-dropdown .dropdown {
+	padding-top:10px;
+}
+
+.top-bar ul > li.has-dropdown .dropdown > li {
+	text-align:center;
+}
+
+.top-bar a {
+	color:white;
+}
