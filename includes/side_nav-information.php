@@ -8,7 +8,9 @@
             <li id="side_about"><a href="about.php">Prospective Students</a></li>
             <li id="side_contact"><a href="#">Current Students</a></li>
             <li id="side_diverse"><a href="#">Patients</a></li>
-            <li id="side_faq"><a href="#">Frequently Asked Questions<l/a></li>
+            <li id="side_faq"><a href="#">Faculty/Staff</a></li>
+            <li id="side_faq"><a href="#">Alumni</a></li>
+            <li id="side_faq"><a href="#">Donors</a></li>
         </ul>
         </div>
 	</div>
