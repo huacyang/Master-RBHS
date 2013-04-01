@@ -8,6 +8,11 @@
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <style type="text/css">
+    body,td,th {
+	color: #FF0000;
+}
+    </style>
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
     
     <!-- Included JavaScript Files -->
@@ -44,18 +49,16 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
-                <p>
+            <h1 id="page-title">Rutgers Biomedical and Health Sciences Overview</h1>
+                <p>Led by a chancellor, Rutgers Biomedical Health Sciences (RBHS) comprises nine schools and their attendant centers, institutes, and clinics; New Jersey’s leading comprehensive cancer care center; New Jersey largest behavioral health care network; and numerous additional centers, institutes, and clinics. All are situated across Rutgers’ Main Campus in New Brunswick/Piscataway, its two campuses in Newark, and additional locations in New Jersey. RBHS, integral to Rutgers’ mission, works synergistically with many other academic, research, and clinical units throughout the university and the region.</p>
+            <h2>Rutgers Biomedical Health Sciences Units</h2>
+               
+          
                     <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
+                        <li><a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a></li><li><a href="http://www3.cabm.rutgers.edu/home.php" target="_blank">Center for Advanced Biotechnology and Medicine</a></li><li><a href="http://nursing.rutgers.edu" target="_blank">College of Nursing</a></li><li><a href="http://eohsi.rutgers.edu" target="_blank">Environmental and Occupational Health Sciences Institute</a></li><li><a href="http://pharmacy.rutgers.edu" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                        <li><a href="http://gsbs.umdnj.edu" target="_blank">Graduate School of Biomedical Sciences</a><span class="red">[URL TO CHANGE]</span></li><li><a href="http://www.ihhcpar.rutgers.edu" target="_blank">Institute for Health, Health Care Policy and Aging Research</a></li><li><a href="http://dentalschool.umdnj.edu" target="_blank">Rutgers School of Dental Medicine</a><span class="red">[URL TO CHANGE]</span></li><li><a href="http://njms.umdnj.edu" target="_blank">New Jersey Medical School</a><span class="red">[URL TO CHANGE]</span></li><li><a href="http://rwjms.umdnj.edu" target="_blank">Robert Wood Johnson Medical School</a><span class="red">[URL TO CHANGE]</span></li><li><a href="http://shrp.umdnj.edu" target="_blank">School of Health Related Professions</a><span class="red">[URL TO CHANGE]</span></li><li><a href="http://sn.umdnj.edu" target="_blank">School of Nursing</a><span class="red">[URL TO CHANGE]</span></li><li><a href="http://sphweb02.umdnj.edu/sphweb/sphc" target="_blank">School of Public Health</a><span class="red">[URL TO CHANGE]</span></li><li><a href="http://ubhc.umdnj.edu" target="_blank">University Behavioral Health Care</a><span class="red">[URL TO CHANGE]</span></li>
                     </ul>
-                </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a>
+               
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
@@ -64,28 +67,18 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
-                <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
-                </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
+            <h2>Formation of Rutgers Biomedical Health Sciences </h2>
+                <p>Established by the 2012 <a href="http://ru-umdnjtogether.rutgers.edu/scope-legislation/summary-legislation" target="_blank">New Jersey Medical and Health Sciences Education Restructuring Act</a>, Rutgers Biomedical Health Sciences is a major new health care education, research, and clinical division at Rutgers University. RBHS comprises most of the units of the former University of Medicine and Dentistry of New Jersey, which was dissolved under the 2012 statute, several existing Rutgers units with key health-related missions, and two research units that historically were jointly operated by Rutgers and UMDNJ.</p>
+               
+              
             </li>
             <!-- Panel Two -->
             <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+            <h2>Cancer Institute of<br>
+New Jersey</h2>
+                <p>As New Jersey's only National Cancer Institute-designated Comprehensive Cancer Center, the <a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a> is dedicated to improving the prevention, detection, treatment, and care of patients with cancer, through the transformation of laboratory discoveries into clinical practice. Although it is a major component of Rutgers Biomedical and Health Sciences, the Cancer Institute of New Jersey reports directly to Rutgers’ president, <a href="http://president.rutgers.edu" target="_blank">Robert L. Barchi</a>.</p>
             </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
+           
         </ul>
         </div>
         </div><!-- #end-of-right-sidebar -->

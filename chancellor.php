@@ -71,7 +71,7 @@ Email
             <h2>Announcement of Chancellor Lastname’s Appointment</h2>
                 <p>After a XX-month international search, Chancellor’s Name, M.D., Ph.D. was named the inaugural chancellor of Rutgers Biomedical Health Sciences. Learn more about this visionary leader and outstanding academic health sciences administrator.</p>
                 <ul>
-                    <li>Appointment News Release [http://news.rutgers.edu/medrel] <span class="orange">[NEED ACTUAL URL]</span></li>
+                    <li><a href="http://news.rutgers.edu/medrel" target="_blank">Appointment News Release</a> <span class="orange">[NEED ACTUAL URL]</span></li>
                     <li><a href="chancellor_info.php">About Chancellor Name</a></li>
                    
                 </ul>

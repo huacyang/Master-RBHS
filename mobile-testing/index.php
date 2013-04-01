@@ -1,270 +1,129 @@
-<!DOCTYPE html>
-<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-
+<!DOCTYPE HTML>
+<html>
 <head>
-	<meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width" />
-  <title>Foundation 4</title>
-
-  <link rel="stylesheet" href="css/normalize.css" />
-  
-  <link rel="stylesheet" href="css/foundation.css" />
-  
-
-  <script src="js/vendor/custom.modernizr.js"></script>
-
+    <meta charset="utf-8" />
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
+    <!-- title -->
+    <title>Rutgers | Rutgers Biomedical and Health Sciences</title>
+    
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+	<link type="text/css" rel="stylesheet" href="includes/css/override.css" /> 	
+    <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    
+	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
+    
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <script type="text/javascript" src="includes/js/bootstrap.js"></script>
+    <!--[if !IE]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
+    <!--[if IE]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/home.js"></script>
 </head>
 <body>
-<!-- Header and Nav -->
-<nav class="top-bar">
-<ul class="title-area">
-<!-- Title Area -->
-<li class="name">
-<h1>
-<a href="#">
-Top Bar Title
-</a>
-</h1>
-</li>
-<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-</ul>
- 
-<section class="top-bar-section">
-<!-- Left Nav Section -->
-<ul class="left">
-<li class="divider"></li>
-<li class="has-dropdown">
-<a class="active" href="#">Main Item 1</a>
-<ul class="dropdown">
-<li><label>Section Name</label></li>
-<li><a href="#" class="">Dropdown Level 1</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li class="divider"></li>
-<li><label>Section Name</label></li>
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li class="divider"></li>
-<li><a href="#">See all &rarr;</a></li>
-</ul>
-</li>
-<li class="divider"></li>
-<li><a href="#">Main Item 2</a></li>
-<li class="divider"></li>
-<li class="has-dropdown">
-<a href="#">Main Item 3</a>
-<ul class="dropdown">
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li class="divider"></li>
-<li><a href="#">See all &rarr;</a></li>
-</ul>
-</li>
-</ul>
- 
-<!-- Right Nav Section -->
-<ul class="right">
-<li class="divider"></li>
-<li class="has-dropdown">
-<a href="#">Main Item 4</a>
-<ul class="dropdown">
-<li><label>Section Name</label></li>
-<li class="has-dropdown">
-<a href="#" class="">Has Dropdown, Level 1</a>
-<ul class="dropdown">
-<li><a href="#">Dropdown Options</a></li>
-<li><a href="#">Dropdown Options</a></li>
-<li class="has-dropdown">
-<a href="#">Has Dropdown, Level 2</a>
-<ul class="dropdown test">
-<li><a href="#">Subdropdown Option</a></li>
-<li><a href="#">Subdropdown Option</a></li>
-<li><a href="#">Subdropdown Option</a></li>
-</ul>
-</li>
-<li><a href="#">Subdropdown Option</a></li>
-<li><a href="#">Subdropdown Option</a></li>
-<li><a href="#">Subdropdown Option</a></li>
-</ul>
-</li>
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li class="divider"></li>
-<li><label>Section Name</label></li>
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li class="divider"></li>
-<li><a href="#">See all &rarr;</a></li>
-</ul>
-</li>
-<li class="divider"></li>
-<li><a href="#">Main Item 5</a></li>
-<li class="divider"></li>
-<li class="has-dropdown">
-<a href="#">Main Item 6</a>
-<ul class="dropdown">
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li><a href="#">Dropdown Option</a></li>
-<li class="divider"></li>
-<li><a href="#">See all &rarr;</a></li>
-</ul>
-</li>
-</ul>
-</section>
-</nav>
- 
- 
-<!-- End Header and Nav -->
-
-<!-- Basic orbit markup -->
 	<div class="row">
-		<div class="large-12 columns">
-<ul data-orbit>
-  <li>
-    <img src="images/slide_img/slide1.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/slide_img/slide2.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/slide_img/slide3.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-</ul>
-		</div>
-	</div>
-
-
-	<div class="row">
-		<div class="large-12 columns">
-			<h2>Welcome to Foundation</h2>
-			<p>This is version 4.0.9.</p>
-			<hr />
-		</div>
-	</div>
-
-	<div class="row">
-		<div class="large-8 columns">
-			<h3>The Grid</h3>
-
-			<!-- Grid Example -->
-			<div class="row">
-				<div class="large-12 columns">
-					<div class="panel">
-						<p>This is a twelve column section in a row. Each of these includes a div.panel element so you can see where the columns are - it's not required at all for the grid.</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-6 columns">
-					<div class="panel">
-						<p>Six columns</p>
-					</div>
-				</div>
-				<div class="large-6 columns">
-					<div class="panel">
-						<p>Six columns</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-4 columns">
-					<div class="panel">
-						<p>Four columns</p>
-					</div>
-				</div>
-				<div class="large-4 columns">
-					<div class="panel">
-						<p>Four columns</p>
-					</div>
-				</div>
-				<div class="large-4 columns">
-					<div class="panel">
-						<p>Four columns</p>
-					</div>
-				</div>
-			</div>
-
-			<h3>Buttons</h3>
-
-      <div class="row">
-        <div class="large-6 columns">
-          <p><a href="#" class="small button">Small Button</a></p>
-          <p><a href="#" class="button">Medium Button</a></p>
-          <p><a href="#" class="large button">Large Button</a></p>
+	<div class="twelve columns" >
+        <!-- Includes Header -->	
+        <?php include("includes/header.php") ?>
+        <!-- Includes Navigation -->
+        <?php include("includes/nav.php") ?>
+    </div>
+    </div>
+    
+    <!-- Slideshow
+    ====================== -->
+    <div class="row">
+    <div class="twelve columns">
+        <div id="slideshow_area" class="shiftup hide-for-medium-down">
+            <!-- Image Slider -->
+            <div id="carousel_img" class="carousel slide span9">
+                <div id="image" class="carousel-inner"></div>
+            </div>
+            <!-- Content Slider -->
+            <div id="content_area" class="span3"><br/>
+                <div id="content_inner" class="carousel slide span3">
+                    <div id="content" class="carousel-inner"></div>
+                </div>
+                <div id="carouselnav" class="carousel-nav span3"></div>
+            </div>
         </div>
-        <div class="large-6 columns">
-          <p><a href="#" class="small alert button">Small Alert Button</a></p>
-          <p><a href="#" class="success button">Medium Success Button</a></p>
-          <p><a href="#" class="large secondary button">Large Secondary Button</a></p>
+        <!-- Mobile Slider -->
+        <div class="row">
+            <div id="shifting" class="show-for-medium-down mobile-four columns">
+            
+            </div>
         </div>
-      </div>
-		</div>
+        <br/>
+    </div>
+    </div><!-- #end-of-slideshow -->
+    
+    <div class="row">
+    <div class="twelve columns shiftup_ex bg-white">
+        
+        <!-- Main Content
+        ====================== -->
+        <div id="main" class="six push-three columns"><br/>
+            <h1 class="title">Leading the Way in Academic Health Care:<br/>Rutgers Biomedical and Health Sciences</h1>
+            <p>With the establishment of Rutgers Biomedical Health Sciences, Rutgers&mdash;already a leading national research university&mdash;now stands as one of America&rsquo;s largest, most comprehensive university-based centers for studying and improving human health and health care.</p>
 
-		<div class="large-4 columns">
-			<h4>Getting Started</h4>
-			<p>We're stoked you want to try Foundation! To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
+            <p>As we advance medical innovation, provide direct patient care informed by the latest research findings, and educate a full complement of health care professionals, Rutgers is equipped as never before to transform lives.</p>
 
-			<h4>Other Resources</h4>
-			<p>Once you've exhausted the fun in this document, you should check out:</p>
-			<ul class="disc">
-				<li><a href="http://foundation.zurb.com/docs">Foundation Documentation</a><br />Everything you need to know about using the framework.</li>
-				<li><a href="http://github.com/zurb/foundation">Foundation on Github</a><br />Latest code, issue reports, feature requests and more.</li>
-				<li><a href="http://twitter.com/foundationzurb">@foundationzurb</a><br />Ping us on Twitter if you have questions. If you build something with this we'd love to see it (and send you a totally boss sticker).</li>
+            <p>For Rutgers and the region, the advantages of having a highly regarded health care division attached to The State University of New Jersey are considerable as we</p>
+			
+			<ul>
+				<li>draw more top-flight faculty and students;</li>
+				<li>deepen our research collaborations;</li>
+				<li>optimize the coordination of health care for residents;</li>
+				<li>accelerate economic growth; and</li>
+				<li>attract even greater public and private funding.</li>
 			</ul>
-		</div>
-	</div>
+			
+            <p>It&rsquo;s a brilliant new era for medical education, research, and practice in New Jersey.</p>
 
-  <script>
-  document.write('<script src=' +
-  ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
-  '.js><\/script>')
-  </script>
-  
-  <script src="js/foundation.min.js"></script>
-  <script src="js/foundation/foundation.orbit.js"></script>
-  <!--
-  
-  <script src="js/foundation/foundation.js"></script>
-  
-  <script src="js/foundation/foundation.alerts.js"></script>
-  
-  <script src="js/foundation/foundation.clearing.js"></script>
-  
-  <script src="js/foundation/foundation.cookie.js"></script>
-  
-  <script src="js/foundation/foundation.dropdown.js"></script>
-  
-  <script src="js/foundation/foundation.forms.js"></script>
-  
-  <script src="js/foundation/foundation.joyride.js"></script>
-  
-  <script src="js/foundation/foundation.magellan.js"></script>
-  
-  <script src="js/foundation/foundation.orbit.js"></script>
-  
-  <script src="js/foundation/foundation.placeholder.js"></script>
-  
-  <script src="js/foundation/foundation.reveal.js"></script>
-  
-  <script src="js/foundation/foundation.section.js"></script>
-  
-  <script src="js/foundation/foundation.tooltips.js"></script>
-  
-  <script src="js/foundation/foundation.topbar.js"></script>
-  
-  -->
-  
-  <script>
-    $(document).foundation();
-  </script>
+        </div><!-- #end-of-main-content-area -->
+        
+        <!-- Right Sidebar
+        ====================== -->
+        <div class="three push-three columns">
+        <div id="home-rite_sidebar" class="row"><br/>
+            <!-- Panel One -->
+            <div class="panel padding">
+            <div class="row">
+            <div class="twelve columns">
+                <h2 class="title">Meet the Chancellor</h2>
+                <img src="images/sm_image_FPO.jpg" />
+                <a>Eu nibh aliquam nam, esta quidam utroque vertus</a>
+                <p>Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur.</p>
+            </div>
+            </div>
+            </div>
+            <!-- Panel Two -->
+            <div class="panel padding">
+                <h2 class="title">Per primis Causae</h2>
+                <a>Mundi habemus facilisi vix at, at quo eligendi.</a>
+                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+                <!--<p class="more"><a href="#">More &gt;</a></p>-->
+            </div>
+        </div>
+        </div><!-- #end-of-right-sidebar -->
+        
+        <!-- Includes Left Sidebar -->
+        <?php include("includes/side_nav-home.php") ?>
+    
+    </div>
+    </div><!-- #end-of-all-content -->
+    
+    <!-- Includes Footer -->
+    <?php include("includes/footer.php") ?>
+    
 </body>
 </html>
-

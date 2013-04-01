@@ -41,19 +41,20 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
-                <p>
-                    <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
-                    </ul>
-                </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
-        </div><!-- #end-of-main-content-area -->
+            <h1 id="page-title">Patient Care Overview</h1>
+                <p>As New Jersey’s premier, university-based provider of health care, we offer excellence in care while advancing health sciences education and research across a range of disciplines. You will find our front-line, compassionate care in patient-centered environments throughout the state. Patients also have access to innovative and promising therapies through our various clinical trials program. Our goal is to help you achieve your optimal level of health and wellness.</p>
+          <p><a href="reference.php" class="subhead">Find a Physician</a><br/>
+Find a primary care physician, dentist, or specialist near your home or office.</p> 
+
+<p><a href="community.php" class="subhead">Community Health</a><br/>
+Access health services in traditionally underserved areas and find high-quality health care regardless of your ability to pay.</p>
+
+<p><a href="practices.php" class="subhead">Clinical Practices</a><br/>
+Connect with our university-based practice groups and centers, where we focus on the most advanced technologies, therapies, and treatments delivered with compassion.</p> 
+
+<p><a href="trials.php" class="subhead">Clinical Trials</a><br/>
+Find clinical trials and translational research, available only through university-based, research-intensive health care providers like RBHS.</p> 
+</div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
@@ -61,27 +62,26 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
-                <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
-                </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
+            <h2>Top of the Top</h2>
+                <p><em>U.S. News & World Report</em> identified more than 25 of our physicians as being in the top 1 percent in the nation in their respective specialties. <a href="http://www.umdnj.edu/umcweb/marketing_and_communications/publications/umdnj_magazine/winter-2013/009.html" target="_blank">Learn more</a>. <span class="red">[URL TO CHANGE][FROM UMDNJ’S MOST RECENT MAGAZINE. IS THERE A LINK TO SOMETHING THAT DOESN’T SAY UMDNJ?]</span></p>
+              
             </li>
             <!-- Panel Two -->
             <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+            <h2>Clinical Affiliates</h2>
+                <p>RBHS schools have relationships with scores of affiliated hospitals and clinics throughout the region. Explore school websites to learn more. <span class="red">[LINK TO CLINICAL AFFILIATES PAGES ON EACH SCHOOL’S WEB SITE IF THEY ARE ADDED]</span></p>
+           
+            <ul><li>College of Nursing</li>
+            <li>Ernest Mario School of Pharmac</li>
+            <li>Graduate School of Biological Sciences</li>
+            <li>New Jersey Medical School</li>
+            <li>Rutgers School of Dental Medicine</li>
+            <li><a href="http://rwjms.umdnj.edu/patient_care/affiliated_hospitals.html" target="_blank">Robert Wood Johnson Medical School</a></li>
+            <li>School of Health Related Professions</li>
+            <li>School of Nursing</li>
+            <li>School of Public Health</li></ul>
+
+           
             </li>
         </ul>
         </div>

@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Rutgers | Health - About</title>
+	<title>Rutgers | Information for Alumni</title>
 
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
@@ -41,18 +41,8 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
-                <p>
-                    <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
-                    </ul>
-                </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+            <h1 id="page-title">Alumni</h1>
+                <p class="red">TO COME WHEN ISSUES ARE MORE RESOLVED</p>
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar

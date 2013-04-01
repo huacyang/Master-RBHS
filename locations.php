@@ -58,7 +58,7 @@
 <li>Center for Advanced Biotechnology and Medicine: <a href="http://rumaps.rutgers.edu/?id=C71942" target="_blank">Get Directions</a></li>
 <li>College of Nursing: Get Directions <span class="red">[NO DIRECTIONS URL ON THEIR WEBSITE]</span></li>
 <li>Environmental and Occupational Health Sciences Institute: <a href="http://eohsi.rutgers.edu/content/directions" target="_blank">Get Directions</a></li>
-<li>Ernest Mario School of Phar¬macy: <a href="http://rumaps.rutgers.edu/location.jsp?id=C71898" target="_blank">Get Directions</a></li>
+<li>Ernest Mario School of Pharmacy: <a href="http://rumaps.rutgers.edu/location.jsp?id=C71898" target="_blank">Get Directions</a></li>
 <li>Graduate School of Biomedical Sciences: <a href="http://rwjms.umdnj.edu/education/gsbs/gsbs_info/directions.html" target="_blank">Get Directions</a></li>
 <li>Institute for Health, Health Care Policy and Aging Research: <a href="http://www.ihhcpar.rutgers.edu/directions.asp" target="_blank">Get Directions</a></li>
 <li>Robert Wood Johnson Medical School: <a href="http://rwjms.umdnj.edu/about_rwjms/campus_directions.html" target="_blank">Get Directions</a></li>

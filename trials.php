@@ -41,18 +41,29 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
+            <h1 id="page-title">Clinical Trials</h1>
+                <p>Clinical trials are scientific research studies designed to find better ways to treat or prevent diseases. RBHS has clinical research at every school and campus, involving hundreds of researchers. The faculty at our three medical schools, our dental school, nursing schools, and other allied health schools are dedicated to moving forward discovery in drugs, biologics, devices, preventive and therapeutic strategies, behavioral research, and other interventions to improve human life. RBHS supports more than 100 industry-sponsored clinical trials on any given day of the year. </p>
+            <h2>Start Here</h2>
+                <p><a href="http://cro.umdnj.edu" target="_blank">Rutgers Clinical Research Organization</a> <span class="red">[URL TO CHANGE]</span> is the gateway to RBHS’s statewide clinical trial activities. Dedicated to effective collaboration between industry and academia to advance care and the boundaries of health care treatment, we partner with patients, industry, and practitioners to identify appropriate investigators and academic resources to meet patients’ needs. </p>
                 <p>
                     <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
+                        <li><a href="http://cro.umdnj.edu/collaborators/sponsors.html" target="_blank">Information for Industry Collaborators</a> <span class="red">[URL TO CHANGE]</span></li>
+                        <li><a href="http://cro.umdnj.edu/investigators/researchers.html" target="_blank">Information Researchers/Investigators</a> <span class="red">[URL TO CHANGE]</span></li>
+                        <li><a href="http://cro.umdnj.edu/volunteers/patients.html" target="_blank">Information for Patients/Interested Volunteers</a> <span class="red">[URL TO CHANGE]</span></li>
                     </ul>
                 </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+            <h2>Find Clinical Trails</h2>
+                <p>Clinical trials are research studies that require the participation of patients. Search our clinical trials data base to find studies that can expand treatment options by providing access to the most promising therapies and advanced technologies. <a href="http://cro.umdnj.edu/findclinicaltrial.html" target="_blank">Search now</a>.</p>
+                
+                <h2>Clinical Trials Indepth</h2>
+                <p>Explore school, center, and institute websites to learn more about their clinical trial activities.</p>
+                <p>
+          <ul>
+                        <li><a href="schools.php">Schools</a></li>
+                        <li><a href="institutes.php">Centers and Institutes</a></li>
+                        
+          </ul>
+               
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
@@ -61,27 +72,11 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
-                <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
-                </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
-            </li>
-            <!-- Panel Two -->
-            <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+            <h2>Clinical Trials for Cancer</h2>
+                <p>As New Jersey’s only National Cancer Institute (NCI)-designated comprehensive cancer centers, the <a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a> is able to provide access to clinical trials not available at other hospitals, clinics, or doctor’s offices. The institute enrolls more than 3,000 patients in clinical trials or approximately 15 percent of all its new adult cancer patients; nationwide fewer than 5 percent of adult cancer patients participate in clinical trials. Among the institute’s pediatric cancer patients, 70 percent are on clinical trials. <a href="http://www.cinj.org/clinical-trials/clinical-trials-overview" target="_blank">Learn more</a>.<br/>
+<br/>
+As one of only 14 National Cancer Institute-designated Minority-Based Community Clinical Oncology Programs, the <a href="http://njmsuhcc.umdnj.edu/home" target="_blank">New Jersey Medical School Cancer Center</a> <span class="red">[URL TO CHANGE]</span> is uniquely positioned to offer state of the art clinical trials to the patients through numerous active protocols in dozens of NCI-approved clinical trials. <a href="http://njmsuhcc.umdnj.edu/home/index.php/clinical-research-unit.html" target="_blank">Learn more</a>.  <span class="red">[URL TO CHANGE]</span></p>
+                
             </li>
         </ul>
         </div>

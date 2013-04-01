@@ -41,18 +41,14 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
+            <h1 id="page-title">Graduate Medical Education</h1>
+                <p>Graduate medical education programs enables RBHS to provide the highest quality medical care to our patients while supporting our mission of educating future generations of physicians to serve with the highest standards of professionalism. Residencies and fellowships are offered in a wide variety of fields.</p>
                 <p>
                     <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
+                        <li><a href="http://njms.umdnj.edu/education/post_grad/gme/index.cfm" target="_blank">New Jersey Medical School Graduate Medical Education</a> <span class="red">[URL TO CHANGE]</span></li><li><a href="http://rwjms.umdnj.edu/education/GME" target="_blank">Robert Wood Johnson Medical School Graduate Medical Education</a> <span class="red">[URL TO CHANGE]</span></li><li><a href="http://njms.umdnj.edu/education/post_grad/gme/index.cfm" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
                     </ul>
                 </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+           
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
@@ -61,27 +57,11 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
-                <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
-                </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
-            </li>
-            <!-- Panel Two -->
-            <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+            <h2>A Leader to Guide the AMA’s Medical Student Section</h2>
+                <p>Featured in <a href="http://magazine.rutgers.edu/departments/winter-2013/on-the-banks/rx-for-medicine" target="_blank">Rutgers Magazine</a>, Rutgers alumna LeAnne Roberts, CC’07, a fifth-year medical student at the New Jersey Medical School, chairs the American Medical Association’s 48,000-member Medical Student Section.<br/>
+<br/>
+“We provide students with a platform to launch their profession,” says Roberts. “Whether they’re thinking about becoming the best neurosurgeon in the country or going into policy and advocacy as a physician, we provide a training ground.”</p>
+                
             </li>
         </ul>
         </div>

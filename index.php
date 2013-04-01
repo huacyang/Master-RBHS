@@ -5,7 +5,7 @@
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width" />
     <!-- title -->
-    <title>Rutgers | Health</title>
+    <title>Rutgers | Rutgers Biomedical and Health Sciences</title>
     
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/bootstrap.css" />
@@ -15,7 +15,7 @@
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
     
 	<!-- Custom Mobile -->
-    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
     <!-- Custom Tablet -->
     <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
     
@@ -73,18 +73,22 @@
         ====================== -->
         <div id="main" class="six push-three columns"><br/>
             <h1 class="title">Leading the Way in Academic Health Care:<br/>Rutgers Biomedical and Health Sciences</h1>
-            <p>
-            Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.
-            </p>
-            <p>
-            No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.
-            </p>
-            <a class="subhead">Decore deserunt ne sed, docendi moderatius sit ea. </a>
-            <p>Quas iriure et nam. Vis magna dolor cu?</p>
-            <a class="subhead">Pri agam paulo graecis at. </a>
-            <p>At tantas philosophia eam, sed vero assentior no.</p>
-            <a class="subhead">Laboramus maiestatis referrentur est ne. </a>
-            <p>Possit integre est an, vivendum praesent complectitur quo ad, te libris vocibus qui.</p>
+            <p>With the establishment of Rutgers Biomedical Health Sciences, Rutgers&mdash;already a leading national research university&mdash;now stands as one of America&rsquo;s largest, most comprehensive university-based centers for studying and improving human health and health care.</p>
+
+            <p>As we advance medical innovation, provide direct patient care informed by the latest research findings, and educate a full complement of health care professionals, Rutgers is equipped as never before to transform lives.</p>
+
+            <p>For Rutgers and the region, the advantages of having a highly regarded health care division attached to The State University of New Jersey are considerable as we</p>
+			
+			<ul>
+				<li>draw more top-flight faculty and students;</li>
+				<li>deepen our research collaborations;</li>
+				<li>optimize the coordination of health care for residents;</li>
+				<li>accelerate economic growth; and</li>
+				<li>attract even greater public and private funding.</li>
+			</ul>
+			
+            <p>It&rsquo;s a brilliant new era for medical education, research, and practice in New Jersey.</p>
+
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar

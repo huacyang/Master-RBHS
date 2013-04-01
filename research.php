@@ -41,18 +41,32 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
-                <p>
-                    <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
-                    </ul>
-                </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+            <h1 id="page-title">Research Overview</h1>
+                <p>Rutgers is a leading national research university, with a depth and breadth of research activity and resources unparalleled in New Jersey. With the establishment of Rutgers Biomedical Health Sciences, Rutgers moves to new heights and now stands as one of America’s largest, most comprehensive university-based centers for studying and improving human health and health care. Through basic, translational, and clinical research—spanning the life sciences, physical sciences, and social sciences—we advance knowledge and technology that drive education, medical breakthroughs, and economic development, while improving lives at home and in the global community.<br/>
+<br/>
+Led by the university’s faculty, research is supported by staff in many units. The <a href="http://vpr.rutgers.edu" target="_blank">Office of the Vice President for Research and Economic Development</a> facilitates grant applications, research alliances, technology commercialization, and relationships among faculty and the business community. </p>
+            <h2>Research at Our Schools</h2>
+                <p>Many research activities within Rutgers Biomedical and Health Sciences are coordinated by the individual schools. Explore research at our schools.</p>
+                
+          <ul>
+                        <li><a href="http://nursing.rutgers.edu/faculty-research-scholarship" target="_blank">College of Nursing</a></li>
+                        <li><a href="http://pharmacy.rutgers.edu" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                        <li><a href="http://gsbs.umdnj.edu/cgi-bin/cgiwrap/gsbsweb/research/research-display.pl" target="_blank">Graduate School of Biomedical Sciences</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://www.umdnj.edu/njmsweb/research/" target="_blank">New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://rwjms.umdnj.edu/research/orsp/index.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://dentalschool.umdnj.edu/research/office.htm" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://shrp.umdnj.edu/the_school/research.htm" target="_blank">School of Health Related Professions</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/research/index.htm" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://sph.umdnj.edu/units/unit.detail.cfm?unitID=12" target="_blank">School of Public Health</a> <span class="red">[URL TO CHANGE]</span></li>
+</ul>
+             
+          <h2>Research Centers and Institutes</h2>
+                <p><span class="red">Rutgers [or RBHS?]</span> is home to XXX <a href="institutes.php">centers and institutes</a> that work collaboratively across disciplines within Rutgers and with other institutions worldwide. </p>
+                 <h2>Research Gateways</h2>
+                 <ul><li>Rutgers <a href="http://ora.rutgers.edu" target="_blank">Office of Research Alliances</a> works with Rutgers faculty and staff, major corporations and the region’s business community, and allies such as BioNJ and N.J. Business and Industry association, to make connections and foster collaborations for research and development initiatives across all of our campuses.</li>
+                 <li>Rutgers <a href="http://cro.umdnj.edu" target="_blank">Clinical Research Organization</a> <span class="red">[URL TO CHANGE]</span> is the gateway to RBHS’s statewide clinical trial activities. Dedicated to effective collaboration between industry and academia to advance care and the boundaries of health care treatment, we partner with patients, industry, and practitioners to identify appropriate investigators and academic resources to meet patients’ needs.</li>
+                 <li>Rutgers <a href="http://otc.rutgers.edu" target="_blank">Office of Technology Commercialization</a> serves as a bridge between Rutgers researchers and commercialization partners, ensuring the smooth and fast transfer of intellectual property created at the university. The staff educates and serves as a resource for the Rutgers community on matters relating to intellectual property, technology commercialization and entrepreneurship; protects intellectual property via trademarks and patents; and negotiate patent licenses.</li></ul>
+
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
@@ -61,27 +75,18 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
+            <h2>TO COME</h2>
                 <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
+                    <li>Only public New Jersey university in the Association of American Universities (AAU), a group comprising North America’s 62 leading research universities. Rutgers and Princeton are New Jersey’s only AAU members.</li>
+                    <li>Rutgers is a research-intensive university, with XXX research centers and institutes.</li>
+                    <li>Rutgers ranks XX among public research universities nationally and leads all New Jersey universities in total and federal life sciences <span class="red">[or all?]</span> R&D expenditures in the National Science Foundation. <span class="red">[Can we combine the Rutgers and UMDNJ numbers?]</span></li>
+<li>Home to New Jersey’s most extensive and diversified network of research laboratories</li>
+<li>Rutgers was awarded $XXX million in new research grants and contracts in FY 20XX</li>
+<li>60 percent of Rutgers undergraduates engage in original research</li>
+<li>Rutgers has more than XXX active U.S. patents and was granted XX patents in 20XX alone
+</li>
                 </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
-            </li>
-            <!-- Panel Two -->
-            <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+                
             </li>
         </ul>
         </div>

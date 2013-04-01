@@ -41,19 +41,28 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
-                <p>
-                    <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
-                    </ul>
-                </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
-        </div><!-- #end-of-main-content-area -->
+            <h1 id="page-title">Community Health</h1>
+                <p>Health services at Rutgers aim to ensure that all individuals, particularly those living in traditionally underserved areas, have access to high-quality health care regardless of their cultural or ethnic background or ability to pay. Many of our programs serve residents in urban communities of New Jersey. Below are some of our signature programs.</p>
+           <p><a href="http://rwjms.umdnj.edu/community_health/community_health.htm" target="_blank">Community Health Programs, Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span><br/>
+RWJMS has a clearly stated commitment to community service and the improvement of community health. Medical students at RWJMS engage in a variety of community health activities including the Homeless and Indigent Populations Health and Outreach Project (HIPHOP), the Promise Clinic in New Brunswick and the Healthcare Outreach Project (HOP) in Camden.</p> 
+ 
+<p><a href="http://dentalschool.umdnj.edu/patients/njds.htm" target="_blank">Dental Care at the School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span><br/>
+The School of Dental Medicine provides a full range of oral health services while training the next generation of dentists. Care is provided by dental students working under the direction of faculty members who are fully licensed dentists.</p> 
+
+<p><a href="http://rwjms.umdnj.edu/patient_care/chandler" target="_blank">Eric B. Chandler Health Center, Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span><br/>
+The Eric B. Chandler Health Center is a comprehensive, family-oriented community health center offers primary care services including family medicine, internal medicine, infectious disease, pediatrics obstetrics and gynecology, podiatry, family planning, and dentistry.</p> 
+
+<p><a href="http://shrp.umdnj.edu/dept/PT/north/PTclinic/index.html" target="_blank">Free Community Participatory Physical Therapy Clinic, School of Health Related Professions</a> <span class="red">[URL TO CHANGE]</span><br/>
+The clinic serves the community of Newark with physical therapy services and education on wellness and health. It is supervised by a licensed physical therapist and student volunteers from the entry-level Doctoral Program in Physical Therapy</p>. 
+
+          <p><a href="http://sn.umdnj.edu/jhchc/index.html" target="_blank" class="subhead">Jordan and Harris Family Center, School of Nursing</a> <span class="red">[URL TO CHANGE]</span><br/>
+The center provides comprehensive, on-site health services to residents of the Hyatt Court, Pennington Court, and Terrell Homes public housing facilities in Newark. In collaboration with the school’s Mobile Healthcare Program, the center offers physical exams, vaccinations, screenings and diagnostic testing, as well as home visits to elderly or housebound residents, pregnant women and new mothers.</p> 
+
+         <p><a href="http://sn.umdnj.edu/njchp/index.html" target="_blank" class="subhead">Mobile Healthcare Project, School of Nursing</a> <span class="red">[URL TO CHANGE]</span><br/>
+This initiative includes the New Jersey Children Health Project (NJCHP), a partnership with the Children’s Health Fund providing a range of mobile health services to medically underserved children and families in Newark and vicinity. Goals of the NJCHP include ensuring that children in high-risk populations have access to primary and specialty care and early identification and management of chronic conditions including asthma and childhood obesity.</p> 
+
+<p><a href="http://njms.umdnj.edu/community/SFHCC/about_mission.cfm" target="_blank" class="subhead">Student Family Health Care Center, New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span><br/>
+The center offers free health care to the Newark community. Services include physical examinations, chronic disease management, gynecological care, and psychological counseling.  All services are provided by volunteer medical students under the supervision of board-certified family physicians.</p> </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
@@ -61,27 +70,22 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
+            <h2>Community Outreach Programs</h2>
+                <p>Many school- and institute-based community outreach programs focus on education, prevention, and screening. A small sampling includes the following: </p>
                 <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
+                    <li><a href="http://www.cinj.org/education/community-education-programs-0" target="_blank">Cancer Institute of New Jersey Community, Cancer Education, Prevention and Screening</a></li>
+                    <li><a href="http://rwjms.umdnj.edu/departments_institutes/family_medicine/chfcd" target="_blank">Center for Healthy Families and Cultural Diversity</a>  <span class="red">[URL TO CHANGE]</span>.</li>
+                    <li><a href="http://fxbcenter.org/APNRC.html" target="_blank">Francis-Xaxiver Bagnoud Center Adolescent HIV/AIDS Prevention</a></li>
+                    <li><a href="http://shrp.umdnj.edu/dept/nutr/INI/liftup.htm" target="_blank">Institute for Nutrition Interventions LIFT UP</a> <span class="red">[URL TO CHANGE]</span></li>
+                    <li><a href="http://njms.umdnj.edu/departments/preventive_medicine/" target="_blank">New Jersey Medical School Department of Preventive Medicine and Community Health</a> <span class="red">[URL TO CHANGE]</span></li>
+                    
+                    <li><a href="http://www.njsafeschools.org" target="_blank">Safe Schools Program</a></li>
+                    <li><a href="http://rwjms.umdnj.edu/global_health/sathi/index.html" target="_blank">South Asian Total Health Initiative</a> <span class="red">[URL TO CHANGE]</span></li>
+                    <li><a href="http://www.tobaccoclinic.org" target="_blank">Tobacco Dependence Program</a></li>
                 </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
+                
             </li>
-            <!-- Panel Two -->
-            <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+            
             </li>
         </ul>
         </div>
