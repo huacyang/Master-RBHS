@@ -95,7 +95,7 @@ Led by the university’s faculty, research is supported by staff in many units.
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-research.php") ?>
     
     </div><!-- #end-of-all-content -->
     

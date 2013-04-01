@@ -5,10 +5,10 @@
     <div class="row">
         <div class="twelve columns sidenav-shift">
         <ul class="nav-bar vertical small">
-            <li id="side_about"><a href="about.php">RBHS Overview</a></li>
-            <li id="side_contact"><a href="chancellor.php">Chancellor's Page</a></li>
-            <li id="side_diverse"><a href="locations.php">Locations</a></li>
-            <li id="side_faq"><a href="contact.php">Contact Us</a></li>
+            <li id="side_about"><a href="about.php">Prospective Students</a></li>
+            <li id="side_contact"><a href="#">Current Students</a></li>
+            <li id="side_diverse"><a href="#">Patients</a></li>
+            <li id="side_faq"><a href="#">Frequently Asked Questions<l/a></li>
         </ul>
         </div>
 	</div>

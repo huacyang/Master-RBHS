@@ -90,7 +90,7 @@
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-information.php") ?>
     
     </div><!-- #end-of-all-content -->
     

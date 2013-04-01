@@ -102,7 +102,7 @@ Our offerings are vast. Your options are open. Apply now.
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-admissions.php") ?>
     
     </div><!-- #end-of-all-content -->
     
