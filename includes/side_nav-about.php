@@ -4,14 +4,16 @@
     <h2>About</h2>
     <div class="row">
         <div class="twelve columns sidenav-shift">
-        <ul class="nav-bar vertical small">
-            <li id="side_about"><a href="about.php">RBHS Overview</a></li>
-            <li id="side_contact"><a href="chancellor.php">Chancellor's Page</a></li>
-            <li id="side_diverse"><a href="locations.php">Locations</a></li>
-            <li id="side_faq"><a href="contact.php">Contact Us</a></li>
-        </ul>
+            <dl class="vertical tabs">
+                <dd><a href="#">RBHS Overview</a></dd>
+                <dd><a href="#">Chancellor's Page</a></dd>
+                <dd><a href="#">Locations</a></dd>
+                <dd><a href="#">Contact Us</a></dd>
+            </dl>
         </div>
 	</div>
+    
+    
     <!-- Second Section -->
     <div class="panel padding">
     <h2>Related</h2>

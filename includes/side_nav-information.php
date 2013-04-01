@@ -5,7 +5,7 @@
     <div class="row">
         <div class="twelve columns sidenav-shift">
         <ul class="nav-bar vertical small">
-            <li id="side_about"><a href="about.php">Prospective Students</a></li>
+            <li id="side_about"><a href="#">Prospective Students</a></li>
             <li id="side_contact"><a href="#">Current Students</a></li>
             <li id="side_diverse"><a href="#">Patients</a></li>
             <li id="side_faq"><a href="#">Faculty/Staff</a></li>

@@ -8,11 +8,7 @@
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
-    <style type="text/css">
-    body,td,th {
-	color: #FF0000;
-}
-    </style>
+
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
     
     <!-- Included JavaScript Files -->
