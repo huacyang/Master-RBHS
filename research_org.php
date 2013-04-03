@@ -41,18 +41,31 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
+            <h1 id="page-title">Clinical Research Organization: Clinical Trials</h1>
+                <p>Rutgers <a href="http://cro.umdnj.edu" target="_blank">Clinical Research Organization</a> <span class="red">[URL TO CHANGE]</span>
+connects industry, patients, and academic collaborators with the university's academic resources. Annually, we support approximately 150 industry-sponsored clinical trials in addition to conducting our own investigator-initiated studies. In total, more than 230 principal investigators are currently conducting clinical trials in more than 50 therapeutic areas dedicated to moving forward discovery in drugs, biologics, devices, preventive and therapeutic strategies, behavioral research, and other interventions to improve human life. </p>
+            <h2>Advantages</h2>
+                <p>The RBHS Clinical Research Organization offers key advantages that strengthen its clinical research capabilities, including:</p>
                 <p>
                     <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
+                        <li>Affiliations with more than 80 New Jersey hospitals and/or health systems</li>
+                        <li>Depth of medical research and clinical expertise—more than 230 principal investigators</li>
+                        <li>Full array of core services: clinical lab and analytical services, imaging facilities, data management and analysis</li>
+                        <li>Well-developed management skills of all trial phases, including trial design, clinical and medical safety monitoring, recruitment, regulatory affairs</li>
+                        <li>Breadth of basic and clinical research activity in all major therapeutic areas</li>
+                        <li>Statewide centers of excellence, among them:</li>
+<ul>
+  <li><a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a>—the only National Cancer Institute-designated comprehensive cancer center in New Jersey</li>
+                        <li><a href="http://njmsuhcc.umdnj.edu/home" target="_blank">New Jersey Medical School Cancer Center</a> <span class="red">[URL TO CHANGE]</span>, one of only 14 National Cancer Institute-designated Minority-Based Community Clinical Oncology Programs. </li></ul>
                     </ul>
-                </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
+               
+          <h2>Connect with Us</h2>
+                <ul><li><a href="http://cro.umdnj.edu/collaborators/sponsors.html" target="_blank">Information for Industry Collaborators</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://cro.umdnj.edu/investigators/researchers.html" target="_blank">Information Researchers/Investigators</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://cro.umdnj.edu/volunteers/patients.html" target="_blank">Information for Patients/Interested Volunteers</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://cro.umdnj.edu/findclinicaltrial.html" target="_blank">Find a Clinical Trial</a> <span class="red">[URL TO CHANGE]</span>
+</li></ul>
+              <p>Companies wishing to conduct a clinical trial with an experienced investigator or to gain access to resources to support analysis or help initiating a project can contact the <a href="mailto:cro@umdnj.edu">Clinical Research Organization</a>. <span class="red">[EMAIL TO CHANGE]</span> We will match you with an investigator or the appropriate individuals. 
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
@@ -61,33 +74,19 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
+            <h2>Center Watch: Profiles of RBHS Schools Offering Clinical Trials</h2>
+                <p>Three RBHS schools are profiled on <a href="http://CenterWatch.com" target="_blank">CenterWatch.com</a>.</p>
                 <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
-                </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
-            </li>
-            <!-- Panel Two -->
-            <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-        </ul>
-        </div>
+                    <li><a href="http://www.centerwatch.com/news-resources/research-centers/profile-details.aspx?ProfileID=2253" target="_blank">New Jersey Medical School</a></li>
+                    <li><a href="http://www.centerwatch.com/news-resources/research-centers/profile-details.aspx?ProfileID=2255" target="_blank">Robert Wood Johnson Medical School</a></li>
+                    <li><a href="http://www.centerwatch.com/news-resources/research-centers/profile-details.aspx?ProfileID=2252" target="_blank">Rutgers School of Dental Medicine</a></li>
+                </ul></li></ul>
+                
+     </div>
         </div><!-- #end-of-right-sidebar -->
     
     </div>
+  
     
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-about.php") ?>

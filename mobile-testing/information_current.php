@@ -41,19 +41,114 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
-                <p>
+           <a name="top"></a> <h1 id="page-title">Current Students</h1>
+                <p>The how, when, and why on classes and degrees.</p>
+               <p><a href="#academics">Academics</a> | <a href="#financial">Financial Information</a> | <a href="#health">Health Services</a> | <a href="#stratford">Programs at Stratford</a> | <a href="#housing">Housing</a>  | <a href="#libraries">Libraries</a>  | <a href="#student">Student Activities</a>  | <a href="#transportation">Transportation and Parking</a> </p> 
+
+           <a name="academics"><h2>Academics</h2></a>
+            <h3>Academic Calendars</h3>
+        
                     <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
+                        <li><a href="http://www.newark.rutgers.edu/academic-calendar" target="_blank">College of Nursing</a></li>
+                        <li><a href="http://scheduling.rutgers.edu/calendar.shtml" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                        <li>Graduate School of Biological Sciences <span class="red">[same as med school calendars??]</span></li>
+                        <li><a href="http://njms.umdnj.edu/education/registrar/09_10.cfm" target="_blank">New Jersey Medical School</a> <span class="red">[Out of Date] [URL TO CHANGE]</span></li>
+                        <li><a href="http://rwjms.umdnj.edu/education/current_students/academics/first_year/index.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://dentalschool.umdnj.edu/calendar/index.htm" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://sn.umdnj.edu/studentsonly/calendar.htm" target="new">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://sph.umdnj.edu/events/events.calendar.view.cfm" target="_blank">School of Public Health</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://shrp.umdnj.edu/general/calendars/academic_calendar_new.html" target="_blank">School of Health Related Professions</a> <span class="red">[URL TO CHANGE]</span></li>
                     </ul>
-                </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
-        </div><!-- #end-of-main-content-area -->
+                    <h3>Academic Support</h3>
+                    <ul>
+                      <li><a href="http://nursing.rutgers.edu/current-students/student-services/student-advisement-and-registration" target="_blank">College of Nursing</a></li>
+                      <li><a href="http://pharmacy.rutgers.edu/content/academic_services" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                      <li>Graduate School of Biological Sciences <span class="red">[???]</span></li>
+                      <li><a href="http://njms.umdnj.edu/education/student_affairs/student_support/index.cfm" target="_blank">New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://rwjms.umdnj.edu/education/current_students/student_support/index.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://dentalschool.umdnj.edu/students/current/predoctoral/advisor.html" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://sn.umdnj.edu/studentsonly/cas/index.html" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://shrp.umdnj.edu/current_students/mentor/index.html" target="_blank">School of Health Related Professions</a></li>
+                      <li>School of Public Health <span class="red">[what to link to???]</span> </li></ul>
+                      <h3>Course Catalogs</h3>
+                      <ul><li><a href="http://catalogs.rutgers.edu/generated/nursing_current/" target="_blank">College of Nursing</a></li>
+                      <li><a href="http://catalogs.rutgers.edu/generated/nb-ug_current/" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                      <li>Graduate School of Biomedical Sciences <span class="red">[???]</span></li>
+                      <li><a href="http://njms.umdnj.edu/admissions/prospective/admitted_students.cfm" target="_blank">New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li>
+<a href="http://rwjms.umdnj.edu/education/current_students/academics/first_year/index.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://dentalschool.umdnj.edu/catalog/index.html" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://sn.umdnj.edu/academics/ptbsn/index.html" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li>
+<a href="http://sph.umdnj.edu/catalog/index.cfm" target="_blank">School of Public Health</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://shrp.umdnj.edu/programs/index.html" target="_blank">School of Health Related Professions</a> <span class="red">[URL TO CHANGE]</span></li></ul>
+<p><a href="#top">BACK TO TOP</a></p>                      
+<a name="financial"><h2>Financial Information</h2></a>
+                <ul>
+                  <li><a href="http://www.rutgers.edu/admissions/financial-aid" target="_blank">Financial Aid</a></li>
+                  <li><a href="http://www.umdnj.edu/studentfinancialaid/index_new_brow.htm" target="_blank">Student Financial Aid</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://nursing.rutgers.edu/finaid" target="_blank">College of Nursing</a></li>
+                      <li><a href="http://pharmacy.rutgers.edu/content/pharmacy_scholarships" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                      <li><a href="http://njms.umdnj.edu/education/student_affairs/student_life/financial_aid.cfm" target="_blank">New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://rwjms.umdnj.edu/education/current_students/student_life/financial_aid.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://dentalschool.umdnj.edu/students/prospective/financing.html" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://shrp.umdnj.edu/prospective_students/admissions/Admissions-FAQs.html" target="_blank">School of Health Related Professions</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://sn.umdnj.edu/prospective/finaid.htm" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
+                      <li><a href="http://sph.umdnj.edu/admissions/cost.of.study.cfm" target="_blank">School of Public Health</a> <span class="red">[URL TO CHANGE]</span></li></ul>
+                    <a name="health"><h2>Health Services</h2></a>
+<ul><li><a href="http://health.rutgers.edu" target="_blank">Rutgers Health Services, Main Campus, New Brunswick/Piscataway</a></li>
+<li><a href="http://health.newark.rutgers.edu" target="_blank">Rutgers–Newark Health Services</a></li>
+<li>Student Health and Wellness Center, Rutgers Health Sciences Campus at Newark <span class="red">[URL???]</span></li>
+<li>Student Health Services, Main Campus, New Brunswick/Piscataway <span class="red">[URL???]</span></li>
+</ul>
+ <a name="housing"><h2>Housing</h2></a>
+<p><span class="red">[DO WE ADD RUTGERS HOUSING?]</span></p>
+<ul><li>
+<a href="http://www.umdnj.edu/fpcweb/housing" target="_blank">Newark</a></li>
+<li><a href="http://www.rwjms.umdnj.edu/education/current_students/student_life/housing.html" target="_blank">New Brunswick</a></li></ul>
+<p><a href="#top">BACK TO TOP</a></p>
+<a name="libraries"><h2>Libraries</h2></a>
+<p>With more than two dozen centers and reading rooms across our campuses, the Rutgers University Libraries rank among the nation’s top research library systems</p>
+
+<ul><li><a href="http://www.rutgers.edu/academics/libraries" target="_blank">Rutgers University Libraries</a></li>
+<li><a href="http://libraries.umdnj.edu/newarklib/index1.html" target="_blank">George F. Smith Library of the Health Sciences</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://www.libraries.rutgers.edu/rul/libs/lsm_lib/lsm_lib.shtml" target="_blank">Library of Science and Medicine</a></li>
+<li><a href="http://130.219.104.148/rwjl/index.php" target="_blank">Robert Wood Johnson Library of Health Sciences</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://libraries.umdnj.edu/History_of_Medicine/" target="_blank">University Libraries Special Collection History of Medicine</a> <span class="red">[URL TO CHANGE]</span></li></ul>
+
+<a name="student"><h2>Student Activities</h2></a>
+<p><span class="red">[DO WE WANT ALL THESE PDFS?]</span></p>
+<ul><li><a href="http://nursing.rutgers.edu/student-life" target="_blank">College of Nursing</a></li>
+<li><a href="http://nb.rutgers.edu/student-experience/experience-rutgers-new-brunswick" target="_blank">Ernest Mario School of Pharmacy</a></li>
+<li><a href="http://njms.umdnj.edu/gsbs/current_students/docs/new/MastersHandbookSept62012.pdf" target="_blank">Graduate School of Biomedical Sciences</a> [<a href="http://njms.umdnj.edu/gsbs/current_students/docs/new/PhDHandbookSept62012.pdf" target="_blank">http://njms.umdnj.edu/gsbs/current_students/docs/new/PhDHandbookSept62012.pdf</a>] <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://njms.umdnj.edu/education/office_education/documents/StudentHandbookcomplete.pdf" target="_blank">New Jersey School of Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://www.rwjms.umdnj.edu/education/current_students/student_life/student_handbook.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://dentalschool.umdnj.edu/handbook/student.pdf" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/studentsonly/handbooks.htm" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://shrp.umdnj.edu/current_students/pdf/Handbook.pdf" target="_blank">School of Health Related Professions</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://www.umdnj.edu/urbsyweb/students/studenthandbook2010.pdf" target="_blank">School of Public Health</a> <span class="red">[URL TO CHANGE]</span></li></ul>
+<p><a href="#top">BACK TO TOP</a></p>
+<a name="transportation"><h2>Transportation and Parking</h2></a>
+
+<h3>Buses and Shuttles</h3>
+<ul><li><a href="http://www.umdnj.edu/transweb/schedule/index.htm" target="_blank">Rutgers Health Sciences Campus at Newark Shuttle Bus Schedule</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://parktran.rutgers.edu/campusbuses.shtml" target="_blank">Rutgers Main Campus, New Brunswick/Piscataway</a></li>
+<li><a href="http://nwkpolice.rutgers.edu/RUPD_ShuttleService.html" target="_blank">Rutgers–Newark</a></li></ul>
+<h3>Parking Permits</h3>
+<p><span class="red">[DO WE WANT TO LINK TO PDFS?]</span></p>
+<ul><li><a href="http://rudots.rutgers.edu" target="_blank">Main Campus, New Brunswick/Piscataway Parking</a> <span class="red">[DOES THIS APPLY TO LEGACY SCHOOL STUDENTS?]</span></li><li><a href="http://nwkparking.rutgers.edu/node/188" target="_blank">Rutgers–Newark Parking</a></li>
+<li><a href="http://nwkparking.rutgers.edu/node/188" target="_blank">College of Nursing (Newark)</a>
+<li><a href="http://rudots.rutgers.edu" target="_blank">College of Nursing (New Brunswick/Piscataway)</a></li>
+<li><a href="http://rudots.rutgers.edu" target="_blank">Ernest Mario School of Pharmacy</a></li>
+<li><a href="http://njms.umdnj.edu/community/public_education/minimed/parking.cfm" target="_blank">New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://www.rwjms.umdnj.edu/education/current_students/student_life/parking.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://dentalschool.umdnj.edu/handbook/student.pdf" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/studentsonly/studenthandbook2011Feb.pdf" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://shrp.umdnj.edu/current_students/pdf/Handbook.pdf" target="_blank">School of Health Related Professions</a></li>
+<li>School of Public Health <span class="red">[??????]</span></li></ul>
+<p><a href="#top">BACK TO TOP</a></p>
+
+</div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
@@ -61,30 +156,12 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
-                <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
-                </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
-            </li>
-            <!-- Panel Two -->
-            <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+            <h2>TO BE DELETED</h2>
+                <p>TO BE DELETED</p>
+                
             </li>
         </ul>
-        </div>
+</div>
         </div><!-- #end-of-right-sidebar -->
     
     </div>

@@ -556,7 +556,7 @@ a.subhead {
  padding-bottom:0px;
 }
 
-#side_nav ul > li a:hover,
+#side_nav ul > li a:hover, #side_nav ul > li a:active,
 .nav-bar.vertical > li.active {
 	background:#f6f7f2;
 	border-right-color:#f7efc9;
@@ -624,12 +624,55 @@ a.subhead {
 	margin-top:18px;
 }
 
-ul > li.has-dropdown > ul.dropdown > li:hover {
-	background-color:#3c3c3c;
-	color:#f4d970;
-        padding-top:4px;
-}
-ul > li.has-dropdown > ul.dropdown > li {
-	padding-top:4px;
+
+#side_nav .nav-bar li:hover {
+	margin:0px;
+	background-color:white;
+
 }
 
+#side_nav .nav-bar > li > ul > li {
+	margin:0px;
+	background-color:white;
+
+}
+
+#side_nav .nav-bar > ul > li:hover
+{
+	background-color:#fff;
+        
+}
+
+#side_nav .nav-bar li > ul > li{	
+        padding:0px;
+        border:0px;
+        margin:0px;
+        color:transparent;} 
+
+#side_nav .nav-bar > li > ul > li > a {	
+        background: url("http://drupalbasics.rutgers.edu/sites/all/themes/img/gray-square.gif") left no-repeat #fff;
+        padding:8px;
+        padding-left:10px;
+        padding-bottom:6px;
+        border:none;
+        margin-left:-10px;
+        }
+
+#side_nav .nav-bar > li {
+    border-top-style: solid;
+    border-width: 1px; 
+    border-color:#DDDFD1;}
+
+#side_nav .nav-bar > li > a {
+    border: none;}
+
+
+#side_nav .nav-bar > li > ul > li > a:hover {
+    text-decoration:none;
+    background-color:#f6f7f2;
+}
+#side_nav .nav-bar > li > ul > li > a:active {
+	color: #D54B5A;
+	background-color: #ebeee1;
+	background:url("http://drupalbasics.rutgers.edu/sites/all/themes/img/gray-square.gif") left no-repeat;
+}

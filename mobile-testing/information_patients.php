@@ -41,19 +41,39 @@
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">About Us</h1>
-                <p>Magna malis fugit eu ius, an has audiam bonorum voluptatum, eum, nonumy dolorum vivendum an. Sit ei ullum ubique nominavi, mea munere conten tiones te. Mollis detraxit sea ea.</p><p>No habemus suavitate torquatos ius, usu omnis fabellas liberavisse ut. Ut modus graeco mei, ea est ubique populo iudicabit, sed no tation audiam. Suscipiantur necessitatibus id mel, mea te nostro corpora perpetua, cu usu accumsan albucius maluisset. Nonumy viderer contentiones cum ad, in vis inermis evertitur similique.</p><p>Eos propriae adipiscing signiferumque ei, idque facer erroribus in nec, quo labores volumus moderatius eu. Vis nisl solum lucilius an. Duo ei causae vulputate efficiendi.</p>
-            <h2>Probo Tacimates</h2>
-                <p>Laboramus maiestatis referrentur est ne. Quot populo graecis nam te, eu mei autem omnesque. At diam salutatus vel, velit albucius abhorreant vix ex, et erant recusabo est.</p>
+            <h1 id="page-title">Patients </h1>
+                <p>Rutgers Biomedical Health Sciences treats patients in a variety of settings. These include care provided or managed by faculty members of New Jersey Medical School, Robert Wood Johnson Medical School, Rutgers School of Dental Medicine, the School of Nursing, and the School of Health Related Professions. In addition, mental health professionals at University Behavioral Health Care provide care in various clinical programs and services throughout the state.</p>
+            <h2>Medical Care</h2>
+                <p>Patients seeking a physician should contact the practices of our medical schools.  Physicians with expertise in more than 200 subspecialty clinical programs provide a full range of highly specialized services for children and adults. </p>
                 <p>
-                    <ul>
-                        <li>Eu laudem ubique iisque quo, essent appetere inciderint ut has, mea explicari reformidans repudiandae in.</li><li>Mutat denique eam te. Est ex summo expetendis rep rimique. Fastidii pericula principes ei nam, alia admodum cotidieque et vix.</li><li>Vero simul vix in, ad principes vituperata intellegebat cim. Case aperiam feugiat qui ad, mei ut omittam.</li><li>Disputationi delicatissimi, no mei tation munere consulatu. Cu nam velit recteque, ad quo elit assueverit philosophia. Mudi tibique sadipscing ex duo, suas deleniti te vix.</li><li>Duo et putant voluptua postulant, sed ei modo conten tiones. Dolore primis at vix. Impedit suscipit scripserit vis eu, dolor quando qui ad.</li>
-                    </ul>
+<ul>
+                        <li><a href="http://njms.umdnj.edu/patient_care/index.cfm" target="_blank">New Jersey Faculty Practice at New Jersey Medical School (Newark)</a> <SPAN CLASS="RED">[URL TO CHANGE]</SPAN> </li><li><a href="http://umg.umdnj.edu/Public/index.html" target="_blank">Robert Wood Johnson Medical Group</a></li>
+</ul>
                 </p>
-            <h2>Sed Quis Accusamus Et</h2>
-                <p>Ludus bonorum petentium cu quo, facer consequuntur est et. Wisi adversarium id qui, velit nostro dissentias pri an. An solum decore causae vix, mel an epicuri convenire. Vivendo accusamus ei duo, in eos lorem paulo. Ex vis dicta animal molestie.</p>
-                <a href="#" class="subhead">Laboramus maiestatis referrentur est ne. </a><img src="includes/img/arrow-blue.gif" alt=""/>
-        </div><!-- #end-of-main-content-area -->
+            <h2>Oral/Dental Health Care</h2>
+                <p>Patients seeking oral health care should contact Rutgers University Dental Associates, our faculty practice consisting of experts in a full range of dentistry and oral health services. </p>
+               <ul><li><a href="http://dentalschool.umdnj.edu/patients/index.html" target="_blank">Rutgers University Dental Associates at Rutgers School of Dental Medicine (Newark)</a> <span class="red">[URL TO CHANGE]</span></li></ul>
+<h2>Child Health Care</h2>
+<ul><li><a href="http://www.fxbcenter.org/childwelfarenursing.html" target="_blank">The Child Health Program (CHP) at the François-Xavier Bagnoud Center</a> at the School of Nursing is a nursing resource that supports the welfare goals of the Department of Children and Families (DCF) / Division of Child Protection and Permanency.</li></ul>
+
+<h2>Behavioral Health Care</h2>
+<p><a href="http://ubhc.umdnj.edu/childrenfamily/index.htm" target="_blank">University Behavioral Health Care (UBHC)</a> <span class="red">[URL TO CHANGE]</span> provides the highest quality behavioral health care services for all populations across the state. In addition to clinical programs that address the diverse and special needs of New Jersey residents, UBHC offers an array of cost-effective managed care and employee assistance programs that collaborate with organizations in an effort to maximize workplace productivity and job satisfaction.<br/>
+<br/>
+ UBHC’s programs include customized peer support helplines for</p> 
+<ul><li><a href="http://ubhc.umdnj.edu/cop2cop/main.htm" target="_blank">Law Enforcement Personnel</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://ubhc.umdnj.edu/vet2vet" target="_blank">Military Veterans</a><span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://www.mom2mom.us.com/" target="_blank">Parents</a> <span class="red">[URL TO CHANGE]</span></li></ul> 
+<h2>Community Health</h2> 
+<ul><li><a href="http://www.umdnj.edu/home2web/healthcare/health06_community.htm" target="_blank">Community Health General Information</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://shrp.umdnj.edu/news_events/documents/PT_Clinic_OpenFlyer.pdf" target="_blank">Community Physical Therapy Clinic</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://rwjms.umdnj.edu/patient_care/chandler/index.html" target="_blank">Eric B. Chandler Health Center</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://rwjms3.umdnj.edu/hiphop_new/AboutHIPHOP.html" target="_blank">Homeless and Indigent Population Health Outreach Project (H.I.P.H.O.P.)</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/jhchc/index.html" target="_blank">Jordan and Harris Community Health Center</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/njchp/index.html" target="_blank">New Jersey Children’s Health Project</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://njms.umdnj.edu/departments/preventive_medicine/index.cfm" target="_blank">New Jersey Medical School Preventative Medicine and Community Health</a> <span class="red">[URL TO CHANGE]</span></li></ul>
+
+
+</div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
@@ -61,30 +81,12 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Debet Postea Fastidii ne, Facete Nusquam Phinec os Losophia</h2>
-                <p>Est quis tota at, sea alienum molestie ea, fabulas delectus oporteat per in. Labore nominavi ex eos:</p>
-                <ul>
-                    <li>El eos accusam pericula, ex quo sumo cetero, <a href="#" >et com delenit mediocritatem</a>.</li>
-                    <li>Et quo mundi utamur, <a href="#" >te has</a>.</li>
-                    <li>Commodo periculis, <a href="#" >etiam adipisci</a>.</li>
-                    <li>Hinc inermis mea ei, pro viris audire.</li>
-                    <li><a href="#" >Ponderum cu</a>, qui et erant referrentur mea novum accumsan platonem.</li>
-                    <li>Eos vero autem theophrastus.</li>
-                </ul>
-                <p>Primis perfecto omittantur pri ex, eos discere vivendo ad, ea has labitur laboramus mediocritatem.</p>
-            </li>
-            <!-- Panel Two -->
-            <li>
-            <h2>An Habemus</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
-            </li>
-            <!-- Panel Three -->
-            <li>
-            <h2>Ei nam Ludus Dolorum, Nusquam Liberavisse</h2>
-                <p>Pri in everti minimum pertina cia, ad eos convenire mnesar chum in inani veniam salutatus.</p>
+            <h2>TO BE DELETED</h2>
+                <p>TO BE DELETED</p>
+                
             </li>
         </ul>
-        </div>
+</div>
         </div><!-- #end-of-right-sidebar -->
     
     </div>

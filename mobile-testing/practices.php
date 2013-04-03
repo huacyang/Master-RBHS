@@ -67,7 +67,7 @@ The practice provides clinical care in a variety of in-patient and out-patient s
 <p><a href="http://umg.umdnj.edu/Public/index.html" target="_blank" class="subhead">Robert Wood Johnson Medical Group</a> <span class="red">[URL TO CHANGE]</span><br/>
 The Robert Wood Johnson Medical Group, one of the largest multispecialty groups in New Jersey, is composed of approximately 500 physicians with expertise in more than 200 subspecialty clinical programs, providing a broad spectrum of advanced specialty care. The group is dedicated to providing the highest quality medical care. In support of the education, research, patient care, and community outreach missions of Robert Wood Johnson Medical School, respect and compassion for patients in a safe and efficient manner is our priority. Our academic physicians provide a full range of highly specialized services for the pediatric and adult populations.</p> 
 
-<p><a href="http://ubhc.umdnj.edu/accesscenter/index.htm" target="_blank" class="subhead">University Behavioral Health Care (UBHC) </a>  <span class="red">[URL TO CHANGE]</span><br/>
+<p><a href="http://ubhc.umdnj.edu/accesscenter/index.htm" target="_blank" class="subhead">University Behavioral Health Care (UBHC) </a>   <span class="red">[URL TO CHANGE]</span><br/>
 University Behavioral Health Care provides services across New Jersey ranging from case management and outpatient psychotherapy to crisis interventions, acute and chronic care. UBHC offers all levels of mental health and substance abuse services throughout New Jersey.</p>
  
 <p><a href="http://www.umdnj.edu/ntbcweb/services/clinicalservices.html" target="_blank" class="subhead">Waymon C. Lattimore Practice, Global Tuberculosis Institute</a> <span class="red">[URL TO CHANGE]</span><br/>

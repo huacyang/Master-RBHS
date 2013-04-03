@@ -4,18 +4,30 @@
     <h2>About</h2>
     <div class="row">
         <div class="twelve columns sidenav-shift">
-            <dl class="vertical tabs">
-                <dd><a href="#">RBHS Overview</a></dd>
-                <dd><a href="#">Chancellor's Page</a></dd>
-                <dd><a href="#">Locations</a></dd>
-                <dd><a href="#">Contact Us</a></dd>
-            </dl>
+             <ul class="nav-bar vertical small">
+                <li id="about"><a href="about.php">RBHS Overview</a></li>
+                <li id="chancellor" class="has-dropdown">
+        			<a href="chancellor.php">Chancellor's Page</a>
+           			<ul class="dropdown">
+                        <li><a href="chancellor_info.php">About Chancellor</a></li>
+                        <li><a href="#">Newark</a></li>
+                        <li><a href="#">New Brunswick</a></li>
+          			</ul>
+       			</li>
+                <li id="location" class="has-dropdown">
+        			<a href="locations.php">Locations</a>
+           			<ul class="dropdown">
+                        <li><a href="directions.php">Directions</a></li>
+          			</ul>
+       			</li>
+                <li id="contact"><a href="contact.php">Contact Us</a></li>
+        	</ul>
         </div>
 	</div>
     
     
     <!-- Second Section -->
-    <div class="panel padding">
+    <div class="panel paliing">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">

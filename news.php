@@ -48,7 +48,7 @@
                 
           </p>
             <h2>News</h2>
-                <p><a href="http://news.rutgers.edu/medrel" target="_blank">Rutgers Media Relations</a> <a href="umdnj.edu/cgi-bin/cgiwrap/quinnaj/headlines.cgi" target="_blank">Newsroom</a> <span class="red">[URL TO CHANGE]
+                <p><a href="http://news.rutgers.edu/medrel" target="_blank">Rutgers Media Relations</a> <a href="http://umdnj.edu/cgi-bin/cgiwrap/quinnaj/headlines.cgi" target="_blank">Newsroom</a> <span class="red">[URL TO CHANGE]
 [Other School News links?]</span></p>
 
  <h2>Events and Announcements</h2>

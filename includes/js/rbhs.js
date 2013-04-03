@@ -76,6 +76,33 @@ function active() {
 	}
 }
 
+
+function sidenav_active() {
+	var url = document.URL, i = 0, found = false;
+	var token = url.replace(".", "/", "g").replace("_", "/", "g");
+	token = token.split("/");
+	for(; i < token.length; i++) {
+		//console.log(token[i]);
+		if (token[i] == "about") {
+			document.getElementById("about").className = "active";
+			active_about();
+			break;
+		} else if (token[i] == "about" || 
+				   token[i] == "newark" || 
+				   token[i] == "new brunswick" ) {
+			document.getElementById("chancellor").className = "has-dropdown active";
+			break;
+		} else if (token[i] == "location") {
+			document.getElementById("location").className = "active";
+			break;
+		} else if (token[i] == "contact") {
+			document.getElementById("contact").className = "active";
+			break;
+		}
+	}
+}
+
+
 // During load
 $(window).load(function(){
 	$(window).resize(function() {
