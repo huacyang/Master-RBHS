@@ -5,9 +5,9 @@
     <div class="row">
         <div class="twelve columns sidenav-shift">
         <ul class="nav-bar vertical small">
-            <li id="side_about"><a href="#">Research Overview</a></li>
-            <li id="side_contact"><a href="#">Institutes</a></li>
-            <li id="side_diverse"><a href="#">Clinical Research Orgs</a></li>
+            <li><a href="research">Research Overview</a></li>
+            <li><a href="research_org">Institutes</a></li>
+            <li><a href="reference">Clinical Research Orgs</a></li>
         </ul>
         </div>
 	</div>

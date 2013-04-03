@@ -90,5 +90,9 @@ New Jersey</h2>
     <?php include("includes/footer.php") ?>
     
     </div>
+    
+    <script type="text/javascript" charset="utf-8">
+
+</script>
 </body>
 </html>

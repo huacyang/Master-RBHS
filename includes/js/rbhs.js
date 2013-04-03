@@ -77,30 +77,27 @@ function active() {
 }
 
 
-function sidenav_active() {
-	var url = document.URL, i = 0, found = false;
-	var token = url.replace(".", "/", "g").replace("_", "/", "g");
-	token = token.split("/");
-	for(; i < token.length; i++) {
-		//console.log(token[i]);
-		if (token[i] == "about") {
-			document.getElementById("about").className = "active";
-			active_about();
-			break;
-		} else if (token[i] == "about" || 
-				   token[i] == "newark" || 
-				   token[i] == "new brunswick" ) {
-			document.getElementById("chancellor").className = "has-dropdown active";
-			break;
-		} else if (token[i] == "location") {
-			document.getElementById("location").className = "active";
-			break;
-		} else if (token[i] == "contact") {
-			document.getElementById("contact").className = "active";
-			break;
-		}
-	}
+/**active side nav
+jQuery(function() {
+  jQuery('#side_nav nav-bar > li').each(function() {
+    var href = jQuery(this).find('a').attr('href');
+    if (href === window.location.pathname) {
+      jQuery(this).addClass('active');
+    }
+  });
+});**/
+
+function setActive() {
+  aObj = document.getElementById('side_nav').getElementsByTagName('li');
+  for(i=0;i<aObj.length;i++) {
+    if(document.location.href.indexOf(aObj[i].href)>=0) {
+      aObj[i].className='active';
+    }
+  }
 }
+
+	
+	
 
 
 // During load
@@ -115,3 +112,4 @@ $(window).ready(function(e) {
 	mobile();
 	active();
 });
+

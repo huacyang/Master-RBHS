@@ -6,7 +6,7 @@
         <div class="twelve columns sidenav-shift">
         <ul class="nav-bar vertical small">
             <li><a href="information_prospective.php">Prospective Students</a></li>
-            <li><a href="#">Current Students</a></li>
+            <li><a href="information_current">Current Students</a></li>
             <li><a href="information_patients.php">Patients</a></li>
             <li><a href="information_faculty_staff.php">Faculty/Staff</a></li>
             <li><a href="information_alumni">Alumni</a></li>

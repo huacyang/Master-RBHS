@@ -556,14 +556,12 @@ a.subhead {
  padding-bottom:0px;
 }
 
-#side_nav ul > li a:hover, #side_nav ul > li a:active,
-.nav-bar.vertical > li.active {
-	background:#f6f7f2;
+#side_nav ul > li a:hover {
 	border-right-color:#f7efc9;
-	color:#d01133;
+	background-color:#f7efc9; 
+	color: #b48c00;
 }
 
-#side_nav ul > li.active > a {color:#d01133;}
 
 #side_nav h2 {
 	font-family:Verdana;
@@ -627,19 +625,20 @@ a.subhead {
 
 #side_nav .nav-bar li:hover {
 	margin:0px;
-	background-color:white;
+	background-color:transparent;
 
 }
 
 #side_nav .nav-bar > li > ul > li {
 	margin:0px;
-	background-color:white;
+	background-color:transparent;
+	
 
 }
 
 #side_nav .nav-bar > ul > li:hover
 {
-	background-color:#fff;
+	background-color:transparent;
         
 }
 
@@ -650,11 +649,11 @@ a.subhead {
         color:transparent;} 
 
 #side_nav .nav-bar > li > ul > li > a {	
-        background: url("http://drupalbasics.rutgers.edu/sites/all/themes/img/gray-square.gif") left no-repeat #fff;
+        background: url("http://drupalbasics.rutgers.edu/sites/all/themes/img/gray-square.gif") left;
         padding:8px;
         padding-left:10px;
         padding-bottom:6px;
-        border:none;
+        border:hidden;
         margin-left:-10px;
         }
 
@@ -664,15 +663,14 @@ a.subhead {
     border-color:#DDDFD1;}
 
 #side_nav .nav-bar > li > a {
-    border: none;}
+    border: none transparent;}
 
 
 #side_nav .nav-bar > li > ul > li > a:hover {
     text-decoration:none;
-    background-color:#f6f7f2;
+    background-color:#f7efc9; color: #b48c00;
 }
-#side_nav .nav-bar > li > ul > li > a:active {
+#side_nav .nav-bar > li:active, #side_nav .nav-bar > li > a:active, #side_nav ul > li:active, #side_nav ul > li > a:active, #side_nav .nav-bar > li.active, #side_nav .nav-bar > li > a.active, #side_nav ul > li.active, #side_nav ul > li > a.active {
 	color: #D54B5A;
 	background-color: #ebeee1;
-	background:url("http://drupalbasics.rutgers.edu/sites/all/themes/img/gray-square.gif") left no-repeat;
 }
