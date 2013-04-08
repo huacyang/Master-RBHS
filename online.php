@@ -45,27 +45,27 @@
                 
             <h2>Continuing Education Online</h2>
                 <p>Explore these resources to learn more about online continuing education.</p>
-                <p>
+                
                     <ul>
                         <li>Division of Continuing Education <a href="http://lifelonglearning.rutgers.edu/online" target="_blank">Online Learning</a></li><li>Center for Continuing and Outreach Education <a href="https://ironclad.umdnj.edu/ceangel" target="_blank">ANGEL Learning Systems</a> <span class="red">[URL TO CHANGE]</span></li>
                     </ul>
-                </p>
+                
            
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+       <!--  <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
                 
             </li>
         </ul>
+        </div>--><!-- #end-of-right-sidebar -->
         </div>
-        </div><!-- #end-of-right-sidebar -->
     
     </div>
     

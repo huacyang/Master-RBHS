@@ -11,7 +11,7 @@
         </ul>
     </div>
     <div id="hright">
-    University Search
+		<a href="http://search.rutgers.edu" target="_blank">University Search</a>
     </div>
 	</div>
 

@@ -42,13 +42,13 @@
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Physicians Reference Services</h1>
-                <p>Our physicians, dentists, mental health professionals, and other health practitioners collectively comprise New Jersey’s largest network of patient care providers. More than 1.7 million patients visit our health care facilities annually, with 400 children receiving free dental care on “Give Kids a Smile Day,” 3,000 patients enrolled annually in clinical trials at the Cancer Institute of New Jersey, and more than one million patient visits and medical procedures performed each year by Robert Wood Johnson Medical Group physicians alone.</p>
+                <p>Our physicians, dentists, mental health professionals, and other health practitioners collectively comprise New Jersey&rsquo;s largest network of patient care providers. More than 1.7 million patients visit our health care facilities annually, with 400 children receiving free dental care on “Give Kids a Smile Day,” 3,000 patients enrolled annually in clinical trials at the Cancer Institute of New Jersey, and more than one million patient visits and medical procedures performed each year by Robert Wood Johnson Medical Group physicians alone.</p>
             <h2>Find a Physician </h2>
                 <p>If you are in need of a primary care physician, dentist or specialist near your home or office, our referral services make it easy to find the expert care you need. Physicians with expertise in hundreds of subspecialty clinical programs provide a full range of highly specialized services for children and adults. </p>
                    <p><a href="http://www.cinj.org/physician-profile/search" target="_blank" class="subhead">Cancer Institute of New Jersey Physician Referral</a><br/>
 The institute provides state-of-the-art cancer care for adults and children, providing access to the latest medicines and most advanced treatment options available. Our team of health care professionals helps the patient make appropriate decisions and approach their disease with confidence.</p>
  <p><a href="http://pluto.umdnj.edu/njmedPhysicians" target="_blank" class="subhead">New Jersey Faculty Practice Physician Referral at New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span><br/>
-Employing state-of-the-art treatment tools and innovations, clinical care is provided in a variety of inpatient and outpatient settings. Our physicians focus on specialty areas of medicine—including infectious diseases, cardiovascular science, neurological and visual sciences, cancer and trauma—to ensure that we are meeting a wide range of patient needs.</p>
+Employing state-of-the-art treatment tools and innovations, clinical care is provided in a variety of inpatient and outpatient settings. Our physicians focus on specialty areas of medicine&mdash;including infectious diseases, cardiovascular science, neurological and visual sciences, cancer and trauma&mdash;to ensure that we are meeting a wide range of patient needs.</p>
 <p><a href="http://umg.umdnj.edu/Public/directory/search.asp" target="_blank" class="subhead">Robert Wood Johnson Medical Group Physical Referral Service</a> <span class="red">[URL TO CHANGE]</span><br/>
 Composed of approximately 500 physicians with expertise in more than 200 subspecialty clinical programs, the group is one of the largest multispecialty group practices in New Jersey. Our academic physicians provide a full range of highly specialized services for the pediatric and adult populations.</p>
 <p><a href="http://dentalschool.umdnj.edu/patients/index.html" target="_blank" class="subhead">Rutgers School of Dental Medicine Associates or Center for Dental and Oral Health Faculty Practice</a> <span class="red">[WHICH IS CORRECT NAME?] [URL TO CHANGE]</span><br/>
@@ -64,7 +64,7 @@ Our doctors provide a wide range of dental care in one location, making the prac
             <!-- Panel One -->
             <li>
             <h2>Excellence that Gets Recognized</h2>
-                <p>The doctors of Robert Wood Johnson Medical Group consistently earn high marks in annual rankings of the region’s top doctors. <a href="http://umg.umdnj.edu/public/top_docs.html" target="_blank">Learn more</a>. <span class="red">[URL TO CHANGE]</span></p>
+                <p>The doctors of Robert Wood Johnson Medical Group consistently earn high marks in annual rankings of the region&rsquo;s top doctors. <a href="http://umg.umdnj.edu/public/top_docs.html" target="_blank">Learn more</a>. <span class="red">[URL TO CHANGE]</span></p>
                 
             </li>
             <!-- Panel Two -->

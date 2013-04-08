@@ -42,19 +42,19 @@
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Admissions Overview</h1>
-                <p>When you choose to study at a Rutgers Biomedical Health Sciences school, you join a community of scholars at one of the nation’s leading comprehensive research universities. The full range of programs offered by RBHS schools—certificates, undergraduate, master’s, doctoral, postdoctoral, fellowships, residencies, and continuing education—provide many paths for your professional and personal goals.<br/>
+                <p>When you choose to study at a Rutgers Biomedical Health Sciences school, you join a community of scholars at one of the nation&rsquo;s leading comprehensive research universities. The full range of programs offered by RBHS schools&mdash;certificates, undergraduate, master&rsquo;s, doctoral, postdoctoral, fellowships, residencies, and continuing education&mdash;provide many paths for your professional and personal goals.<br/>
 <br/>
 Our offerings are vast. Your options are open. Apply now.
 </p>
             <h2>Admissions Basics</h2>
                 <p>These centralized hubs are a good place to start learning about admissions at Rutgers.</p>
-                <p>
+                
 <ul>
                         <li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Admissions overview portal</a></li>
                         <li><a href="http://gradstudy.rutgers.edu" target="_blank">Graduate and Professional Admissions</a></li>
                         <li><a href="http://admissions.rutgers.edu" target="_blank">University Undergraduate Admissions</a></li>
 </ul>
-                </p>
+                
             <h2>School-Specific Admissions Information</h2>
                 <p>Applications for most RBHS schools are handled directly by the schools, with some exceptions. </p>
                 <h3>Certificates, Undergraduate, Graduate Admissions</h3>

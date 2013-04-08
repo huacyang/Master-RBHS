@@ -43,7 +43,7 @@
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Graduate Education</h1>
                 <p>RBHS offers a wide variety of advanced education programs through its schools. </p>
-                <p>
+               
                     <ul>
                         <li><a href="http://nursing.rutgers.edu/prospective_students/academic_programs" target="_blank">College of Nursing</a></li>
                         <li><a href="http://pharmacy.rutgers.edu/content/masters_phd_programs" target="_blank">Ernest Mario School of Pharmacy</a></li>
@@ -56,23 +56,23 @@
                         <li><a href="http://sn.umdnj.edu" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
                         <li><a href="http://sphweb02.umdnj.edu" target="_blank">School of Public Health</a> <span class="red">[URL TO CHANGE]</span></li>
                     </ul>
-                </p>
+                
             
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+       <!-- <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
                 
             </li>
         </ul>
+        </div> --><!-- #end-of-right-sidebar -->
         </div>
-        </div><!-- #end-of-right-sidebar -->
     
     </div>
     

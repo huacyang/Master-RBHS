@@ -56,21 +56,19 @@ Email
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+        <!--  <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
                 
-           
             </li>
         </ul>
+        </div>--><!-- #end-of-right-sidebar -->
         </div>
-        </div><!-- #end-of-right-sidebar -->
     
     </div>
-    
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-about.php") ?>
     

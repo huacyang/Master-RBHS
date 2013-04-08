@@ -44,20 +44,20 @@
             <h1 id="page-title">Clinical Trials</h1>
                 <p>Clinical trials are scientific research studies designed to find better ways to treat or prevent diseases. RBHS has clinical research at every school and campus, involving hundreds of researchers. The faculty at our three medical schools, our dental school, nursing schools, and other allied health schools are dedicated to moving forward discovery in drugs, biologics, devices, preventive and therapeutic strategies, behavioral research, and other interventions to improve human life. RBHS supports more than 100 industry-sponsored clinical trials on any given day of the year. </p>
             <h2>Start Here</h2>
-                <p><a href="http://cro.umdnj.edu" target="_blank">Rutgers Clinical Research Organization</a> <span class="red">[URL TO CHANGE]</span> is the gateway to RBHS’s statewide clinical trial activities. Dedicated to effective collaboration between industry and academia to advance care and the boundaries of health care treatment, we partner with patients, industry, and practitioners to identify appropriate investigators and academic resources to meet patients’ needs. </p>
-                <p>
+                <p><a href="http://cro.umdnj.edu" target="_blank">Rutgers Clinical Research Organization</a> <span class="red">[URL TO CHANGE]</span> is the gateway to RBHS&rsquo;s statewide clinical trial activities. Dedicated to effective collaboration between industry and academia to advance care and the boundaries of health care treatment, we partner with patients, industry, and practitioners to identify appropriate investigators and academic resources to meet patients&rsquo; needs. </p>
+                
                     <ul>
                         <li><a href="http://cro.umdnj.edu/collaborators/sponsors.html" target="_blank">Information for Industry Collaborators</a> <span class="red">[URL TO CHANGE]</span></li>
                         <li><a href="http://cro.umdnj.edu/investigators/researchers.html" target="_blank">Information Researchers/Investigators</a> <span class="red">[URL TO CHANGE]</span></li>
                         <li><a href="http://cro.umdnj.edu/volunteers/patients.html" target="_blank">Information for Patients/Interested Volunteers</a> <span class="red">[URL TO CHANGE]</span></li>
                     </ul>
-                </p>
+                
             <h2>Find Clinical Trails</h2>
                 <p>Clinical trials are research studies that require the participation of patients. Search our clinical trials data base to find studies that can expand treatment options by providing access to the most promising therapies and advanced technologies. <a href="http://cro.umdnj.edu/findclinicaltrial.html" target="_blank">Search now</a>.</p>
                 
                 <h2>Clinical Trials Indepth</h2>
                 <p>Explore school, center, and institute websites to learn more about their clinical trial activities.</p>
-                <p>
+                
           <ul>
                         <li><a href="schools.php">Schools</a></li>
                         <li><a href="institutes.php">Centers and Institutes</a></li>
@@ -73,7 +73,7 @@
             <!-- Panel One -->
             <li>
             <h2>Clinical Trials for Cancer</h2>
-                <p>As New Jersey’s only National Cancer Institute (NCI)-designated comprehensive cancer centers, the <a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a> is able to provide access to clinical trials not available at other hospitals, clinics, or doctor’s offices. The institute enrolls more than 3,000 patients in clinical trials or approximately 15 percent of all its new adult cancer patients; nationwide fewer than 5 percent of adult cancer patients participate in clinical trials. Among the institute’s pediatric cancer patients, 70 percent are on clinical trials. <a href="http://www.cinj.org/clinical-trials/clinical-trials-overview" target="_blank">Learn more</a>.<br/>
+                <p>As New Jersey&rsquo;s only National Cancer Institute (NCI)-designated comprehensive cancer centers, the <a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a> is able to provide access to clinical trials not available at other hospitals, clinics, or doctor&rsquo;s offices. The institute enrolls more than 3,000 patients in clinical trials or approximately 15 percent of all its new adult cancer patients; nationwide fewer than 5 percent of adult cancer patients participate in clinical trials. Among the institute&rsquo;s pediatric cancer patients, 70 percent are on clinical trials. <a href="http://www.cinj.org/clinical-trials/clinical-trials-overview" target="_blank">Learn more</a>.<br/>
 <br/>
 As one of only 14 National Cancer Institute-designated Minority-Based Community Clinical Oncology Programs, the <a href="http://njmsuhcc.umdnj.edu/home" target="_blank">New Jersey Medical School Cancer Center</a> <span class="red">[URL TO CHANGE]</span> is uniquely positioned to offer state of the art clinical trials to the patients through numerous active protocols in dozens of NCI-approved clinical trials. <a href="http://njmsuhcc.umdnj.edu/home/index.php/clinical-research-unit.html" target="_blank">Learn more</a>.  <span class="red">[URL TO CHANGE]</span></p>
                 

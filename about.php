@@ -46,7 +46,7 @@
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Rutgers Biomedical and Health Sciences Overview</h1>
-                <p>Led by a chancellor, Rutgers Biomedical Health Sciences (RBHS) comprises nine schools and their attendant centers, institutes, and clinics; New Jersey’s leading comprehensive cancer care center; New Jersey largest behavioral health care network; and numerous additional centers, institutes, and clinics. All are situated across Rutgers’ Main Campus in New Brunswick/Piscataway, its two campuses in Newark, and additional locations in New Jersey. RBHS, integral to Rutgers’ mission, works synergistically with many other academic, research, and clinical units throughout the university and the region.</p>
+                <p>Led by a chancellor, Rutgers Biomedical Health Sciences (RBHS) comprises nine schools and their attendant centers, institutes, and clinics; New Jersey&rsquo;s leading comprehensive cancer care center; New Jersey largest behavioral health care network; and numerous additional centers, institutes, and clinics. All are situated across Rutgers&rsquo; Main Campus in New Brunswick/Piscataway, its two campuses in Newark, and additional locations in New Jersey. RBHS, integral to Rutgers&rsquo; mission, works synergistically with many other academic, research, and clinical units throughout the university and the region.</p>
             <h2>Rutgers Biomedical Health Sciences Units</h2>
                
           
@@ -72,7 +72,7 @@
             <li>
             <h2>Cancer Institute of<br>
 New Jersey</h2>
-                <p>As New Jersey's only National Cancer Institute-designated Comprehensive Cancer Center, the <a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a> is dedicated to improving the prevention, detection, treatment, and care of patients with cancer, through the transformation of laboratory discoveries into clinical practice. Although it is a major component of Rutgers Biomedical and Health Sciences, the Cancer Institute of New Jersey reports directly to Rutgers’ president, <a href="http://president.rutgers.edu" target="_blank">Robert L. Barchi</a>.</p>
+                <p>As New Jersey's only National Cancer Institute-designated Comprehensive Cancer Center, the <a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a> is dedicated to improving the prevention, detection, treatment, and care of patients with cancer, through the transformation of laboratory discoveries into clinical practice. Although it is a major component of Rutgers Biomedical and Health Sciences, the Cancer Institute of New Jersey reports directly to Rutgers&rsquo; president, <a href="http://president.rutgers.edu" target="_blank">Robert L. Barchi</a>.</p>
             </li>
            
         </ul>

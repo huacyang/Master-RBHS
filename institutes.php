@@ -42,24 +42,23 @@
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Institutes</h1>
-                <p>A website listing all <a href="http://www.rutgers.edu/research/centers-institutes" target="_blank">institutes and centers</a> is maintained by the Office of Institutional Research and Academic Planning (http://oirap.rutgers.edu).
-<span class="red">[TEXT WILL DEPEND ON DECISIONS MADE ABOUT CENTERS AND INSTITUTES LISTS]</span></p>
+                <p>A website listing all <a href="http://www.rutgers.edu/research/centers-institutes" target="_blank">institutes and centers</a> is maintained by the <a href="http://oirap.rutgers.edu" target="_blank">Office of Institutional Research and Academic Planning</a>. <span class="red">[TEXT WILL DEPEND ON DECISIONS MADE ABOUT CENTERS AND INSTITUTES LISTS]</span></p>
             
         </div><!-- #end-of-main-content-area -->
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+        <!--  <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
-               
+                
             </li>
         </ul>
+        </div>--><!-- #end-of-right-sidebar -->
         </div>
-        </div><!-- #end-of-right-sidebar -->
     
     </div>
     

@@ -70,7 +70,17 @@
                       <li><a href="http://sn.umdnj.edu/studentsonly/cas/index.html" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
                       <li><a href="http://shrp.umdnj.edu/current_students/mentor/index.html" target="_blank">School of Health Related Professions</a></li>
                       <li>School of Public Health <span class="red">[what to link to???]</span> </li></ul>
-                      <h3>Course Catalogs</h3>
+                      
+                      <h3>Class Schedules</h3>
+<ul><li><a href="http://nursing.rutgers.edu/current-students/academics/graduate-student-information/course-registration-information" target="_blank">College of Nursing</a></li>
+<li><a href="https://pharmacy.rutgers.edu/content/schedule_classes_final_exams" target="_blank">Ernest Mario School of Pharmacy</a></li>
+<li>Graduate School of Biomedical Sciences <span class="red">[???]</span></li>
+<li><a href="http://njms.umdnj.edu/education/registrar/index.cfm" target="_blank">New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://rwjms.umdnj.edu/education/current_students/academics/first_year/index.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://dentalschool.umdnj.edu/calendar/calendars.html" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/studentsonly/schedule.htm" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://shrp.umdnj.edu/programs/index.html" target="_blank">School of Health Related Professions</a><span class="red">[URL TO CHANGE]</span></li></ul>
+<h3>Course Catalogs</h3>
                       <ul><li><a href="http://catalogs.rutgers.edu/generated/nursing_current/" target="_blank">College of Nursing</a></li>
                       <li><a href="http://catalogs.rutgers.edu/generated/nb-ug_current/" target="_blank">Ernest Mario School of Pharmacy</a></li>
                       <li>Graduate School of Biomedical Sciences <span class="red">[???]</span></li>
@@ -97,7 +107,7 @@
                       <li><a href="http://sph.umdnj.edu/admissions/cost.of.study.cfm" target="_blank">School of Public Health</a> <span class="red">[URL TO CHANGE]</span></li></ul>
                     <a name="health"><h2>Health Services</h2></a>
 <ul><li><a href="http://health.rutgers.edu" target="_blank">Rutgers Health Services, Main Campus, New Brunswick/Piscataway</a></li>
-<li><a href="http://health.newark.rutgers.edu" target="_blank">Rutgers–Newark Health Services</a></li>
+<li><a href="http://health.newark.rutgers.edu" target="_blank">Rutgers&ndash;Newark Health Services</a></li>
 <li>Student Health and Wellness Center, Rutgers Health Sciences Campus at Newark <span class="red">[URL???]</span></li>
 <li>Student Health Services, Main Campus, New Brunswick/Piscataway <span class="red">[URL???]</span></li>
 </ul>
@@ -108,7 +118,7 @@
 <li><a href="http://www.rwjms.umdnj.edu/education/current_students/student_life/housing.html" target="_blank">New Brunswick</a></li></ul>
 <p><a href="#top">BACK TO TOP</a></p>
 <a name="libraries"><h2>Libraries</h2></a>
-<p>With more than two dozen centers and reading rooms across our campuses, the Rutgers University Libraries rank among the nation’s top research library systems</p>
+<p>With more than two dozen centers and reading rooms across our campuses, the Rutgers University Libraries rank among the nation&rsquo;s top research library systems</p>
 
 <ul><li><a href="http://www.rutgers.edu/academics/libraries" target="_blank">Rutgers University Libraries</a></li>
 <li><a href="http://libraries.umdnj.edu/newarklib/index1.html" target="_blank">George F. Smith Library of the Health Sciences</a> <span class="red">[URL TO CHANGE]</span></li>
@@ -133,10 +143,10 @@
 <h3>Buses and Shuttles</h3>
 <ul><li><a href="http://www.umdnj.edu/transweb/schedule/index.htm" target="_blank">Rutgers Health Sciences Campus at Newark Shuttle Bus Schedule</a> <span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://parktran.rutgers.edu/campusbuses.shtml" target="_blank">Rutgers Main Campus, New Brunswick/Piscataway</a></li>
-<li><a href="http://nwkpolice.rutgers.edu/RUPD_ShuttleService.html" target="_blank">Rutgers–Newark</a></li></ul>
+<li><a href="http://nwkpolice.rutgers.edu/RUPD_ShuttleService.html" target="_blank">Rutgers&ndash;Newark</a></li></ul>
 <h3>Parking Permits</h3>
 <p><span class="red">[DO WE WANT TO LINK TO PDFS?]</span></p>
-<ul><li><a href="http://rudots.rutgers.edu" target="_blank">Main Campus, New Brunswick/Piscataway Parking</a> <span class="red">[DOES THIS APPLY TO LEGACY SCHOOL STUDENTS?]</span></li><li><a href="http://nwkparking.rutgers.edu/node/188" target="_blank">Rutgers–Newark Parking</a></li>
+<ul><li><a href="http://rudots.rutgers.edu" target="_blank">Main Campus, New Brunswick/Piscataway Parking</a> <span class="red">[DOES THIS APPLY TO LEGACY SCHOOL STUDENTS?]</span></li><li><a href="http://nwkparking.rutgers.edu/node/188" target="_blank">Rutgers&ndash;Newark Parking</a></li>
 <li><a href="http://nwkparking.rutgers.edu/node/188" target="_blank">College of Nursing (Newark)</a>
 <li><a href="http://rudots.rutgers.edu" target="_blank">College of Nursing (New Brunswick/Piscataway)</a></li>
 <li><a href="http://rudots.rutgers.edu" target="_blank">Ernest Mario School of Pharmacy</a></li>
@@ -152,17 +162,17 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+      <!--  <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
                 
             </li>
         </ul>
-</div>
-        </div><!-- #end-of-right-sidebar -->
+</div>--><!-- #end-of-right-sidebar -->
+        </div>
     
     </div>
     

@@ -42,7 +42,7 @@
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Patient Care Overview</h1>
-                <p>As New Jersey’s premier, university-based provider of health care, we offer excellence in care while advancing health sciences education and research across a range of disciplines. You will find our front-line, compassionate care in patient-centered environments throughout the state. Patients also have access to innovative and promising therapies through our various clinical trials program. Our goal is to help you achieve your optimal level of health and wellness.</p>
+                <p>As New Jersey&rsquo;s premier, university-based provider of health care, we offer excellence in care while advancing health sciences education and research across a range of disciplines. You will find our front-line, compassionate care in patient-centered environments throughout the state. Patients also have access to innovative and promising therapies through our various clinical trials program. Our goal is to help you achieve your optimal level of health and wellness.</p>
           <p><a href="reference.php" class="subhead">Find a Physician</a><br/>
 Find a primary care physician, dentist, or specialist near your home or office.</p> 
 
@@ -63,13 +63,13 @@ Find clinical trials and translational research, available only through universi
             <!-- Panel One -->
             <li>
             <h2>Top of the Top</h2>
-                <p><em>U.S. News & World Report</em> identified more than 25 of our physicians as being in the top 1 percent in the nation in their respective specialties. <a href="http://www.umdnj.edu/umcweb/marketing_and_communications/publications/umdnj_magazine/winter-2013/009.html" target="_blank">Learn more</a>. <span class="red">[URL TO CHANGE][FROM UMDNJ’S MOST RECENT MAGAZINE. IS THERE A LINK TO SOMETHING THAT DOESN’T SAY UMDNJ?]</span></p>
+                <p><em>U.S. News & World Report</em> identified more than 25 of our physicians as being in the top 1 percent in the nation in their respective specialties. <a href="http://www.umdnj.edu/umcweb/marketing_and_communications/publications/umdnj_magazine/winter-2013/009.html" target="_blank">Learn more</a>. <span class="red">[URL TO CHANGE][FROM UMDNJ&rsquo;S MOST RECENT MAGAZINE. IS THERE A LINK TO SOMETHING THAT DOESN&rsquo;T SAY UMDNJ?]</span></p>
               
             </li>
             <!-- Panel Two -->
             <li>
             <h2>Clinical Affiliates</h2>
-                <p>RBHS schools have relationships with scores of affiliated hospitals and clinics throughout the region. Explore school websites to learn more. <span class="red">[LINK TO CLINICAL AFFILIATES PAGES ON EACH SCHOOL’S WEB SITE IF THEY ARE ADDED]</span></p>
+                <p>RBHS schools have relationships with scores of affiliated hospitals and clinics throughout the region. Explore school websites to learn more. <span class="red">[LINK TO CLINICAL AFFILIATES PAGES ON EACH SCHOOL&rsquo;S WEB SITE IF THEY ARE ADDED]</span></p>
            
             <ul><li>College of Nursing</li>
             <li>Ernest Mario School of Pharmac</li>

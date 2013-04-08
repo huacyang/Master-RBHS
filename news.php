@@ -42,11 +42,11 @@
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">News Overview</h1>
-                <p>From faculty whose breakthrough discoveries make headlines to important announcements about our schools and research centers, keep up with all the latest news about Rutgers Biomedical Health Sciences—and about everything else Rutgers.</p>
+                <p>From faculty whose breakthrough discoveries make headlines to important announcements about our schools and research centers, keep up with all the latest news about Rutgers Biomedical Health Sciences&mdash;and about everything else Rutgers.</p>
             <h2>Rutgers Today</h2>
-                <p><a href="http://www.rutgers.edu/news-center/rutgers-today" target="_blank">Rutgers Today</a> is an online news center that provides a daily stream of news and events taking place on Rutgers’ three campuses to audiences both inside and outside of the university.</p>
+                <p><a href="http://www.rutgers.edu/news-center/rutgers-today" target="_blank">Rutgers Today</a> is an online news center that provides a daily stream of news and events taking place on Rutgers&rsquo; three campuses to audiences both inside and outside of the university.</p>
                 
-          </p>
+          
             <h2>News</h2>
                 <p><a href="http://news.rutgers.edu/medrel" target="_blank">Rutgers Media Relations</a> <a href="http://umdnj.edu/cgi-bin/cgiwrap/quinnaj/headlines.cgi" target="_blank">Newsroom</a> <span class="red">[URL TO CHANGE]
 [Other School News links?]</span></p>
@@ -70,17 +70,17 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+        <!--  <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
                 
             </li>
         </ul>
-</div>
-        </div><!-- #end-of-right-sidebar -->
+        </div>--><!-- #end-of-right-sidebar -->
+        </div>
     
     </div>
     

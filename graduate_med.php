@@ -57,10 +57,10 @@
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>A Leader to Guide the AMA’s Medical Student Section</h2>
-                <p>Featured in <a href="http://magazine.rutgers.edu/departments/winter-2013/on-the-banks/rx-for-medicine" target="_blank">Rutgers Magazine</a>, Rutgers alumna LeAnne Roberts, CC’07, a fifth-year medical student at the New Jersey Medical School, chairs the American Medical Association’s 48,000-member Medical Student Section.<br/>
+            <h2>A Leader to Guide the AMA&rsquo;s Medical Student Section</h2>
+                <p>Featured in <a href="http://magazine.rutgers.edu/departments/winter-2013/on-the-banks/rx-for-medicine" target="_blank">Rutgers Magazine</a>, Rutgers alumna LeAnne Roberts, CC&rsquo;07, a fifth-year medical student at the New Jersey Medical School, chairs the American Medical Association&rsquo;s 48,000-member Medical Student Section.<br/>
 <br/>
-“We provide students with a platform to launch their profession,” says Roberts. “Whether they’re thinking about becoming the best neurosurgeon in the country or going into policy and advocacy as a physician, we provide a training ground.”</p>
+“We provide students with a platform to launch their profession,” says Roberts. “Whether they&rsquo;re thinking about becoming the best neurosurgeon in the country or going into policy and advocacy as a physician, we provide a training ground.”</p>
                 
             </li>
         </ul>

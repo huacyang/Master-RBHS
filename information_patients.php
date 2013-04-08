@@ -45,11 +45,11 @@
                 <p>Rutgers Biomedical Health Sciences treats patients in a variety of settings. These include care provided or managed by faculty members of New Jersey Medical School, Robert Wood Johnson Medical School, Rutgers School of Dental Medicine, the School of Nursing, and the School of Health Related Professions. In addition, mental health professionals at University Behavioral Health Care provide care in various clinical programs and services throughout the state.</p>
             <h2>Medical Care</h2>
                 <p>Patients seeking a physician should contact the practices of our medical schools.  Physicians with expertise in more than 200 subspecialty clinical programs provide a full range of highly specialized services for children and adults. </p>
-                <p>
+               
 <ul>
-                        <li><a href="http://njms.umdnj.edu/patient_care/index.cfm" target="_blank">New Jersey Faculty Practice at New Jersey Medical School (Newark)</a> <SPAN CLASS="RED">[URL TO CHANGE]</SPAN> </li><li><a href="http://umg.umdnj.edu/Public/index.html" target="_blank">Robert Wood Johnson Medical Group</a></li>
+                        <li><a href="http://njms.umdnj.edu/patient_care/index.cfm" target="_blank">New Jersey Faculty Practice at New Jersey Medical School (Newark)</a> <span class="red">[URL TO CHANGE]</span> </li><li><a href="http://umg.umdnj.edu/Public/index.html" target="_blank">Robert Wood Johnson Medical Group</a></li>
 </ul>
-                </p>
+               
             <h2>Oral/Dental Health Care</h2>
                 <p>Patients seeking oral health care should contact Rutgers University Dental Associates, our faculty practice consisting of experts in a full range of dentistry and oral health services. </p>
                <ul><li><a href="http://dentalschool.umdnj.edu/patients/index.html" target="_blank">Rutgers University Dental Associates at Rutgers School of Dental Medicine (Newark)</a> <span class="red">[URL TO CHANGE]</span></li></ul>
@@ -59,7 +59,7 @@
 <h2>Behavioral Health Care</h2>
 <p><a href="http://ubhc.umdnj.edu/childrenfamily/index.htm" target="_blank">University Behavioral Health Care (UBHC)</a> <span class="red">[URL TO CHANGE]</span> provides the highest quality behavioral health care services for all populations across the state. In addition to clinical programs that address the diverse and special needs of New Jersey residents, UBHC offers an array of cost-effective managed care and employee assistance programs that collaborate with organizations in an effort to maximize workplace productivity and job satisfaction.<br/>
 <br/>
- UBHC’s programs include customized peer support helplines for</p> 
+ UBHC&rsquo;s programs include customized peer support helplines for</p> 
 <ul><li><a href="http://ubhc.umdnj.edu/cop2cop/main.htm" target="_blank">Law Enforcement Personnel</a> <span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://ubhc.umdnj.edu/vet2vet" target="_blank">Military Veterans</a><span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://www.mom2mom.us.com/" target="_blank">Parents</a> <span class="red">[URL TO CHANGE]</span></li></ul> 
@@ -69,7 +69,7 @@
 <li><a href="http://rwjms.umdnj.edu/patient_care/chandler/index.html" target="_blank">Eric B. Chandler Health Center</a> <span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://rwjms3.umdnj.edu/hiphop_new/AboutHIPHOP.html" target="_blank">Homeless and Indigent Population Health Outreach Project (H.I.P.H.O.P.)</a> <span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://sn.umdnj.edu/jhchc/index.html" target="_blank">Jordan and Harris Community Health Center</a> <span class="red">[URL TO CHANGE]</span></li>
-<li><a href="http://sn.umdnj.edu/njchp/index.html" target="_blank">New Jersey Children’s Health Project</a> <span class="red">[URL TO CHANGE]</span></li>
+<li><a href="http://sn.umdnj.edu/njchp/index.html" target="_blank">New Jersey Children&rsquo;s Health Project</a> <span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://njms.umdnj.edu/departments/preventive_medicine/index.cfm" target="_blank">New Jersey Medical School Preventative Medicine and Community Health</a> <span class="red">[URL TO CHANGE]</span></li></ul>
 
 
@@ -77,17 +77,17 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+       <!-- <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
                 
             </li>
         </ul>
-</div>
-        </div><!-- #end-of-right-sidebar -->
+</div>--><!-- #end-of-right-sidebar -->
+        </div>
     
     </div>
     

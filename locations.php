@@ -45,9 +45,9 @@
         <div class="row">
         <div id="context" class="eight mobile-four columns">
            <a name="top"></a> <h1 id="page-title">Locations and Directions</h1>
-                <p>Rutgers Biomedical Health Sciences has primary facilities at Rutgers’ Main Campus in New Brunswick/Piscataway, at its two campuses in Newark and, and at additional locations in Stratford and Scotch Plains. And with a network of hundreds of health care and educational affiliates, RBHS has a presence in every one of New Jersey’s 21 counties. These partnerships enable us to touch the lives of many New Jerseyans every day.</p>
+                <p>Rutgers Biomedical Health Sciences has primary facilities at Rutgers&rsquo; Main Campus in New Brunswick/Piscataway, at its two campuses in Newark and, and at additional locations in Stratford and Scotch Plains. And with a network of hundreds of health care and educational affiliates, RBHS has a presence in every one of New Jersey&rsquo;s 21 counties. These partnerships enable us to touch the lives of many New Jerseyans every day.</p>
 
-<p><a href="#maincampus">Main Campus, New Brunswick/Piscataway</a> | <a href="#rhscn">Rutgers Health Sciences Campus at Newark</a> | <a href="#rnc">Rutgers–Newark Campus</a> | <a href="#stratford">Programs at Stratford</a> | <a href="#scotchplains">Programs at Scotch Plains</a> </p>
+<p><a href="#maincampus">Main Campus, New Brunswick/Piscataway</a> | <a href="#rhscn">Rutgers Health Sciences Campus at Newark</a> | <a href="#rnc">Rutgers&ndash;Newark Campus</a> | <a href="#stratford">Programs at Stratford</a> | <a href="#scotchplains">Programs at Scotch Plains</a> </p>
 <P><span class="red">[NOTE: URLS FOR UMDNJ UNITS WILL CHANGE</span>]</P>
             <a name="maincampus"><h2>Main Campus, New Brunswick/Piscataway Campus</h2></a>
                
@@ -78,9 +78,9 @@ School of Nursing: <a href="http://sn.umdnj.edu/about/mapsdir/index.htm" target=
 </li>
 </ul>
                
-            <a name="rnc"><h2>Rutgers–Newark Campus</h2></a>
+            <a name="rnc"><h2>Rutgers&ndash;Newark Campus</h2></a>
             <ul><li> 
-Rutgers–Newark Campus: <a href="http://www.newark.rutgers.edu/maps-and-directions" target="_blank">Get Directions</a></li>
+Rutgers&ndash;Newark Campus: <a href="http://www.newark.rutgers.edu/maps-and-directions" target="_blank">Get Directions</a></li>
 <li>College of Nursing: Get Directions <span class="red">[NO DIRECTIONS URL ON THEIR WEBSITE]</span></li></ul>
 
 <a name="stratford"><h2>Rutgers at Stratford</h2></a>
@@ -99,17 +99,17 @@ Rutgers–Newark Campus: <a href="http://www.newark.rutgers.edu/maps-and-directi
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+       <!--  <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
                 
             </li>
         </ul>
+        </div>--><!-- #end-of-right-sidebar -->
         </div>
-        </div><!-- #end-of-right-sidebar -->
     
     </div>
     

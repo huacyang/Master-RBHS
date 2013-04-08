@@ -45,11 +45,11 @@
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Office of the Chancellor</h1>
-                <p><img src="images/blankperson.jpg" alt="chancellor" style="float:left;" class="inline-left"/>This will be a message from the Chancellor if we have one by July 1. As the inaugural Chancellor of Rutgers Behavioral Health Sciences, I am thrilled to have a leadership role in the most significant transformation of higher education in New Jersey in the past 40 years. With today’s expanded medical and other health professions education at Rutgers, RBHS provides increased academic opportunities for students and allows Rutgers to excel in medical, dental, nursing, pharmacy, and basic health sciences research, education, service, and patient care.
+                <p><img src="images/blankperson.jpg" alt="chancellor" style="float:left;" class="inline-left"/>This will be a message from the Chancellor if we have one by July 1. As the inaugural Chancellor of Rutgers Behavioral Health Sciences, I am thrilled to have a leadership role in the most significant transformation of higher education in New Jersey in the past 40 years. With today&rsquo;s expanded medical and other health professions education at Rutgers, RBHS provides increased academic opportunities for students and allows Rutgers to excel in medical, dental, nursing, pharmacy, and basic health sciences research, education, service, and patient care.
 
-As the founding Chancellor of Rutgers Behavioral Health Sciences, I am thrilled to have a leadership role in the most significant transformation of higher education in New Jersey in the past 40 years. With today’s expanded medical and other health professions education at Rutgers, RBHS provides increased academic opportunities for students and allows Rutgers to excel in medical, dental, nursing, pharmacy, and basic health sciences research, education, service, and patient care.</p>
+As the founding Chancellor of Rutgers Behavioral Health Sciences, I am thrilled to have a leadership role in the most significant transformation of higher education in New Jersey in the past 40 years. With today&rsquo;s expanded medical and other health professions education at Rutgers, RBHS provides increased academic opportunities for students and allows Rutgers to excel in medical, dental, nursing, pharmacy, and basic health sciences research, education, service, and patient care.</p>
 <p>
-<i>Chancellor’s Signature, M.D., Ph.D.</i><br/>
+<i>Chancellor&rsquo;s Signature, M.D., Ph.D.</i><br/>
 
 Chancellor Name, M.D., Ph.D.
 </p>
@@ -68,8 +68,8 @@ Email
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Announcement of Chancellor Lastname’s Appointment</h2>
-                <p>After a XX-month international search, Chancellor’s Name, M.D., Ph.D. was named the inaugural chancellor of Rutgers Biomedical Health Sciences. Learn more about this visionary leader and outstanding academic health sciences administrator.</p>
+            <h2>Announcement of Chancellor Lastname&rsquo;s Appointment</h2>
+                <p>After a XX-month international search, Chancellor&rsquo;s Name, M.D., Ph.D. was named the inaugural chancellor of Rutgers Biomedical Health Sciences. Learn more about this visionary leader and outstanding academic health sciences administrator.</p>
                 <ul>
                     <li><a href="http://news.rutgers.edu/medrel" target="_blank">Appointment News Release</a> <span class="orange">[NEED ACTUAL URL]</span></li>
                     <li><a href="chancellor_info.php">About Chancellor Name</a></li>
