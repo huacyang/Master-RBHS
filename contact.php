@@ -43,7 +43,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Contact Us</h1>
                 <p>Mailing Address<br/>
 Phone/Fax Numbers<br/>

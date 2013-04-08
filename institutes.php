@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Institutes</h1>
                 <p>A website listing all <a href="http://www.rutgers.edu/research/centers-institutes" target="_blank">institutes and centers</a> is maintained by the <a href="http://oirap.rutgers.edu" target="_blank">Office of Institutional Research and Academic Planning</a>. <span class="red">[TEXT WILL DEPEND ON DECISIONS MADE ABOUT CENTERS AND INSTITUTES LISTS]</span></p>
             
@@ -63,7 +63,7 @@
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-research.php") ?>
     
     </div><!-- #end-of-all-content -->
     

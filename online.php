@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Online Education</h1>
                 
             <h2>Continuing Education Online</h2>
@@ -70,7 +70,7 @@
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-academics.php") ?>
     
     </div><!-- #end-of-all-content -->
     

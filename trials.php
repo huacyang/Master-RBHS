@@ -85,7 +85,7 @@ As one of only 14 National Cancer Institute-designated Minority-Based Community 
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-care.php") ?>
     
     </div><!-- #end-of-all-content -->
     

@@ -9,9 +9,9 @@
                 <li id="chancellor" class="has-dropdown">
         			<a href="chancellor.php">Chancellor's Page</a>
            			<ul class="dropdown">
-                        <li><a href="chancellor_info.php">About Chancellor</a></li>
-                        <li><a href="#">Newark</a></li>
-                        <li><a href="#">New Brunswick</a></li>
+                        <li><a href="chancellor_info.php">About Chancellor</a>			</li>
+                        <li><a href="provost_newark.php">Newark</a></li>
+                        <li><a href="provost_nb.php">New Brunswick</a></li>
           			</ul>
        			</li>
                 <li id="location" class="has-dropdown">
@@ -27,7 +27,7 @@
     
     
     <!-- Second Section -->
-    <div class="panel paliing">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">

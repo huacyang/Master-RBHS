@@ -94,7 +94,7 @@ The center offers free health care to the Newark community. Services include phy
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-care.php") ?>
     
     </div><!-- #end-of-all-content -->
     

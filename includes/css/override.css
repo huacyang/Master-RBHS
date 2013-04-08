@@ -300,10 +300,14 @@ footer p {
 	margin-left:20px;
 }
 
-#context ul {
+#context ul, #context-large ul {
 	margin-left:70px;
 }
 
+#context-large p {
+	margin-left:20px; 
+}
+	
 #carouselnav {
 	float:right;
 	margin-right:-10px;

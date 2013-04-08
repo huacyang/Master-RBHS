@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Schools and Colleges</h1>
                 <p>Whatever your goals in the health care field, you will find schools at Rutgers that set the standard for advanced learning, research, and practice. We have two medical schools, including the 21st century incarnation of New Jersey&rsquo;s first medical school; the oldest and only dental school in New Jersey; the oldest pharmacy school in New Jersey by more than a century; and other stellar schools for your education. Faculty who are advancing knowledge in their fields are your mentors as you pursue your academic and professional vision.</p>
 <p>
@@ -90,7 +90,7 @@ The <a href="http://sphweb02.umdnj.edu/sphweb/sphc" target="_blank">School of Pu
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-academics.php") ?>
     
     </div><!-- #end-of-all-content -->
     

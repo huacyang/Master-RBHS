@@ -5,11 +5,11 @@
     <div class="row">
         <div class="twelve columns sidenav-shift">
         <ul class="nav-bar vertical small">
-            <li id="side_about"><a href="about.php">Patient Care</a></li>
-            <li id="side_contact"><a href="#">Physicians Ref Services</a></li>
-            <li id="side_diverse"><a href="#">Community Health</a></li>
-            <li id="side_faq"><a href="#">Clinical Practices</a></li>
-            <li id="side_faq"><a href="#">Clinical Trials</a></li>
+            <li><a href="about.php">Patient Care</a></li>
+            <li><a href="reference.php">Physicians Ref Services</a></li>
+            <li><a href="community.php">Community Health</a></li>
+            <li><a href="practives.php">Clinical Practices</a></li>
+            <li><a href="trials.php">Clinical Trials</a></li>
         </ul>
         </div>
 	</div>

@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large"  class="twelve mobile-four columns">
             <h1 id="page-title">Continuing Education</h1>
                 <p>Many health care professionals in our region choose to keep up-to-date with new developments in their fields through RBHS continuing education. Whether meeting face-to-face, studying enduring articles, or interacting online, our audiences experience innovative programs that cover requisites in their professions, address relevant clinical topics, and influence favorable treatment outcomes. Our commitment to effective lifelong learning&mdash;which adheres to the highest standards of industry compliance&mdash;improves clinician performance and has a positive impact on the health care industry.</p>
             <h2>Continuing Education Hubs</h2>
@@ -84,7 +84,7 @@
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-academics.php") ?>
     
     </div><!-- #end-of-all-content -->
     

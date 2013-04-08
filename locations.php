@@ -43,7 +43,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
            <a name="top"></a> <h1 id="page-title">Locations and Directions</h1>
                 <p>Rutgers Biomedical Health Sciences has primary facilities at Rutgers&rsquo; Main Campus in New Brunswick/Piscataway, at its two campuses in Newark and, and at additional locations in Stratford and Scotch Plains. And with a network of hundreds of health care and educational affiliates, RBHS has a presence in every one of New Jersey&rsquo;s 21 counties. These partnerships enable us to touch the lives of many New Jerseyans every day.</p>
 

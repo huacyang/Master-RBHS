@@ -15,7 +15,7 @@
                 <li><a href="about.php">Rutgers Biomedical and Health Sciences Overview</a></li>
                 <li><a href="chancellor.php">Office of the Chancellor</a></li>
                 <li><a href="locations.php">Locations and Directions</a></li>
-                <li><a href="#">Contact Us</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
             </ul>
         </li>
         <!-- #menu-item-three -->

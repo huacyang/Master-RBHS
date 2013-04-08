@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
            <a name="top"></a> <h1 id="page-title">Current Students</h1>
                 <p>The how, when, and why on classes and degrees.</p>
                <p><a href="#academics">Academics</a> | <a href="#financial">Financial Information</a> | <a href="#health">Health Services</a> | <a href="#stratford">Programs at Stratford</a> | <a href="#housing">Housing</a>  | <a href="#libraries">Libraries</a>  | <a href="#student">Student Activities</a>  | <a href="#transportation">Transportation and Parking</a> </p> 
@@ -177,7 +177,7 @@
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-information.php") ?>
     
     </div><!-- #end-of-all-content -->
     

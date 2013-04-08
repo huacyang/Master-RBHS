@@ -92,7 +92,7 @@ The practice is designated by the New Jersey Department of Health and Senior Ser
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-care.php") ?>
     
     </div><!-- #end-of-all-content -->
     

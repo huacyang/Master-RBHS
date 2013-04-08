@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Patients </h1>
                 <p>Rutgers Biomedical Health Sciences treats patients in a variety of settings. These include care provided or managed by faculty members of New Jersey Medical School, Robert Wood Johnson Medical School, Rutgers School of Dental Medicine, the School of Nursing, and the School of Health Related Professions. In addition, mental health professionals at University Behavioral Health Care provide care in various clinical programs and services throughout the state.</p>
             <h2>Medical Care</h2>
@@ -92,7 +92,7 @@
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-information.php") ?>
     
     </div><!-- #end-of-all-content -->
     

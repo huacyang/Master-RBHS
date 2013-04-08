@@ -5,8 +5,8 @@
     <div class="row">
         <div class="twelve columns sidenav-shift">
         <ul class="nav-bar vertical small">
-            <li id="side_about"><a href="about.php">Admissions Overview</a></li>
-            <li id="side_contact"><a href="#">Financial Aid</a></li>
+            <li id="side_about"><a href="admissions.php">Admissions Overview</a></li>
+            <li id="side_contact"><a href="financial.php">Financial Aid</a></li>
         </ul>
         </div>
 	</div>

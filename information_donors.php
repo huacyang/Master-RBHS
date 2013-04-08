@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Donors</h1>
                 <p class="red">TO COME WHEN ISSUES ARE MORE RESOLVED</p>
         </div><!-- #end-of-main-content-area -->
@@ -62,7 +62,7 @@
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-information.php") ?>
     
     </div><!-- #end-of-all-content -->
     

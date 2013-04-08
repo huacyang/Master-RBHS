@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Financial Aid</h1>
                 <p>More than 80 percent of our students receive some form of financial aid. Discover options for financing your education through grants, loans, scholarships, work study, fellowships, and more.</p>
 <ul>
@@ -75,7 +75,7 @@
     </div>
     
     <!-- Includes Left Side Navigation -->
-    <?php include("includes/side_nav-about.php") ?>
+    <?php include("includes/side_nav-admissions.php") ?>
     
     </div><!-- #end-of-all-content -->
     
