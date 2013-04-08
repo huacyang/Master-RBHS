@@ -229,7 +229,7 @@ footer p {
 .top-bar ul > li a:not(.button) {
 	font-size:12px;
 	font-weight:500;
-	padding-left:19px;
+	padding-left:23px;
 	padding-right:29.5px;
 	text-decoration:none;
 }
@@ -649,7 +649,7 @@ a.subhead {
         color:transparent;} 
 
 #side_nav .nav-bar > li > ul > li > a {	
-        background: url("http://drupalbasics.rutgers.edu/sites/all/themes/img/gray-square.gif") left;
+        background: url("http://drupalbasics.rutgers.edu/sites/all/themes/img/gray-square.gif") no-repeat left;
         padding:8px;
         padding-left:10px;
         padding-bottom:6px;

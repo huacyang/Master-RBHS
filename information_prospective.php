@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div class="twelve mobile-four columns">
             <h1 id="page-title">Prospective Students</h1>
                 <p>Find essential information on how to apply to RBHS schools and programs.
 

@@ -40,7 +40,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div class="twelve mobile-four columns">
             <h1 id="page-title">News Overview</h1>
                 <p>From faculty whose breakthrough discoveries make headlines to important announcements about our schools and research centers, keep up with all the latest news about Rutgers Biomedical Health Sciences&mdash;and about everything else Rutgers.</p>
             <h2>Rutgers Today</h2>
