@@ -43,7 +43,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Provost for RBHS Newark Programs</h1>
                 <p>Reporting directly to the chancellor, provost Firstname Lastname is responsible for.... He/She came to Rutgers from... where he/she accomplishments.... [BIO TO COME]<br/>
 <br/>

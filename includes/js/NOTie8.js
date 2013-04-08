@@ -25,5 +25,5 @@ function create_mobileNav() {
 
 $(window).ready(function(e) {
 	//create_mobileNav();
-	document.getElementById("NOTie").innerHTML = "Message of the Day: You're Awesome for not using IE!";
+	document.getElementById("NOTie").innerHTML = "";
 });

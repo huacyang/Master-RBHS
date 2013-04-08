@@ -43,7 +43,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Directions: Chancellor and Provosts&rsquo; Offices</h1>
                 <p>TO COME: Written directions to the offices of the Chancellor, Newark Provost, NB Provost</p>
             

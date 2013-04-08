@@ -12,5 +12,5 @@ function shiftup() {
 
 $(window).ready(function(e) {
 	shiftup();
-	document.getElementById("WHYie").innerHTML = "Message of the day: Why are you using IE?!";
+	document.getElementById("WHYie").innerHTML = "";
 });

@@ -5,9 +5,9 @@
             <li class="first"><a href="http://www.rutgers.edu">Rutgers Home</a></li>
             <li><a href="http://www.nb.rutgers.edu">New Brunswick</a></li>
             <li><a href="http://www.newark.rutgers.edu">Newark</a></li>
-            <li><a href="http://www.camden.rutgers.edu">Camden</a></li>
-        	<li id="WHYie"></li>
-            <li class="last" id="NOTie"></li>
+            <li class="last"><a href="http://www.camden.rutgers.edu">Camden</a></li>
+        	<div id="WHYie"></div>
+            <div id="NOTie"></div>
         </ul>
     </div>
     <div id="hright">

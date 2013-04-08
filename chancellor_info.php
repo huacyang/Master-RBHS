@@ -43,7 +43,7 @@
         </div>
         <br/>
         <div class="row">
-        <div id="context" class="eight mobile-four columns">
+        <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">About Chancellor Firstname Lastname</h1>
                 <p><img src="images/blankperson.jpg" alt="chancellor" style="float:left;" class="inline-left"/>Reporting directly to the president, chancellor Firstname Lastname is responsible for.... He/She came to Rutgers from... where he/she accomplishments.... [BIO TO COME]</p>
             
