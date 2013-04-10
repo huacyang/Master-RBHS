@@ -5,7 +5,7 @@
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width" />
     <!-- title -->
-    <title>Rutgers | Rutgers Biomedical and Health Sciences</title>
+    <title>Home | Rutgers Biomedical and Health Sciences</title>
     
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/bootstrap.css" />

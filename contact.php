@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Rutgers | Health - About</title>
+	<title>Contact Us | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />

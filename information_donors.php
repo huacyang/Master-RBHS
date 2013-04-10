@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Rutgers | Information for Donors</title>
+	<title>Donors | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
@@ -63,6 +63,23 @@
     
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-information.php") ?>
+     <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="#">Before You Apply</a></li>
+            <li><a href="#">Application Guidelines</a></li>
+            <li><a href="#">Supporting Materials</a></li>
+            <li><a href="#">Check your Status</a></li>
+            <li><a href="#">What's Next?</a></li>
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
     
     </div><!-- #end-of-all-content -->
     

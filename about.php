@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Rutgers | Health - About</title>
+	<title>Rutgers Biomedical and Health Sciences Overview | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
@@ -39,7 +39,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/about_269_837_bnr.jpg" alt="Students and faculty interaction" title="Students and faculty interaction""/>
         </div>
         </div>
         <br/>
@@ -72,7 +72,7 @@
             <li>
             <h2>Cancer Institute of<br>
 New Jersey</h2>
-                <p>As New Jersey's only National Cancer Institute-designated Comprehensive Cancer Center, the <a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a> is dedicated to improving the prevention, detection, treatment, and care of patients with cancer, through the transformation of laboratory discoveries into clinical practice. Although it is a major component of Rutgers Biomedical and Health Sciences, the Cancer Institute of New Jersey reports directly to Rutgers&rsquo; president, <a href="http://president.rutgers.edu" target="_blank">Robert L. Barchi</a>.</p>
+                <p><img src="images/CINJ_building_th.jpg" alt="CINJ Building" title="CINJ Building" style="float:left;" class="inline-left"/>As New Jersey's only National Cancer Institute-designated Comprehensive Cancer Center, the <a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a> is dedicated to improving the prevention, detection, treatment, and care of patients with cancer, through the transformation of laboratory discoveries into clinical practice. Although it is a major component of Rutgers Biomedical and Health Sciences, the Cancer Institute of New Jersey reports directly to Rutgers&rsquo; president, <a href="http://president.rutgers.edu" target="_blank">Robert L. Barchi</a>.</p>
             </li>
            
         </ul>
@@ -83,6 +83,23 @@ New Jersey</h2>
     
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-about.php") ?>
+     <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="#">Before You Apply</a></li>
+            <li><a href="#">Application Guidelines</a></li>
+            <li><a href="#">Supporting Materials</a></li>
+            <li><a href="#">Check your Status</a></li>
+            <li><a href="#">What's Next?</a></li>
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
     
     </div><!-- #end-of-all-content -->
     

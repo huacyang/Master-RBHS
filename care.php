@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Rutgers | Health - About</title>
+	<title>Patient Care Overview | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/patientcare_478_441_bnr.jpg" />
         </div>
         </div>
         <br/>
@@ -72,7 +72,7 @@ Find clinical trials and translational research, available only through universi
                 <p>RBHS schools have relationships with scores of affiliated hospitals and clinics throughout the region. Explore school websites to learn more. <span class="red">[LINK TO CLINICAL AFFILIATES PAGES ON EACH SCHOOL&rsquo;S WEB SITE IF THEY ARE ADDED]</span></p>
            
             <ul><li>College of Nursing</li>
-            <li>Ernest Mario School of Pharmac</li>
+            <li>Ernest Mario School of Pharmacy</li>
             <li>Graduate School of Biological Sciences</li>
             <li>New Jersey Medical School</li>
             <li>Rutgers School of Dental Medicine</li>
@@ -91,6 +91,23 @@ Find clinical trials and translational research, available only through universi
     
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-care.php") ?>
+     <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="#">Before You Apply</a></li>
+            <li><a href="#">Application Guidelines</a></li>
+            <li><a href="#">Supporting Materials</a></li>
+            <li><a href="#">Check your Status</a></li>
+            <li><a href="#">What's Next?</a></li>
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
     
     </div><!-- #end-of-all-content -->
     
