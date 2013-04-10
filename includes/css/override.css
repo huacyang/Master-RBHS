@@ -723,9 +723,14 @@ ul li.has-dropdown ul.dropdown li {
 		
 .top-bar ul > li.has-dropdown .dropdown li { 
 width:208px;}
-		
+	
+.top-bar ul > li.has-dropdown:hover a, .top-bar ul > li.has-dropdown .dropdown li:hover a {
+    color: #F4D96D;
+}
+	
 img.inline-left {margin: 6px 10px 10px 0;}
 
 img.inline-right {margin: 6px 0 10px 10px;}
 
 #navigation ul.dropdown li a {padding:8px;}
+
