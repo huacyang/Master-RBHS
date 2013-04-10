@@ -53,22 +53,40 @@ Link to mail form
         
         <!-- Right Sidebar
         ====================== -->
-      <!--   <div id="side_bar" class="four mobile-four columns">
+        <!--<div id="side_bar" class="four mobile-four columns">
         <ul>
-            // Panel One/
+             // Panel One
             <li>
             <h2>TO BE DELETED</h2>
                 <p>TO BE DELETED</p>
-                
+               
             </li>
-        </ul>
-        </div> --><!-- #end-of-right-sidebar -->
+            
+        </ul> 
+        </div>--><!-- #end-of-right-sidebar -->
         </div>
     
     </div>
     
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-about.php") ?>
+     <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="#">Before You Apply</a></li>
+            <li><a href="#">Application Guidelines</a></li>
+            <li><a href="#">Supporting Materials</a></li>
+            <li><a href="#">Check your Status</a></li>
+            <li><a href="#">What's Next?</a></li>
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
     
     </div><!-- #end-of-all-content -->
     

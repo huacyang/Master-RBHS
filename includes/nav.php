@@ -12,7 +12,7 @@
         <li id="about" class="has-dropdown">
         <a href="about.php">About</a>
             <ul class="dropdown">
-                <li><a href="about.php">Rutgers Biomedical and Health Sciences Overview</a></li>
+                <li><a href="about.php">RBHS Overview</a></li>
                 <li><a href="chancellor.php">Office of the Chancellor</a></li>
                 <li><a href="locations.php">Locations and Directions</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
@@ -63,7 +63,7 @@
             <ul class="dropdown">
                 <li><a href="research.php">Research Overview</a></li>
                 <li><a href="institutes.php">Institutes</a></li>
-                <li><a href="research_org.php">Clinical Research Organization: Clinical Trials</a></li>
+                <li><a href="research_org.php">CRO: Clinical Trials</a></li>
             </ul>
         </li>
         <!-- #menu-item-eight -->

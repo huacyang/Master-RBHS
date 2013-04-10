@@ -232,8 +232,8 @@ footer p {
 .top-bar ul li a:not(.button) {
 	font-size:12px;
 	font-weight:500;
-	padding-left:30px;
-	padding-right:29.5px;
+    padding-left: 23px;
+    padding-right: 23px;
 	text-decoration:none;
 }
 
@@ -260,7 +260,8 @@ footer p {
 	padding-top:10px;
 	font-family:Verdana,Geneva,sans-serif;
 	font-size:11px;}
-	
+.top-bar ul li.has-dropdown .dropdown li a:hover{
+	color:#F4D96D;}	
 
 .top-bar ul li:not(.name).active a { 
 	background-color:#7D756B;
@@ -278,6 +279,9 @@ footer p {
  * Override exisiting ID's
  * =======================
  */
+ 
+#about a:hover, #academics a:hover, #admissions a:hover, #information a:hover, #research a:hover, #care a:hover, #news a:hover {
+color: #F4D96D;}
  
 #banner {
 	width:702px;
@@ -299,7 +303,7 @@ footer p {
 	width:63%;
 }
 
-#context p {
+#context p, #context-large p {
 	margin:0 0 12px;
 	margin-left:20px;
 }
@@ -308,10 +312,7 @@ footer p {
 	margin-left:70px;
 }
 
-#context-large p {
-	margin-left:20px; 
-}
-	
+
 #carouselnav {
 	float:right;
 	margin-right:-10px;
@@ -444,7 +445,7 @@ a.subhead {
 #side_bar {
 	margin-top:15px;
 	padding-left:5px;
-	width:37%;
+	width:36%;
 }
 
 #side_bar a {
@@ -606,7 +607,7 @@ a.subhead {
 
 #side_nav .wrapper h2 {
 	color:#000000;
-	margin-left:-20px;
+	margin-left:-15px;
 	margin-top:15px;
 }
 
@@ -614,6 +615,7 @@ a.subhead {
 	background-color:#FFF;
 	margin-left:5px;
 	margin-top:-5px;
+	padding:15px 12px 20px;
 }
 
 #side_nav .panel .row:last-child {
@@ -646,13 +648,13 @@ a.subhead {
 	margin-top:18px;
 }
 
-ul li.has-dropdown ul.dropdown li:hover {
+ul li.has-dropdown ul.dropdown li:hover, .top-bar ul > li.has-dropdown a:after {
     background-color: #565149;
     color: #F4D970;
-    padding-top: 4px;
+    padding-top: 0px;
 }
 ul li.has-dropdown ul.dropdown li {
-    padding-top: 4px;
+    padding-top: 0px;
 }
 
 .top-bar ul li.has-dropdown .dropdown li a {
@@ -687,6 +689,7 @@ ul li.has-dropdown ul.dropdown li {
         background: url("http://drupalbasics.rutgers.edu/sites/all/themes/img/gray-square.gif") no-repeat left;
         border:hidden;
         margin-left:-10px;
+		 padding-left: 10px;
         }
 
 #side_nav .nav-bar li {
@@ -718,7 +721,11 @@ ul li.has-dropdown ul.dropdown li {
         padding-left:8px;
         padding-right:8px;}
 		
+.top-bar ul > li.has-dropdown .dropdown li { 
+width:208px;}
+		
 img.inline-left {margin: 6px 10px 10px 0;}
 
 img.inline-right {margin: 6px 0 10px 10px;}
 
+#navigation ul.dropdown li a {padding:8px;}
