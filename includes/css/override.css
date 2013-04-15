@@ -718,11 +718,11 @@ ul li.has-dropdown ul.dropdown li {
 }
 
 #side_nav .nav-bar li ul li a {
-    background: url(../img/gray-square.gif) no-repeat left;
-    border: hidden;
-    margin-left: -10px;
-    padding-left: 10px;
+    background: url("../img/gray-square.gif") no-repeat scroll left center transparent;
+    border: medium hidden;
+    margin-left: -20px;
     margin-top: -4px;
+    padding-left: 20px;
 }
 
 #side_nav .nav-bar li {
