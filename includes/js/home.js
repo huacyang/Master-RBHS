@@ -92,9 +92,11 @@ $(window).load(function(){
 });
 
 $(window).ready(function(e) {
-	function create_img(img_url) {
+	function create_img(img_url, img_alt) {
 		var img = document.createElement("img");
 		img.src = img_url;
+		img.alt = img_alt;
+		img.title = img_alt;
 		return img;
 	}
 	function create_tag(type, content) {
@@ -114,11 +116,11 @@ $(window).ready(function(e) {
 		if (first) { link_img.className = "active"; }
 		document.getElementById("carouselnav").appendChild(link_img);
 	}
-	function link_img(img_url, img_link, count) {
+	function link_img(img_url, img_alt, img_link, count) {
 		var linked_img = document.createElement("a");
 		if (count != null) { linked_img.setAttribute("data-to", count); }
 		linked_img.href = img_link;
-		linked_img.appendChild(create_img(img_url));
+		linked_img.appendChild(create_img(img_url, img_alt));
 		return linked_img;
 	}
 	
@@ -133,22 +135,23 @@ $(window).ready(function(e) {
 	var fileContent = xmlhttp.responseText;
 	var fileArray = fileContent.split('\n')
 	
-	var i = 7, count = 0, first = true, img_url, img_link, img_title, img_content;
+	var i = 8, count = 0, first = true, img_url, img_link, img_title, img_content;
 	var img_div, content_div;
 	do {
 		img_title = fileArray[i];
 		img_url = fileArray[i+1];
 		img_link = fileArray[i+2];
 		img_content = fileArray[i+3];
+		img_alt = fileArray[i+4];
 		
-		if (!img_title || !img_url || !img_link || !img_content) {
+		if (!img_title || !img_url || !img_link || !img_content || !img_alt) {
 			i++;
 			continue;
 		} else {
-			i = i+4;
-			append_content(first, "image", link_img(img_url, img_link, null), null);
+			i = i+5;
+			append_content(first, "image", link_img(img_url, img_alt, img_link, null), null);
 			append_content(first, "content", create_tag("h4", img_title), create_tag("p", img_content));
-			append_atag(first, link_img(img_url, null, count));
+			append_atag(first, link_img(img_url, null, null, count));
 			randomimages.push(img_url);
 			count++;
 			total_content++;

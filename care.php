@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/patientcare_478_441_bnr.jpg" />
+        	<img src="images/patientcare_478_441_bnr.jpg" alt="Doctor and nurse interacting with patients" title="Doctor and nurse interacting with patients" />
         </div>
         </div>
         <br/>

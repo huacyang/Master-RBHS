@@ -708,12 +708,11 @@ ul li.has-dropdown ul.dropdown li {
 	color: #b48c00;
 }
 #side_nav .nav-bar li:active, #side_nav .nav-bar li a:active, #side_nav ul li:active, #side_nav ul li a:active, #side_nav .nav-bar li.active, #side_nav .nav-bar li a.active, #side_nav ul li.active, #side_nav ul li a.active {
-	color: #D54B5A;
 	background-color: #ebeee1;
-	text-
 }
 
-
+#side_nav .has-dropdown .active {
+	color:#D54B5A; }
 .top-bar ul li.has-dropdown .dropdown li a { 
 		text-decoration:none;
       	padding-bottom:0px;

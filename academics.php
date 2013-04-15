@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/academics_010_931_980_bnr.jpg" />
+        	<img src="images/academics_010_931_980_bnr.jpg" alt="Students interacting with faculty in a classroom" title="Students interacting with faculty in a classroom" />
         </div>
         </div>
         <br/>
@@ -79,7 +79,8 @@
             <!-- Panel Two -->
             <li>
             <h2>Libraries</h2>
-                <p><img src="images/0167-120710-RoyG_th.jpg" alt="Libraries" title="Libraries" style="float:left;" class="inline-left"/>With more than two dozen centers and reading rooms across our campuses, the Rutgers University Libraries rank among the nation&rsquo;s top research library systems. <a href="http://www.rutgers.edu/academics/libraries" target="_blank">Learn more</a>.</p>
+                <p><img src="images/0167-120710-RoyG_th.jpg" alt="Female student working on a laptop in the library" title="Female student working on a laptop in the library" style="float:left;" class="inline-left"/></br>
+With more than two dozen centers and reading rooms across our campuses, the Rutgers University Libraries rank among the nation&rsquo;s top research library systems. <a href="http://www.rutgers.edu/academics/libraries" target="_blank">Learn more</a>.</p>
             </li>
             
         </ul>

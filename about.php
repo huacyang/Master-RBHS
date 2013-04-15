@@ -72,7 +72,8 @@
             <li>
             <h2>Cancer Institute of<br>
 New Jersey</h2>
-                <p><img src="images/CINJ_building_th.jpg" alt="CINJ Building" title="CINJ Building" style="float:left;" class="inline-left"/>As New Jersey's only National Cancer Institute-designated Comprehensive Cancer Center, the <a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a> is dedicated to improving the prevention, detection, treatment, and care of patients with cancer, through the transformation of laboratory discoveries into clinical practice. Although it is a major component of Rutgers Biomedical and Health Sciences, the Cancer Institute of New Jersey reports directly to Rutgers&rsquo; president, <a href="http://president.rutgers.edu" target="_blank">Robert L. Barchi</a>.</p>
+                <p><img src="images/CINJ_building_th.jpg" alt="CINJ Building" title="CINJ Building" style="float:left;" class="inline-left"/></br>
+As New Jersey's only National Cancer Institute-designated Comprehensive Cancer Center, the <a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a> is dedicated to improving the prevention, detection, treatment, and care of patients with cancer, through the transformation of laboratory discoveries into clinical practice. Although it is a major component of Rutgers Biomedical and Health Sciences, the Cancer Institute of New Jersey reports directly to Rutgers&rsquo; president, <a href="http://president.rutgers.edu" target="_blank">Robert L. Barchi</a>.</p>
             </li>
            
         </ul>

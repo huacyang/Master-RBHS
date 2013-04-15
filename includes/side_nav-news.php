@@ -5,7 +5,7 @@
     <div class="row">
         <div class="twelve columns sidenav-shift">
         <ul class="nav-bar vertical small">
-            <li id="side_about"><a href="news.php">News Overview</a></li>
+            <li id="sb_news"><a href="news.php">News Overview</a></li>
         </ul>
         </div>
 	</div>

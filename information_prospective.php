@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/info_for_274_047_899_bnr.jpg" />
+        	<img src="images/info_for_274_047_899_bnr.jpg" alt="Three students in various classroom settings" title="Three students in various classroom settings" />
         </div>
         </div>
         <br/>
