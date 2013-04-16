@@ -28,11 +28,10 @@ function mobile() {
 function activate(id, classes) {
     document.getElementById(id).className = classes;
 }
+
 /*
  * Function for setting the corresponding tab on the navigation bar active
  */
-<<<<<<< HEAD
-
 function active() {
     var url = document.URL,
         i = 0,
@@ -179,148 +178,9 @@ function active() {
             found = false;
         }
         if (found) break;
-=======
-function active() {
-	var url = document.URL, i = 0, found = false;
-	var token = url.replace(".", "/", "g").replace("_", "/", "g");
-	token = token.split("/");
-	for(; i < token.length; i++) {
-		//console.log(token[i]);
-		var found = true;
-		switch(token[i]) {
-			case "about":
-				document.getElementById("about").className = "has-dropdown active";
-				break;
-			case "chancellor":
-				document.getElementById("about").className = "has-dropdown active";
-				break;
-			case "locations":
-				document.getElementById("about").className = "has-dropdown active";
-				break;
-			case "academics":
-				document.getElementById("academics").className = "has-dropdown active";
-				break;
-			case "schools":
-				document.getElementById("academics").className = "has-dropdown active";
-				break;
-			case "continuing":
-				document.getElementById("academics").className = "has-dropdown active";
-				break;
-			case "online":
-				document.getElementById("academics").className = "has-dropdown active";
-				break;
-			case "graduate":
-				document.getElementById("academics").className = "has-dropdown active";
-				break;
-			case "undergraduate":
-				document.getElementById("academics").className = "has-dropdown active";
-				break;
-			case "admissions":
-				document.getElementById("admissions").className = "has-dropdown active";
-				break;
-			case "financial":
-				document.getElementById("admissions").className = "has-dropdown active";
-				break;
-			case "care":
-				document.getElementById("care").className = "has-dropdown active";
-				break;
-			case "reference":
-				document.getElementById("care").className = "has-dropdown active";
-				break;
-			case "community":
-				document.getElementById("care").className = "has-dropdown active";
-				break;
-			case "practices":
-				document.getElementById("care").className = "has-dropdown active";
-				break;
-			case "trails":
-				document.getElementById("care").className = "has-dropdown active";
-				break;
-			case "news":
-				document.getElementById("news").className = "has-dropdown active";
-				break;
-			case "research":
-				document.getElementById("research").className = "has-dropdown active";
-				break;
-			case "institutes":
-				document.getElementById("research").className = "has-dropdown active";
-				break;
-			case "information":
-				document.getElementById("information").className = "has-dropdown active";
-				break;
-			default:
-				found = false;
-		}
-		if (found)	break;
-		/*
-		if (token[i] == "about" || 
-			token[i] == "chancellor" || 
-			token[i] == "locations") {
-			document.getElementById("about").className = "has-dropdown active";
-			active_about();
-			break;
-		} else if (token[i] == "academics" || 
-				   token[i] == "schools" || 
-				   token[i] == "continuing" || 
-				   token[i] == "online" ||
-				   token[i] == "graduate" ||
-				   token[i] == "undergraduate") {
-			document.getElementById("academics").className = "has-dropdown active";
-			break;
-		} else if (token[i] == "admissions" ||
-				   token[i] == "financial") {
-			document.getElementById("admissions").className = "has-dropdown active";
-			break;
-		} else if (token[i] == "care" ||
-				   token[i] == "reference" ||
-				   token[i] == "community" ||
-				   token[i] == "practices" ||
-				   token[i] == "trials") {
-			document.getElementById("care").className = "has-dropdown active";
-			break;
-		} else if (token[i] == "news") {
-			document.getElementById("news").className = "has-dropdown active";
-			break;
-		} else if (token[i] == "research" ||
-				   token[i] == "institutes") {
-			document.getElementById("research").className = "has-dropdown active";
-			break;
-		} else if (token[i] == "information") {
-			document.getElementById("information").className = "has-dropdown active";
-			break;
-		}
-		*/
 	}
 }
 
-
-/**active side nav
-jQuery(function() {
-  jQuery('#side_nav nav-bar > li').each(function() {
-    var href = jQuery(this).find('a').attr('href');
-    if (href === window.location.pathname) {
-      jQuery(this).addClass('active');
-    }
-  });
-});**/
-/**
-function setActive() {
-  aObj = document.getElementById('side_nav').getElementsByTagName('li');
-  for(i=0;i<aObj.length;i++) {
-    if(document.location.href.indexOf(aObj[i].href)>=0) {
-      aObj[i].className='active';
->>>>>>> activation
-    }
-}
-<<<<<<< HEAD
-=======
-**/
-
-	
-	
-
-
->>>>>>> activation
 // During load
 $(window).load(function() {
     $(window).resize(function() {
