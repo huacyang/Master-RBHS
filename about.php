@@ -9,8 +9,12 @@
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/print.css" media="print" />
-
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    
+	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
     
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
@@ -24,7 +28,7 @@
 </head>
 <body>
 	<div class="row">
-	<div id="header" class="twelve columns" >
+	<div class="twelve columns" >
         <!-- Includes Header -->	
         <?php include("includes/header.php") ?>
         <!-- Includes Navigation -->

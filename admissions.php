@@ -8,6 +8,7 @@
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/print.css" media="print" />
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
     <script type="text/javascript" src="includes/js/jquery.js"></script>
