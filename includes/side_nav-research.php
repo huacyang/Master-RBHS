@@ -7,7 +7,7 @@
         <ul class="nav-bar vertical small">
             <li id="sb_research"><a href="research.php">Research Overview</a></li>
             <li id="sb_institutes"><a href="institutes.php">Institutes</a></li>
-            <li id="sb_research_org"><a href="research_org.php">Clinical Research Orgs</a></li>
+            <li id="sb_research_org"><a href="research_org.php">Clinical Research Organization: Clinical Trials</a></li>
         </ul>
         </div>
 	</div>

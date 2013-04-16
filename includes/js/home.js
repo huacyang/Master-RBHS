@@ -1,6 +1,10 @@
 var total_content = 0;
 var randomimages = new Array()
 
+function activate() {
+	document.getElementById("home").className = "home-active";
+}
+
 function randomize() {
 	var shifting = document.getElementById("shifting");
 	var img = document.createElement("img");
@@ -161,4 +165,5 @@ $(window).ready(function(e) {
 	
 	randomize();
 	mobile();
+	activate();
 });

@@ -200,11 +200,12 @@ ul.flyout li a,.nav-bar li ul li a {
     border-left-style: none;
     border-right-style: none;
     border-color: #ddded0;
+	padding: 4px 5px;
 }
 
 .nav-bar.vertical li a {
     margin-left: -13px;
-    line-height: 28px;
+    line-height: 1.6;
 }
 
 .nav-bar.vertical li:last-child {
@@ -213,6 +214,12 @@ ul.flyout li a,.nav-bar li ul li a {
 
 .nav-bar > li.active > a {
     cursor: pointer;
+}
+
+.nav-bar li a:first-child {
+    padding-left: 6px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 #content_area.span3 {
@@ -297,6 +304,10 @@ ul.flyout li a,.nav-bar li ul li a {
 
 .top-bar ul li:not(.name).active a {
     background-color: #7D756B;
+    color: #F4D96D;
+}
+
+.top-bar ul li:not(.name).home-active a {
     color: #F4D96D;
 }
 
@@ -455,7 +466,8 @@ ul.flyout li a,.nav-bar li ul li a {
     margin-left: 2px;
 }
 
-a.subhead {
+#main a.subhead,
+#submain a.subhead {
     background: url(../img/arrow-blue.gif) no-repeat scroll right 3px transparent;
     color: #017ea5;
     font: bold 14px Arial,sans-serif;
@@ -524,7 +536,9 @@ a.subhead {
     margin-bottom: 0;
 }
 
-#side_bar a,#side_bar li,#side_bar p {
+#side_bar a,
+#side_bar li,
+#side_bar p {
     font-size: 10px;
     font-weight: 400;
 }
@@ -554,6 +568,8 @@ a.subhead {
 
 #side_bar-home ul li a {
     margin-left: -3px;
+	font-size: 11px;
+	line-height: 19px;
 }
 
 #side_bar-home ul li a:hover {
@@ -607,12 +623,6 @@ a.subhead {
 #side_nav .item-list ul li a:hover {
     background: #fff;
     color: #868684;
-}
-
-.nav-bar li a:first-child {
-    padding-left: 6px;
-    padding-top: 0;
-    padding-bottom: 0;
 }
 
 #side_nav ul li a:hover {
@@ -696,12 +706,11 @@ ul li.has-dropdown ul.dropdown li {
     padding: 0;
 }
 
-#side_nav .nav-bar li:hover {
-    margin: 0;
-    background-color: transparent;
+#side_nav .nav-bar {
+	max-width:185px;
 }
 
-#side_nav .nav-bar li ul li {
+#side_nav .nav-bar li:hover {
     margin: 0;
     background-color: transparent;
 }
@@ -711,17 +720,20 @@ ul li.has-dropdown ul.dropdown li {
 }
 
 #side_nav .nav-bar li ul li {
-    padding: 0;
     border: 0;
     margin: 0;
+	list-style-image: url("../img/gray-square.gif");
+    background-color: transparent;
     color: transparent;
+	padding: 4px 5px;
 }
 
 #side_nav .nav-bar li ul li a {
-    background: url("../img/gray-square.gif") no-repeat scroll left center transparent;
+    background: no-repeat scroll left center transparent;
     border: medium hidden;
     margin-left: -20px;
     margin-top: -4px;
+	line-stacking:max-height;
     padding-left: 20px;
 }
 

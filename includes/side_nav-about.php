@@ -5,19 +5,19 @@
     <div class="row">
         <div class="twelve columns sidenav-shift">
              <ul class="nav-bar vertical small">
-                <li id="sb_about"><a href="about.php">RBHS Overview</a></li>
+                <li id="sb_about"><a href="about.php">Rutgers Biomedical and Health Sciences Overview</a></li>
                 <li id="sb_chancellor" class="has-dropdown">
-        			<a href="chancellor.php">Chancellor's Page</a>
+        			<a href="chancellor.php">Office of the Chancellor</a>
            			<ul class="dropdown">
-                        <li id="sb_info"><a href="chancellor_info.php">About Chancellor</a>			</li>
-                        <li id="sb_newark"><a href="provost_newark.php">Newark</a></li>
-                        <li id="sb_nb"><a href="provost_nb.php">New Brunswick</a></li>
+                        <li id="sb_info"><a href="chancellor_info.php">About Chancellor</a></li>
+                        <li id="sb_newark"><a href="provost_newark.php">Provost for RBHS Newark Programs</a></li>
+                        <li id="sb_nb"><a href="provost_nb.php">Provost for RBHS New Brunswick Programs</a></li>
           			</ul>
        			</li>
                 <li id="sb_location" class="has-dropdown">
-        			<a href="locations.php">Locations</a>
+        			<a href="locations.php">Locations and Directions</a>
            			<ul class="dropdown">
-                        <li id="sb_directions"><a href="directions.php">Directions</a></li>
+                        <li id="sb_directions"><a href="directions.php">Directions: Chancellor and Provosts' Offices</a></li>
           			</ul>
        			</li>
                 <li id="sb_contact"><a href="contact.php">Contact Us</a></li>
