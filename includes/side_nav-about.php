@@ -16,9 +16,9 @@
        			</li>
                 <li id="sb_location" class="has-dropdown">
         			<a href="locations.php">Locations and Directions</a>
-           			<ul class="dropdown">
+           			<!--<ul class="dropdown">
                         <li id="sb_directions"><a href="directions.php">Directions: Chancellor and Provosts' Offices</a></li>
-          			</ul>
+          			</ul>-->
        			</li>
                 <li id="sb_contact"><a href="contact.php">Contact Us</a></li>
         	</ul>

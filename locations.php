@@ -9,7 +9,6 @@
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
-    <link type="text/css" rel="stylesheet" href="includes/css/print.css" media="print" />
     
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
@@ -117,7 +116,7 @@ Rutgers&ndash;Newark Campus: <a href="http://www.newark.rutgers.edu/maps-and-dir
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-about.php") ?>
      <!-- Second Section -->
-    <div class="panel padding">
+    <!--<div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
@@ -130,7 +129,7 @@ Rutgers&ndash;Newark Campus: <a href="http://www.newark.rutgers.edu/maps-and-dir
         </ul>
         </div>
     </div>
-	</div>
+	</div> -->
     </div>
 </div>
     

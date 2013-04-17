@@ -180,6 +180,12 @@ ul.flyout li a,.nav-bar li ul li a {
     text-decoration: none;
 }
 
+.top-bar ul > li.has-dropdown .dropdown li a {
+	white-space:normal;
+	padding-bottom:10px;
+	line-height:1;
+}
+
 .top-bar ul li.has-dropdown:hover a,.top-bar ul li.has-dropdown .dropdown li:hover a {
     text-decoration: none;
 }
@@ -189,8 +195,9 @@ ul.flyout li a,.nav-bar li ul li a {
 }
 
 .top-bar ul li.has-dropdown .dropdown li a:hover,.top-bar ul li.has-dropdown .dropdown li a:focus {
-    background: none;
+    background: #565149;
 }
+.top-bar ul li.has-dropdown .dropdown li a {background: #7D756B;}
 
 .nav-bar.vertical {
     background-color: #FFF;
@@ -200,7 +207,7 @@ ul.flyout li a,.nav-bar li ul li a {
     border-left-style: none;
     border-right-style: none;
     border-color: #ddded0;
-	padding: 4px 5px;
+	padding: 0px;
 }
 
 .nav-bar.vertical li a {
@@ -218,8 +225,8 @@ ul.flyout li a,.nav-bar li ul li a {
 
 .nav-bar li a:first-child {
     padding-left: 6px;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #content_area.span3 {
@@ -308,7 +315,7 @@ ul.flyout li a,.nav-bar li ul li a {
 }
 
 .top-bar ul li:not(.name).home-active a {
-    color: #F4D96D;
+    color: #fff;
 }
 
 .top-bar ul li.active-parent a {
@@ -729,12 +736,13 @@ ul li.has-dropdown ul.dropdown li {
 }
 
 #side_nav .nav-bar li ul li a {
-    background: no-repeat scroll left center transparent;
+    background: none no-repeat scroll left center transparent;
     border: medium hidden;
-    margin-left: -20px;
+    margin-left: -25px;
     margin-top: -4px;
-	line-stacking:max-height;
+	margin-bottom: -5px;
     padding-left: 20px;
+    width: 185px;
 }
 
 #side_nav .nav-bar li {
@@ -801,3 +809,17 @@ img.inline-right {
 #navigation ul.dropdown li a {
     padding: 8px;
 }
+
+#navigation ul.dropdown li#long a, #navigation ul.dropdown li#long:hover {
+    padding-bottom: 40px;
+    line-height: 150%;
+}
+
+#side_nav ul li ul li {display: none;} 
+
+#side_nav ul li.active ul li {display: block;}
+
+#side_nav ul li.active ul li a{
+    background: url("../img/gray-square.gif") 0px 11px no-repeat;
+}
+

@@ -8,8 +8,6 @@
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
-    <link type="text/css" rel="stylesheet" href="includes/css/print.css" media="print" />
-    
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
     <script type="text/javascript" src="includes/js/jquery.js"></script>
@@ -96,7 +94,7 @@ The practice is designated by the New Jersey Department of Health and Senior Ser
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-care.php") ?>
      <!-- Second Section -->
-    <div class="panel padding">
+    <!--<div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
@@ -109,7 +107,7 @@ The practice is designated by the New Jersey Department of Health and Senior Ser
         </ul>
         </div>
     </div>
-	</div>
+	</div> -->
     </div>
 </div>
     

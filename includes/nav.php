@@ -63,7 +63,7 @@
             <ul class="dropdown">
                 <li><a href="research.php">Research Overview</a></li>
                 <li><a href="institutes.php">Institutes</a></li>
-                <li><a href="research_org.php">Clinical Research Orgs</a></li>
+                <li id="long"><a href="research_org.php">Clinical Research Organization: Clinical Trials</a></li>
             </ul>
         </li>
         <!-- #menu-item-eight -->

@@ -8,7 +8,6 @@
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
-    <link type="text/css" rel="stylesheet" href="includes/css/print.css" media="print" />
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
     <script type="text/javascript" src="includes/js/jquery.js"></script>
@@ -93,7 +92,7 @@ Find clinical trials and translational research, available only through universi
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-care.php") ?>
      <!-- Second Section -->
-    <div class="panel padding">
+    <!--<div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
@@ -106,7 +105,7 @@ Find clinical trials and translational research, available only through universi
         </ul>
         </div>
     </div>
-	</div>
+	</div> -->
     </div>
 </div>
     

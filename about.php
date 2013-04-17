@@ -8,13 +8,8 @@
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
-    <link type="text/css" rel="stylesheet" href="includes/css/print.css" media="print" />
+
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
-    
-	<!-- Custom Mobile -->
-    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
-    <!-- Custom Tablet -->
-    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
     
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
@@ -28,7 +23,7 @@
 </head>
 <body>
 	<div class="row">
-	<div class="twelve columns" >
+	<div id="header" class="twelve columns" >
         <!-- Includes Header -->	
         <?php include("includes/header.php") ?>
         <!-- Includes Navigation -->
@@ -44,7 +39,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/about_269_837_bnr.jpg" alt="Students and faculty interaction" title="Students and faculty interaction"/>
+        	<img src="images/about_269_837_bnr.jpg" alt="Students and faculty interaction" title="Students and faculty interaction""/>
         </div>
         </div>
         <br/>
@@ -89,8 +84,8 @@ As New Jersey's only National Cancer Institute-designated Comprehensive Cancer C
     
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-about.php") ?>
-    <!-- Second Section -->
-    <div class="panel padding">
+     <!-- Second Section -->
+    <!--<div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
@@ -103,7 +98,7 @@ As New Jersey's only National Cancer Institute-designated Comprehensive Cancer C
         </ul>
         </div>
     </div>
-	</div>
+	</div> -->
     </div>
 </div>
     
