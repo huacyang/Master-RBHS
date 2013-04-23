@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/info_for_current_963_bnr.jpg" alt="Group of students listening to a lecture" title="Group of students listening to a lecture" />
         </div>
         </div>
         <br/>
@@ -179,20 +179,18 @@
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-information.php") ?>
      <!-- Second Section -->
-    <!--<div class="panel padding">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="http://my.rutgers.edu" target="_blank">myRutgers</a></li>
+            <li><a href="http://nb.rutgers.edu/information/information-current-students" target="_blank">New Brunswick Campus Current Students</a></li>
+            <li><a href="http://www.newark.rutgers.edu/current-students" target="_blank">Newark Campus Current Students</a></li>
         </ul>
         </div>
     </div>
-	</div> -->
+	</div>
     </div>
 </div>
     

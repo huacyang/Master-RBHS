@@ -14,6 +14,8 @@
 	<link type="text/css" rel="stylesheet" href="includes/css/override.css" /> 	
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
     
+    <!-- Hide Bootstrap -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 1100px)" href="includes/css/hide.css" />
 	<!-- Custom Mobile -->
     <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
     <!-- Custom Tablet -->
@@ -28,6 +30,8 @@
     <!--[if !IE]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
     <!--[if IE]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
     <script type="text/javascript" src="includes/js/home.js"></script>
+	
+
 </head>
 <body>
 	<div class="row">
@@ -59,9 +63,9 @@
         <!-- Mobile Slider -->
         <div class="row">
             <div id="shifting" class="show-for-medium-down mobile-four columns">
-            
             </div>
         </div>
+
         <br/>
     </div>
     </div><!-- #end-of-slideshow -->

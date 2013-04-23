@@ -38,7 +38,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/about_office_chancellor_FPO.jpg" alt="" title="" />
         </div>
         </div>
         <br/>
@@ -92,20 +92,18 @@ Email
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-about.php") ?>
      <!-- Second Section -->
-    <!--<div class="panel padding">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="http://www.rutgers.edu/about-rutgers/leadership-governance" target="_blank">Leadership and Governance</a></li>
+            <li><a href="http://www.rutgers.edu/about-rutgers/administrative-offices-departments" target="_blank">Administrative Offices and Department</a></li>
+            
         </ul>
         </div>
     </div>
-	</div> -->
+	</div>
     </div>
 </div>
     

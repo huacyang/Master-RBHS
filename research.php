@@ -75,11 +75,11 @@ Led by the university&rsquo;s faculty, research is supported by staff in many un
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>TO COME</h2>
+            <h2>Facts about Rutgers Research</h2>
                 <ul>
                     <li>Only public New Jersey university in the Association of American Universities (AAU), a group comprising North America&rsquo;s 62 leading research universities. Rutgers and Princeton are New Jersey&rsquo;s only AAU members.</li>
                     <li>Rutgers is a research-intensive university, with XXX research centers and institutes.</li>
-                    <li>Rutgers ranks XX among public research universities nationally and leads all New Jersey universities in total and federal life sciences <span class="red">[or all?]</span> R&D expenditures in the National Science Foundation. <span class="red">[Can we combine the Rutgers and UMDNJ numbers?]</span></li>
+                    <li>Rutgers ranks 25th among all research universities nationally and leads all New Jersey universities in life sciences R&amp;D expenditures, per National Science Foundation data. <span class="red">[Can we combine the Rutgers and UMDNJ numbers?]</span></li>
 <li>Home to New Jersey&rsquo;s most extensive and diversified network of research laboratories</li>
 <li>Rutgers was awarded $XXX million in new research grants and contracts in FY 20XX</li>
 <li>60 percent of Rutgers undergraduates engage in original research</li>
@@ -97,20 +97,17 @@ Led by the university&rsquo;s faculty, research is supported by staff in many un
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-research.php") ?>
      <!-- Second Section -->
-    <!--<div class="panel padding">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="#">Universitywide Health Sciences Research</a></li>
+            <li><a href="http://www.rutgers.edu/research/research-rutgers" target="_blank">Universitywide Research at Rutgers</a></li>
         </ul>
         </div>
     </div>
-	</div> -->
+	</div>
     </div>
 </div>
     

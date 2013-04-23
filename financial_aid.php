@@ -35,7 +35,6 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
         </div>
         </div>
         <br/>
@@ -48,13 +47,14 @@
             <li><a href="http://www.umdnj.edu/studentfinancialaid/index_new_brow.htm" target="_blank">Student Financial Aid</a> <span class="red">[URL TO CHANGE]</span></li>
             <li><a href="http://nursing.rutgers.edu/finaid" target="_blank">College of Nursing</a></li>
             <li><a href="http://pharmacy.rutgers.edu/content/pharmacy_scholarships" target="_blank">Ernest Mario School of Pharmacy</a></li>
+            <li><a href="http://gsbs.umdnj.edu/funding.htm" target="_blank">Graduate School of Biological Sciences</a> <span class="red">[URL TO CHANGE]</span></li>
             <li><a href="http://njms.umdnj.edu/education/student_affairs/student_life/financial_aid.cfm" target="_blank">New Jersey Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
                         <li><a href="http://rwjms.umdnj.edu/education/current_students/student_life/financial_aid.html" target="_blank">Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
                         <li><a href="http://dentalschool.umdnj.edu/students/prospective/financing.html" target="_blank">Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
                         <li><a href="http://shrp.umdnj.edu/prospective_students/admissions/Admissions-FAQs.html" target="_blank">School of Health Related Professions</a> <span class="red">[URL TO CHANGE]</span></li>
                         <li><a href="http://sn.umdnj.edu/prospective/finaid.htm" target="_blank">School of Nursing</a> <span class="red">[URL TO CHANGE]</span></li>
                         <li><a href="http://sph.umdnj.edu/admissions/cost.of.study.cfm" target="_blank">School of Public Health</a> <span class="red">[URL TO CHANGE]</span></li>
-                    </ul>
+          </ul>
                 
         </div><!-- #end-of-main-content-area -->
         
@@ -77,7 +77,7 @@
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-admissions.php") ?>
     <!-- Second Section -->
-    <!--<div class="panel padding">
+   <!-- <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
@@ -90,7 +90,7 @@
         </ul>
         </div>
     </div>
-	</div> -->
+	</div>  -->
     </div>
 </div>
     

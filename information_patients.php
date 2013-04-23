@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/info_for_patients_672_bnr.jpg" alt="Doctor examining a female patient" title="Doctor examining a female patient" />
         </div>
         </div>
         <br/>
@@ -47,14 +47,16 @@
                 <p>Patients seeking a physician should contact the practices of our medical schools.  Physicians with expertise in more than 200 subspecialty clinical programs provide a full range of highly specialized services for children and adults. </p>
                
 <ul>
-                        <li><a href="http://njms.umdnj.edu/patient_care/index.cfm" target="_blank">New Jersey Faculty Practice at New Jersey Medical School (Newark)</a> <span class="red">[URL TO CHANGE]</span> </li><li><a href="http://umg.umdnj.edu/Public/index.html" target="_blank">Robert Wood Johnson Medical Group</a></li>
+                        <li><a href="http://njms.umdnj.edu/patient_care/index.cfm" target="_blank">New Jersey Faculty Practice at New Jersey Medical School (Newark)</a> <span class="red">[URL TO CHANGE]</span> </li><li><a href="http://umg.umdnj.edu/Public/index.html" target="_blank">Robert Wood Johnson Medical Group</a> <span class="red">[URL TO CHANGE]</span></li>
 </ul>
                
             <h2>Oral/Dental Health Care</h2>
                 <p>Patients seeking oral health care should contact Rutgers University Dental Associates, our faculty practice consisting of experts in a full range of dentistry and oral health services. </p>
                <ul><li><a href="http://dentalschool.umdnj.edu/patients/index.html" target="_blank">Rutgers University Dental Associates at Rutgers School of Dental Medicine (Newark)</a> <span class="red">[URL TO CHANGE]</span></li></ul>
+			   <h2>Cancer Care</h2>
+			   <p>Patients seeking cancer care should contact the <a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a>, the state&rsquo;s only National Cancer Institute-designated comprehensive cancer care center.</p>
 <h2>Child Health Care</h2>
-<ul><li><a href="http://www.fxbcenter.org/childwelfarenursing.html" target="_blank">The Child Health Program (CHP) at the François-Xavier Bagnoud Center</a> at the School of Nursing is a nursing resource that supports the welfare goals of the Department of Children and Families (DCF) / Division of Child Protection and Permanency.</li></ul>
+<p><a href="http://www.fxbcenter.org/childwelfarenursing.html" target="_blank">The Child Health Program (CHP) at the Fran&ccedil;ois-Xavier Bagnoud Center</a> at the School of Nursing is a nursing resource that supports the welfare goals of the Department of Children and Families (DCF) / Division of Child Protection and Permanency.</p>
 
 <h2>Behavioral Health Care</h2>
 <p><a href="http://ubhc.umdnj.edu/childrenfamily/index.htm" target="_blank">University Behavioral Health Care (UBHC)</a> <span class="red">[URL TO CHANGE]</span> provides the highest quality behavioral health care services for all populations across the state. In addition to clinical programs that address the diverse and special needs of New Jersey residents, UBHC offers an array of cost-effective managed care and employee assistance programs that collaborate with organizations in an effort to maximize workplace productivity and job satisfaction.<br/>
@@ -63,7 +65,7 @@
 <ul><li><a href="http://ubhc.umdnj.edu/cop2cop/main.htm" target="_blank">Law Enforcement Personnel</a> <span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://ubhc.umdnj.edu/vet2vet" target="_blank">Military Veterans</a><span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://www.mom2mom.us.com/" target="_blank">Parents</a> <span class="red">[URL TO CHANGE]</span></li></ul> 
-<h2>Community Health</h2> 
+<h2>Community Health Programs</h2> 
 <ul><li><a href="http://www.umdnj.edu/home2web/healthcare/health06_community.htm" target="_blank">Community Health General Information</a> <span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://shrp.umdnj.edu/news_events/documents/PT_Clinic_OpenFlyer.pdf" target="_blank">Community Physical Therapy Clinic</a> <span class="red">[URL TO CHANGE]</span></li>
 <li><a href="http://rwjms.umdnj.edu/patient_care/chandler/index.html" target="_blank">Eric B. Chandler Health Center</a> <span class="red">[URL TO CHANGE]</span></li>
@@ -94,20 +96,17 @@
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-information.php") ?>
      <!-- Second Section -->
-    <!--<div class="panel padding">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="care.php">Patient Care</a></li>
+            <li><a href="#">Universitywide Patient Care</a> <span class="red">[LINK TO NEW SECTION ON CORE SITE]</span></li>
         </ul>
         </div>
     </div>
-	</div> -->
+	</div>
     </div>
 </div>
     

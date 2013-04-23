@@ -35,7 +35,6 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
         </div>
         </div>
         <br/>
@@ -48,13 +47,17 @@
                 
           
             <h2>News</h2>
-                <p><a href="http://news.rutgers.edu/medrel" target="_blank">Rutgers Media Relations</a> <a href="http://umdnj.edu/cgi-bin/cgiwrap/quinnaj/headlines.cgi" target="_blank">Newsroom</a> <span class="red">[URL TO CHANGE]
-[Other School News links?]</span></p>
-
- <h2>Events and Announcements</h2>
-                <p><a href="http://ruevents.rutgers.edu/events" target="_blank">Rutgers Calendar of Events</a> <a href="http://webservices.umdnj.edu/eventcalendar/events/UMDNJ_comm.cfm?m_view=1" target="_blank">Community Calendar</a> <span class="red">[URL TO CHANGE] [Other School Events/Announcements links?] </span></p>
-
- <h2>Messages to the RBHS Community</h2>
+                <ul>
+                	<li><a href="http://news.rutgers.edu/medrel" target="_blank">Rutgers Media Relations</a></li>
+                	<li><a href="http://umdnj.edu/cgi-bin/cgiwrap/quinnaj/headlines.cgi" target="_blank">Newsroom</a> <span class="red">[URL TO CHANGE]
+                		[Other School News links?]</span></li>
+                	</ul>
+<h2>Events and Announcements</h2>
+                <ul>
+                	<li><a href="http://ruevents.rutgers.edu/events" target="_blank">Rutgers Calendar of Events</a></li>
+                	<li><a href="http://webservices.umdnj.edu/eventcalendar/events/UMDNJ_comm.cfm?m_view=1" target="_blank">Community Calendar</a> <span class="red">[URL TO CHANGE] [Other School Events/Announcements links?] </span></li>
+                	</ul>
+<h2>Messages to the RBHS Community</h2>
                 <p><span class="red">[Post Important Emails/Messages from Chancellor/Provost. Maybe a subpage?]</span></p>
                 
                 <h2>Publications</h2>

@@ -12,7 +12,7 @@
         <li id="about" class="has-dropdown">
         <a href="about.php">About</a>
             <ul class="dropdown">
-                <li><a href="about.php">RBHS Overview</a></li>
+                <li class="long"><a href="about.php">Rutgers Biomedical and Health Sciences Overview</a></li>
                 <li><a href="chancellor.php">Office of the Chancellor</a></li>
                 <li><a href="locations.php">Locations and Directions</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
@@ -45,8 +45,8 @@
             <ul class="dropdown">
                 <li><a href="care.php">Patient Care Overview</a></li>
                 <li><a href="reference.php">Physicians Reference Services</a></li>
-                <li><a href="community.php">Community Health</a></li>
-                <li><a href="practices.php">Clinical Practices</a></li>
+                <li><a href="practices.php">Faculty and Clinical Practices</a></li>
+                <li><a href="community.php">Community Health Programs</a></li>
                 <li><a href="trials.php">Clinical Trials</a></li>
             </ul>
         </li>
@@ -62,8 +62,8 @@
         <a href="research.php">Research</a>
             <ul class="dropdown">
                 <li><a href="research.php">Research Overview</a></li>
-                <li><a href="institutes.php">Institutes</a></li>
-                <li id="long"><a href="research_org.php">Clinical Research Organization: Clinical Trials</a></li>
+                <li><a href="institutes.php">Centers and Institutes</a></li>
+                <li class="long"><a href="research_org.php">Clinical Research Organization: Clinical Trials</a></li>
             </ul>
         </li>
         <!-- #menu-item-eight -->
@@ -73,7 +73,7 @@
                 <li><a href="information_prospective.php">Prospective Students</a></li>
                 <li><a href="information_current.php">Current Students</a></li>
                 <li><a href="information_patients.php">Patients</a></li>
-                <li><a href="information_faculty_staff.php">Faculty & Staff</a></li>
+                <li><a href="information_faculty_staff.php">Faculty &amp; Staff</a></li>
                 <li><a href="information_alumni.php">Alumni</a></li>
                 <li><a href="information_donors.php">Donors</a></li>
             </ul>

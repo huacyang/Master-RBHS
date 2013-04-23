@@ -87,7 +87,12 @@ ul.flyout li a,.nav-bar li ul li a {
  * =========================
  */
 .bullets-green li {
-    color: #007052;
+    color: #fff;
+	background: url("http://www.rutgers.edu/sites/core/files/green-bullet.gif") no-repeat scroll 0 4px transparent;
+    display: inline-block;
+    list-style-image: none;
+    margin: 0 0 1px;
+    padding: 0.2em 0.5em 0 12px;
 }
 
 .bullets-orange li {
@@ -107,6 +112,14 @@ ul.flyout li a,.nav-bar li ul li a {
     height: 29px;
     border: 3px solid #f9cc33;
     width: 65px;
+}
+
+.columns #shifting {
+    padding:0px;
+}
+
+.columns #shifting img{
+    width:100%;
 }
 
 .socialmedia h1 {
@@ -315,7 +328,7 @@ ul.flyout li a,.nav-bar li ul li a {
 }
 
 .top-bar ul li:not(.name).home-active a {
-    color: #fff;
+    color: #F9DA6E;
 }
 
 .top-bar ul li.active-parent a {
@@ -569,12 +582,11 @@ ul.flyout li a,.nav-bar li ul li a {
 }
 
 #side_bar-home ul li {
-    margin-top: -1px;
+    margin-left: -6px;
     margin-bottom: -1px;
 }
 
 #side_bar-home ul li a {
-    margin-left: -3px;
 	font-size: 11px;
 	line-height: 19px;
 }
@@ -625,11 +637,6 @@ ul.flyout li a,.nav-bar li ul li a {
     font-size: 11px;
     color: #868684;
     margin-left: 0;
-}
-
-#side_nav .item-list ul li a:hover {
-    background: #fff;
-    color: #868684;
 }
 
 #side_nav ul li a:hover {
@@ -766,6 +773,13 @@ ul li.has-dropdown ul.dropdown li {
     background-color: #ebeee1;
 }
 
+#side_nav .item-list ul li a:active, #side_nav .item-list ul li a:hover{
+    background: #fff;
+    color: #868684;
+} 
+#side_nav .item-list ul li:active {
+	background:#fff url("../img/bullet-square-orange.gif") no-repeat;}
+
 #side_nav .nav-bar li.active a {
     color: #D54B5A;
 }
@@ -810,8 +824,8 @@ img.inline-right {
     padding: 8px;
 }
 
-#navigation ul.dropdown li#long a, #navigation ul.dropdown li#long:hover {
-    padding-bottom: 40px;
+#navigation ul.dropdown li.long, #navigation ul.dropdown li.long a, #navigation ul.dropdown li.long:hover {
+    padding-bottom: 45px;
     line-height: 150%;
 }
 
@@ -823,3 +837,6 @@ img.inline-right {
     background: url("../img/gray-square.gif") 0px 11px no-repeat;
 }
 
+#side_bar-home .bullets-green li a {
+    margin-left: 0px;
+}

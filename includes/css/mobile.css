@@ -1,13 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
 
-#header {
-	display:none;
+
+#masthead, #top {
+    display: none;
 }
 
 #home-rite_sidebar {
-	width:113%;
+	width:100%;
 }
+
+#home-rite_sidebar .panel { 
+	width:70%;}
 
 #main {
 	margin-left:-15px;
@@ -33,6 +37,16 @@
 
 #mobile_header {
 	height:35px;
-    background:url("../img/banner_red.jpg") no-repeat scroll 0 0 transparent;
-	background-size:400px 35px;
+    background:url("../img/banner_red-mobile.jpg") no-repeat scroll 0 0 #d71339;
+	background-size:240px 35px;
+}
+
+#side_nav .wrapper h2 {
+    margin-left: 0px;
+}
+#submain {
+    padding-bottom: 0;
+}
+#side_nav {
+    padding-left: 50px;
 }

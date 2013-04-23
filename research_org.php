@@ -35,7 +35,6 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
         </div>
         </div>
         <br/>
@@ -43,12 +42,12 @@
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Clinical Research Organization: Clinical Trials</h1>
                 <p>Rutgers <a href="http://cro.umdnj.edu" target="_blank">Clinical Research Organization</a> <span class="red">[URL TO CHANGE]</span>
-connects industry, patients, and academic collaborators with the university's academic resources. Annually, we support approximately 150 industry-sponsored clinical trials in addition to conducting our own investigator-initiated studies. In total, more than 230 principal investigators are currently conducting clinical trials in more than 50 therapeutic areas dedicated to moving forward discovery in drugs, biologics, devices, preventive and therapeutic strategies, behavioral research, and other interventions to improve human life. </p>
+connects industry, patients, and academic collaborators with the university's academic resources. Annually, Rutgers supports approximately 500 clinical trials, including industry-sponsored and our own investigator-initiated studies. In total, more than 230 principal investigators are currently conducting clinical trials in more than 50 therapeutic areas dedicated to moving forward discovery in drugs, biologics, devices, preventive and therapeutic strategies, behavioral research, and other interventions to improve human life. </p>
             <h2>Advantages</h2>
                 <p>The RBHS Clinical Research Organization offers key advantages that strengthen its clinical research capabilities, including:</p>
                
                     <ul>
-                        <li>Affiliations with more than 80 New Jersey hospitals and/or health systems</li>
+                        <li>Affiliations with scores of New Jersey hospitals and/or health systems</li>
                         <li>Depth of medical research and clinical expertise&mdash;more than 230 principal investigators</li>
                         <li>Full array of core services: clinical lab and analytical services, imaging facilities, data management and analysis</li>
                         <li>Well-developed management skills of all trial phases, including trial design, clinical and medical safety monitoring, recruitment, regulatory affairs</li>
@@ -91,20 +90,16 @@ connects industry, patients, and academic collaborators with the university's ac
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-research.php") ?>
      <!-- Second Section -->
-    <!--<div class="panel padding">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="trials.php">Clinical Trials</a></li>
         </ul>
         </div>
     </div>
-	</div> -->
+	</div>
     </div>
 </div>
     

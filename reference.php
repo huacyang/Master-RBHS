@@ -35,14 +35,14 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/patientcare_ref_serv_923_.jpg" alt="Two doctors in white coats in a discussion" title="Two doctors in white coats in a discussion" />
         </div>
         </div>
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Physicians Reference Services</h1>
-                <p>Our physicians, dentists, mental health professionals, and other health practitioners collectively comprise New Jersey&rsquo;s largest network of patient care providers. More than 1.7 million patients visit our health care facilities annually, with 400 children receiving free dental care on “Give Kids a Smile Day,” 3,000 patients enrolled annually in clinical trials at the Cancer Institute of New Jersey, and more than one million patient visits and medical procedures performed each year by Robert Wood Johnson Medical Group physicians alone.</p>
+                <p>Our physicians, dentists, mental health professionals, and other health practitioners collectively comprise New Jersey&rsquo;s largest network of patient care providers. There are more than 1.7 million patient visits to our health care facilities annually, with 400 children receiving free dental care on &ldquo;Give Kids a Smile Day,&rdquo; 3,000 patients enrolled annually in clinical trials at the Cancer Institute of New Jersey, and more than one million patient consultations and medical procedures performed each year by Robert Wood Johnson Medical Group physicians alone.</p>
             <h2>Find a Physician </h2>
                 <p>If you are in need of a primary care physician, dentist or specialist near your home or office, our referral services make it easy to find the expert care you need. Physicians with expertise in hundreds of subspecialty clinical programs provide a full range of highly specialized services for children and adults. </p>
                    <p><a href="http://www.cinj.org/physician-profile/search" target="_blank" class="subhead">Cancer Institute of New Jersey Physician Referral</a><br/>
@@ -51,7 +51,7 @@ The institute provides state-of-the-art cancer care for adults and children, pro
 Employing state-of-the-art treatment tools and innovations, clinical care is provided in a variety of inpatient and outpatient settings. Our physicians focus on specialty areas of medicine&mdash;including infectious diseases, cardiovascular science, neurological and visual sciences, cancer and trauma&mdash;to ensure that we are meeting a wide range of patient needs.</p>
 <p><a href="http://umg.umdnj.edu/Public/directory/search.asp" target="_blank" class="subhead">Robert Wood Johnson Medical Group Physical Referral Service</a> <span class="red">[URL TO CHANGE]</span><br/>
 Composed of approximately 500 physicians with expertise in more than 200 subspecialty clinical programs, the group is one of the largest multispecialty group practices in New Jersey. Our academic physicians provide a full range of highly specialized services for the pediatric and adult populations.</p>
-<p><a href="http://dentalschool.umdnj.edu/patients/index.html" target="_blank" class="subhead">Rutgers School of Dental Medicine Associates or Center for Dental and Oral Health Faculty Practice</a> <span class="red">[WHICH IS CORRECT NAME?] [URL TO CHANGE]</span><br/>
+<p><a href="http://dentalschool.umdnj.edu/patients/index.html" target="_blank" class="subhead">Rutgers School of Dental Medicine Center for Dental and Oral Health Faculty Practice</a> <span class="red"> [URL TO CHANGE]</span><br/>
 Our doctors provide a wide range of dental care in one location, making the practice unique. The dentists provide preventive, diagnostic, and restorative care, along with esthetic (cosmetic) dentistry. Using a team approach, all of the practitioners and specialists work together to provide coordinated, timely care.
 </p>
         
@@ -85,20 +85,16 @@ Our doctors provide a wide range of dental care in one location, making the prac
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-care.php") ?>
      <!-- Second Section -->
-    <!--<div class="panel padding">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li>University Health Sciences Patient Care <span class="red">[LINK TO NEW PAGE IN CORE SITE]</span></li>
         </ul>
         </div>
     </div>
-	</div> -->
+	</div> 
     </div>
 </div>
     

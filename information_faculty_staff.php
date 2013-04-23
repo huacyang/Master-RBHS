@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/info_for_862_607_CINJDay2_2033_bnr.jpg" alt="A male and two female faculty members" title="A male and two female faculty members" />
         </div>
         </div>
         <br/>

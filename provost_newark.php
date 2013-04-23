@@ -38,14 +38,13 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
         </div>
         </div>
         <br/>
         <div class="row">
         <div id="context-large" class="twelve mobile-four columns">
             <h1 id="page-title">Provost for RBHS Newark Programs</h1>
-                <p>Reporting directly to the chancellor, provost Firstname Lastname is responsible for.... He/She came to Rutgers from... where he/she accomplishments.... [BIO TO COME]<br/>
+                <p><img src="images/blankperson.jpg" alt="chancellor" style="float:left;" class="inline-left"/>Reporting directly to the chancellor, provost Firstname Lastname is responsible for.... He/She came to Rutgers from... where he/she accomplishments.... [BIO TO COME]<br/>
 <br/>
 Main Address<br/>
 Phone Number<br/>

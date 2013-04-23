@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/academics_online_425_bnr.jpg" alt="Three students with a faculty member" title="Three students with a faculty member" />
         </div>
         </div>
         <br/>
@@ -72,20 +72,20 @@
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-academics.php") ?>
     <!-- Second Section -->
-    <!--<div class="panel padding">
+   <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="http://www.rutgers.edu/academics/continuing-education" target="_blank">Continuing Education Overview</a></li>
+            <li><a href="http://ccoe.umdnj.edu" target="_blank">Center for Continuing Education and Outreach</a> <span class="red">[URL TO CHANGE]</span></li>
+            <li><a href="http://lifelonglearning.rutgers.edu" target="_blank">Division of Continuing Education</a></li>
+            <li><a href="http://www.rutgers.edu/academics/schools-colleges" target="_blank">Schools and Colleges</a></li>
+            
         </ul>
         </div>
     </div>
-	</div> -->
+	</div> 
     </div>
 </div>
     

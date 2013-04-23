@@ -104,20 +104,17 @@ Our offerings are vast. Your options are open. Apply now.
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-admissions.php") ?>
     <!-- Second Section -->
-    <!--<div class="panel padding">
+   <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Universitywide Admissions</a></li>
+            <li>University Health Sciences Edcuation <span class="red">[LINK TO NEW HEALTH SCIENCES EDUCATION PAGE IN CORE SITE]</span></li>
         </ul>
         </div>
     </div>
-	</div> -->
+	</div> 
     </div>
 </div>
     

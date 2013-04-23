@@ -39,7 +39,7 @@ function active() {
     var token = url.replace(/\./g, "/");
     token = token.split("/");
     for (; i < token.length; i++) {
-        console.log(token[i]);
+        //console.log(token[i]);
         var found = true;
         switch (token[i]) {
         case "about":

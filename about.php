@@ -10,7 +10,12 @@
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
 
     <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
-    
+
+	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
+        
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
     <script type="text/javascript" src="includes/js/jquery.js"></script>
@@ -39,14 +44,14 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/about_269_837_bnr.jpg" alt="Students and faculty interaction" title="Students and faculty interaction""/>
+        	<img src="images/about_269_837_bnr.jpg" alt="Students and faculty interaction" title="Students and faculty interaction"/>
         </div>
         </div>
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
             <h1 id="page-title">Rutgers Biomedical and Health Sciences Overview</h1>
-                <p>Led by a chancellor, Rutgers Biomedical Health Sciences (RBHS) comprises nine schools and their attendant centers, institutes, and clinics; New Jersey&rsquo;s leading comprehensive cancer care center; New Jersey largest behavioral health care network; and numerous additional centers, institutes, and clinics. All are situated across Rutgers&rsquo; Main Campus in New Brunswick/Piscataway, its two campuses in Newark, and additional locations in New Jersey. RBHS, integral to Rutgers&rsquo; mission, works synergistically with many other academic, research, and clinical units throughout the university and the region.</p>
+                <p>Led by a chancellor, Rutgers Biomedical Health Sciences (RBHS) comprises nine schools and their attendant faculty practices, centers, institutes, and clinics; New Jersey&rsquo;s leading comprehensive cancer care center; New Jersey largest behavioral health care network; and numerous additional centers, institutes, and clinics. All are situated across Rutgers&rsquo; Main Campus in New Brunswick, its two campuses in Newark, Rutgers Health Sciences and Rutgers&ndash;Newark; and additional locations in New Jersey. RBHS, integral to Rutgers&rsquo; mission, works synergistically with many other academic, research, and clinical units throughout the university and the region.</p>
             <h2>Rutgers Biomedical Health Sciences Units</h2>
                
           
@@ -85,20 +90,18 @@ As New Jersey's only National Cancer Institute-designated Comprehensive Cancer C
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-about.php") ?>
      <!-- Second Section -->
-    <!--<div class="panel padding">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a></li>
+            <li><a href="reference.php">Find a Physician</a></li>
+            <li><a href="#" target="_blank">Universitywide Health Sciences</a> <span class="red">[LINK TO A NEW PAGE IN CORE SITE]</span></li>
         </ul>
         </div>
     </div>
-	</div> -->
+	</div>
     </div>
 </div>
     

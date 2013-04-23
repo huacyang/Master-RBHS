@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Community Health | Rutgers Biomedical and Health Sciences</title>
+	<title>Community Health Programs | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
@@ -35,16 +35,16 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/patientcare_CINJDay2_1952_.jpg" alt="Three students by MRI scans" title="Three students by MRI scans" />
         </div>
         </div>
         <br/>
         <div class="row">
         <div id="context" class="eight mobile-four columns">
-            <h1 id="page-title">Community Health</h1>
+            <h1 id="page-title">Community Health Programs</h1>
                 <p>Health services at Rutgers aim to ensure that all individuals, particularly those living in traditionally underserved areas, have access to high-quality health care regardless of their cultural or ethnic background or ability to pay. Many of our programs serve residents in urban communities of New Jersey. Below are some of our signature programs.</p>
-           <p><a href="http://rwjms.umdnj.edu/community_health/community_health.htm" target="_blank" class="subhead">Community Health Programs, Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span><br/>
-RWJMS has a clearly stated commitment to community service and the improvement of community health. Medical students at RWJMS engage in a variety of community health activities including the Homeless and Indigent Populations Health and Outreach Project (HIPHOP), the Promise Clinic in New Brunswick and the Healthcare Outreach Project (HOP) in Camden.</p> 
+          <p><a href="http://rwjms.umdnj.edu/community_health/community_health.htm" target="_blank" class="subhead">Community Health Programs, Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span><br/>
+RWJMS has a clearly stated commitment to community service and the improvement of community health. Medical students at RWJMS engage in a variety of community health activities including the <a href="http://rwjms.umdnj.edu/community_health/hiphop.html" target="_blank">Homeless and Indigent Populations Health and Outreach Project (HIPHOP)</a> and the <a href="http://rwjms3.umdnj.edu/promise_clinic/index.html" target="_blank">Promise Clinic</a> in New Brunswick.</p> 
  
 <p><a href="http://dentalschool.umdnj.edu/patients/njds.htm" target="_blank" class="subhead">Dental Care at the School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span><br/>
 The School of Dental Medicine provides a full range of oral health services while training the next generation of dentists. Care is provided by dental students working under the direction of faculty members who are fully licensed dentists.</p> 
@@ -75,7 +75,7 @@ The center offers free health care to the Newark community. Services include phy
                 <ul>
                     <li><a href="http://www.cinj.org/education/community-education-programs-0" target="_blank">Cancer Institute of New Jersey Community, Cancer Education, Prevention and Screening</a></li>
                     <li><a href="http://rwjms.umdnj.edu/departments_institutes/family_medicine/chfcd" target="_blank">Center for Healthy Families and Cultural Diversity</a>  <span class="red">[URL TO CHANGE]</span>.</li>
-                    <li><a href="http://fxbcenter.org/APNRC.html" target="_blank">Francis-Xaxiver Bagnoud Center Adolescent HIV/AIDS Prevention</a></li>
+                    <li><a href="http://fxbcenter.org/APNRC.html" target="_blank">Fran&ccedil;ois-Xavier Bagnoud Center Adolescent HIV/AIDS Prevention</a></li>
                     <li><a href="http://shrp.umdnj.edu/dept/nutr/INI/liftup.htm" target="_blank">Institute for Nutrition Interventions LIFT UP</a> <span class="red">[URL TO CHANGE]</span></li>
                     <li><a href="http://njms.umdnj.edu/departments/preventive_medicine/" target="_blank">New Jersey Medical School Department of Preventive Medicine and Community Health</a> <span class="red">[URL TO CHANGE]</span></li>
                     

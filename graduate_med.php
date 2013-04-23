@@ -35,7 +35,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br/>
-        	<img src="images/landing_fpo.jpg" />
+        	<img src="images/academics_gradmed_589_.jpg" alt="Three students and their teacher in a lab" title="Three students and their teacher in a lab" />
         </div>
         </div>
         <br/>
@@ -53,39 +53,37 @@
         
         <!-- Right Sidebar
         ====================== -->
-        <div id="side_bar" class="four mobile-four columns">
+         <!-- Right Sidebar
+        ====================== -->
+       <!--  <div id="side_bar" class="four mobile-four columns">
         <ul>
-            <!-- Panel One -->
+            // Panel One 
             <li>
-            <h2>A Leader to Guide the AMA&rsquo;s Medical Student Section</h2>
-                <p><a href="http://magazine.rutgers.edu/departments/winter-2013/on-the-banks/rx-for-medicine" target="_blank"><img src="images/LeeAnnRoberts_th.jpg" alt="LeAnne Roberts" title="LeAnne Roberts" style="float:left;" class="inline-left"/></a>Featured in <a href="http://magazine.rutgers.edu/departments/winter-2013/on-the-banks/rx-for-medicine" target="_blank">Rutgers Magazine</a>, Rutgers alumna LeAnne Roberts, CC&rsquo;07, a fifth-year medical student at the New Jersey Medical School, chairs the American Medical Association&rsquo;s 48,000-member Medical Student Section.<br/>
-<br/>
-“We provide students with a platform to launch their profession,” says Roberts. “Whether they&rsquo;re thinking about becoming the best neurosurgeon in the country or going into policy and advocacy as a physician, we provide a training ground.”</p>
+            <h2>TO BE DELETED</h2>
+                <p>TO BE DELETED</p>
                 
             </li>
         </ul>
+        </div>--><!-- #end-of-right-sidebar -->
         </div>
-        </div><!-- #end-of-right-sidebar -->
     
     </div>
     
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-academics.php") ?>
     <!-- Second Section -->
-    <!--<div class="panel padding">
+    <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li><a href="http://njms.umdnj.edu/education/post_grad/gme/program_directors_and_chairs.htm" target="_blank">Graduate Medical, Dental, and Podiatry Education Programs of New Jersey Dental School and Rutgers School of Dental Medicine</a> <span class="red">[URL TO CHANGE]</span></li>
+            <li><a href="http://rwjms.rutgers.edu/education/GME/residency_fellowship.html" target="_blank">Residence and Fellowship Programs at Robert Wood Johnson Medical School</a> <span class="red">[URL TO CHANGE]</span></li>
+            
         </ul>
         </div>
     </div>
-	</div> -->
+	</div> 
     </div>
 </div>
     

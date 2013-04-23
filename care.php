@@ -46,11 +46,11 @@
           <p><a href="reference.php" class="subhead">Find a Physician</a><br/>
 Find a primary care physician, dentist, or specialist near your home or office.</p> 
 
-<p><a href="community.php" class="subhead">Community Health</a><br/>
-Access health services in traditionally underserved areas and find high-quality health care regardless of your ability to pay.</p>
-
-<p><a href="practices.php" class="subhead">Clinical Practices</a><br/>
+<p><a href="practices.php" class="subhead">Faculty and Clinical Practices</a><br/>
 Connect with our university-based practice groups and centers, where we focus on the most advanced technologies, therapies, and treatments delivered with compassion.</p> 
+
+<p><a href="community.php" class="subhead">Community Health Programs</a><br/>
+Access health services in traditionally underserved areas and find high-quality health care regardless of your ability to pay.</p>
 
 <p><a href="trials.php" class="subhead">Clinical Trials</a><br/>
 Find clinical trials and translational research, available only through university-based, research-intensive health care providers like RBHS.</p> 
@@ -62,8 +62,8 @@ Find clinical trials and translational research, available only through universi
         <ul>
             <!-- Panel One -->
             <li>
-            <h2>Top of the Top</h2>
-                <p><em>U.S. News & World Report</em> identified more than 25 of our physicians as being in the top 1 percent in the nation in their respective specialties. <a href="http://www.umdnj.edu/umcweb/marketing_and_communications/publications/umdnj_magazine/winter-2013/009.html" target="_blank">Learn more</a>. <span class="red">[URL TO CHANGE][FROM UMDNJ&rsquo;S MOST RECENT MAGAZINE. IS THERE A LINK TO SOMETHING THAT DOESN&rsquo;T SAY UMDNJ?]</span></p>
+            <h2>If Your Health Care Provider Was at UMDNJ</h2>
+                <p>If you are or were a patient at a former UMDNJ practice, clinic, institute, or center, rest assured that you will find the same front-line, patient-centered compassionate care in our faculty medical and dental practices, community-focused clinics, leading institutes, and behavioral health care centers throughout the state.</p>
               
             </li>
             <!-- Panel Two -->
@@ -92,20 +92,16 @@ Find clinical trials and translational research, available only through universi
     <!-- Includes Left Side Navigation -->
     <?php include("includes/side_nav-care.php") ?>
      <!-- Second Section -->
-    <!--<div class="panel padding">
+   <div class="panel padding">
     <h2>Related</h2>
     <div class="row">
         <div class="twelve columns item-list">
         <ul>
-            <li><a href="#">Before You Apply</a></li>
-            <li><a href="#">Application Guidelines</a></li>
-            <li><a href="#">Supporting Materials</a></li>
-            <li><a href="#">Check your Status</a></li>
-            <li><a href="#">What's Next?</a></li>
+            <li>Universitywide Health Sciences Patient Care <span class="red">[LINK TO NEW PAGE IN CORE SITE]</span></li>
         </ul>
         </div>
     </div>
-	</div> -->
+	</div> 
     </div>
 </div>
     
