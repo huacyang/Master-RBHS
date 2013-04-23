@@ -1,7 +1,3 @@
-
-@charset "utf-8";
-/* CSS Document */
-
 #masthead, #top {
     display: none;
 }
@@ -37,8 +33,9 @@
 
 #mobile_header {
 	height:35px;
-    background:url("../img/banner_red-mobile.jpg") no-repeat scroll 0 0 #d71339;
-	background-size:240px 35px;
+    background:url("../img/banner_red.jpg") no-repeat scroll #cb062c;
+	background-position:left center;
+	background-size:520px 50px;
 }
 
 #side_nav .wrapper h2 {

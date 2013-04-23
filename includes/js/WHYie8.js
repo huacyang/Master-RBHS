@@ -1,5 +1,14 @@
 function remove() {
-
+	var nav = document.getElementById('section-wrapper');
+	var mobile = document.getElementById('navigation');
+	var content = document.getElementById('mobile_dropdown');
+	
+	nav.appendChild(content);
+	nav.removeChild(mobile);
+	
+	content.className = "left nav-cover";
+	content.id = "navigation";
+	//console.log(nav);
 }
 
 function shiftup() {
@@ -17,5 +26,4 @@ function shiftup() {
 $(window).ready(function(e) {
 	shiftup();
 	remove();
-	document.getElementById("WHYie").innerHTML = "";
 });

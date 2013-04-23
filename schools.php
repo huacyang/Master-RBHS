@@ -8,14 +8,22 @@
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+
+    <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+
+	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
+        
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
     <script type="text/javascript" src="includes/js/jquery.js"></script>
     <script type="text/javascript" src="includes/js/jquery-json.js"></script>
     <script type="text/javascript" src="includes/js/templates.js"></script>
-    <!--[if (gt IE 8)|!(IE)]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
+    <!--[if !IE]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
+    <!--[if IE]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
     <script type="text/javascript" src="includes/js/rbhs.js"></script>
-
 </head>
 <body>
 	<div class="row">

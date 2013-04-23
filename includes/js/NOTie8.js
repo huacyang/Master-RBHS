@@ -25,5 +25,4 @@ function create_mobileNav() {
 
 $(window).ready(function(e) {
 	//create_mobileNav();
-	document.getElementById("NOTie").innerHTML = "";
 });
