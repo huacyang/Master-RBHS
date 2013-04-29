@@ -38,7 +38,7 @@
 #mobile_header {
 	height:35px;
     background:url("../img/banner_red-mobile.jpg") no-repeat scroll 0 0 #d71339;
-	background-size:240px 35px;
+	background-size: 350px 37px;
 }
 
 #side_nav .wrapper h2 {
@@ -54,3 +54,6 @@
 #side_bar-home .bullets-green li {
     display:block;
 }
+
+.row {
+    max-width: 100%;}

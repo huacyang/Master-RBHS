@@ -7,7 +7,7 @@
     <meta name="HandheldFriendly" content="true" />
     <!-- title -->
     <title>Home | Rutgers Biomedical and Health Sciences</title>
-    
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
@@ -18,11 +18,12 @@
 
     <!-- Hide Bootstrap -->
     <link type="text/css" rel="stylesheet" media="only screen and (max-width: 1100px)" href="includes/css/hide.css" />
-	<!-- Custom Mobile -->
-    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
     <!-- Custom Tablet -->
     <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
     
+     
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
     <script type="text/javascript" src="includes/js/jquery.js"></script>

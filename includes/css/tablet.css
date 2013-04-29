@@ -35,7 +35,7 @@
 	height:35px;
     background:url("../img/banner_red.jpg") no-repeat scroll #cb062c;
 	background-position:left center;
-	background-size:520px 50px;
+	background-size: 520px 50px;
 }
 
 #side_nav .wrapper h2 {
@@ -51,3 +51,6 @@
 #side_bar-home .bullets-green li {
     display:block;
 }
+
+.row {
+    max-width: 100%;}

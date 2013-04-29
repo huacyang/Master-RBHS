@@ -3,7 +3,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Undergraduate Education | Rutgers Biomedical and Health Sciences</title>
-
+	<link rel="shortcut icon" href="images/favicon-sun.ico" />
+    
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/class.css" />

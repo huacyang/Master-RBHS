@@ -11,7 +11,7 @@
     <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
 
 	<!-- Custom Mobile -->
-    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 300px)" href="includes/css/mobile.css" />
     <!-- Custom Tablet -->
     <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
         

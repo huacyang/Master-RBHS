@@ -259,7 +259,7 @@ ul.flyout li a,.nav-bar li ul li a {
 .row {
     width: 90%;
     max-width: 980px;
-    min-width: 400px;
+    min-width: 0;
     margin: 0 auto;
 }
 
