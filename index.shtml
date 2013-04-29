@@ -7,7 +7,7 @@
     <meta name="HandheldFriendly" content="true" />
     <!-- title -->
     <title>Home | Rutgers Biomedical and Health Sciences</title>
-    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
     <!-- Included CSS Files -->
     <link type="text/css" rel="stylesheet" href="includes/css/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
@@ -16,6 +16,9 @@
     <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
     <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
 
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+	
     <!-- Hide Bootstrap -->
     <link type="text/css" rel="stylesheet" media="only screen and (max-width: 1100px)" href="includes/css/hide.css" />
     <!-- Custom Tablet -->

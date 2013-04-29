@@ -11,10 +11,13 @@
     <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
     <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
 
-	<!-- Custom Mobile -->
-    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+	
     <!-- Custom Tablet -->
     <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
         
     <!-- Included JavaScript Files -->
     <script type="text/javascript" src="includes/js/modernizr.js"></script>
