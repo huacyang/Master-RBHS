@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Centers and Institutes | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+
+    <!--[if IE]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+
+	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 240px)" href="includes/css/mobile.css" />
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 767px)" href="includes/css/tablet.css" />
+        
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !IE]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
+    <!--[if IE]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+    
+</head>
+<body>
+<div class="row">
+	<div class="twelve columns" > 
+		<!-- Includes Header -->
+		<!--#include virtual="includes/header.html" -->
+		<!-- Includes Navigation -->
+		<!--#include virtual="includes/nav.html" -->
+	</div>
+</div>
+<div class="row">
+	<div id="shifting" class="twelve columns bg-white">
+		<div id="submain" class="nine push-three mobile-four columns"> 
+			<!-- Top Banner Area
+        ====================== -->
+			<div class="row">
+				<div class="twelve columns"><br />
+					<img src="images/research_institutes_FPO.jpg" alt="" title="" /> </div>
+			</div>
+			<br />
+			<div class="row">
+				<div id="context-large" class="twelve mobile-four columns">
+					<h1 id="page-title">Centers and Institutes</h1>
+					<!--<p>A website listing all <a href="http://www.rutgers.edu/research/centers-institutes" target="_blank">institutes and centers</a> is maintained by the <a href="http://oirap.rutgers.edu" target="_blank">Office of Institutional Research and Academic Planning</a>. <span class="red">[TEXT WILL DEPEND ON DECISIONS MADE ABOUT CENTERS AND INSTITUTES LISTS]</span></p>-->
+					<p class="red">[More to come. We need an accurate list of active centers and institutes for each school]</p>
+					<h2>Robert Wood Johnson Medical School Centers and Institutes</h2>
+					<ul>
+						<li><a href="http://www3.cabm.rutgers.edu/home.php" target="_blank">Advanced Biotechnology and Medicine, Center for</a></li>
+						<li>Advanced Center for Parkinson's Disease Research (Richard E. Heikkila Center of Excellence)</li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=gastro/bpdc" target="_blank">Biliary-Pancreas Disease Center</a></li>
+						<li><a href="http://pleiad.umdnj.edu/CBII/index.html" target="_blank">Biomedical Imaging and Informatics, Center for </a></li>
+						<li>Biostatistics, Center for </li>
+						<li><a href="http://rwjms.umdnj.edu/cvinj/about.htm" target="_blank">Cardiovascular Institute of New Jersey</a></li>
+						<li><a href="http://rwjms.umdnj.edu/chinj/" target="_blank">Child Health Institute of New Jersey</a></li>
+						<li><a href="http://rwjms.umdnj.edu/research/crc/" target="_blank"> Clinical and Translational Science, Center for</a></li>
+						<li><a href="http://eohsi.rutgers.edu/content/eohsi_clinical_center" target="_blank"> Clinical Center of EOHSI</a></li>
+						<li><a href="http://umg.umdnj.edu/public/Clinical_Services/program.asp?dept=neurology&program=eetp" target="_blank"> Comprehensive Epilepsy Center</a></li>
+						<li><a href="http://ubhc.umdnj.edu/copsa/aboutus/index.htm" target="_blank"> Comprehensive Services on Aging (COPSA) Institute for Alzheimer's Disease and Related Disorders (with UBHC)</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=pulmon/csdc" target="_blank"> Comprehensive Sleep Disorders Center</a></li>
+						<li> Corporate Wellness Center</li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=gastro/cccnj" target="_blank"> Crohn's and Colitis Center of New Jersey</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=pediatrics&program=pulmon/cfp" target="_blank"> Cystic Fibrosis Center</a></li>
+						<li> Digestive Disease Center</li>
+						<li><a href="http://rwjms.umdnj.edu/boggscenter/" target="_blank"> Elizabeth M. Boggs Center on Developmental Disabilities&mdash;the University-Affiliated Program of New Jersey</a></li>
+						<li><a href="http://eohsi.rutgers.edu" target="_blank"> Environmental &amp; Occupational Health Sciences Institute</a></li>
+						<li><a href="http://rwjms.umdnj.edu/patient_care/chandler/excel.html" target="_blank"> Eric B. Chandler Health Center</a></li>
+						<li> Gastrointestinal and Liver Tumor Center</li>
+						<li> Genitourinary Tumor Study Group Center</li>
+						<li> Geriatric Assessment Service</li>
+						<li><a href="http://rwjms.umdnj.edu/geron/" target="_blank"> Gerontological Institute</a></li>
+						<li><a href="http://rwjms.umdnj.edu/departments_institutes/family_medicine/chfcd/index.html" target="_blank"> Healthy Families and Cultural Diversity, Center for </a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=cardio/hcnj" target="_blank"> Heart Center of New Jersey</a></li>
+						<li> Hematopoietic Stem Cell Transplantation, Center for </li>
+						<li> HIV Infection, Center for</li>
+						<li> Leukemia/Lymphoma Study Center</li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=cardio/ldc" target="_blank"> Lipid Disorder Center</a></li>
+						<li> Melanoma and Sarcoma Center</li>
+						<li><a href="http://eohsi.rutgers.edu/ceed/ceed" target="_blank"> National Institute of Environmental Health Sciences Center of Excellence</a></li>
+						<li><a href="http://rwjms.umdnj.edu/departments_institutes/neurology/research/disease.html" target="_blank"> Neurodegenerative and Neuroimmunologic Diseases, Center for </a></li>
+						<li><a href="http://www.umdnj.edu/nmalsweb/info.html" target="_blank"> Neuromuscular and ALS Center</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=cinj&program=bop" target="_blank"> New Jersey Comprehensive Breast Care Center</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=anesthesia&program=njpi" target="_blank"> New Jersey Pain Institute</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=hemat/njrhp" target="_blank"> New Jersey Regional Hemophilia Program</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=endo/oc" target="_blank"> Osteoporosis Center</a></li>
+						<li><a href="http://ccl.rutgers.edu/index.php/ozone-research-center/" target="_blank"> Ozone Research Center</a></li>
+						<li> Psychopharmacology Research, Center for</li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=obgyn&program=clingen/irpg" target="_blank"> Reproductive and Perinatal Genetics, Institute for </a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=nephro/d" target="_blank"> Robert Wood Johnson Dialysis Center</a></li>
+						<li><a href="http://www.RWJMedicalGroup.org" target="_blank"> Robert Wood Johnson Medical Group</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=rheum/sp" target="_blank"> Scleroderma Program</a></li>
+						<li><a href="http://rwjms.umdnj.edu/departments_institutes/pedspweb/divisions/sids/index.html" target="_blank"> SIDS Center of New Jersey</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=family&program=smc" target="_blank"> Sports Medicine Center</a></li>
+						<li><a href="http://rwjms.umdnj.edu/scinj/" target="_blank"> Stem Cell Institute of New Jersey</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/division.asp?division=childdev" target="_blank"> Study of Child Development, Institute for the</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=psychiatry&program=ac" target="_blank"> The Robert Wood Johnson Autism Center</a></li>
+						<li> Thoracic Tumor Study Group Center</li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=medicine&program=hemat/tc" target="_blank"> Thrombosis Center</a></li>
+						<li><a href="http://www.rwjtrauma.org" target="_blank"> Trauma Center</a></li>
+						<li><a href="http://ucdper.org" target="_blank"> University Center for Disaster Preparedness and Emergency Response</a></li>
+						<li><a href="http://umg.umdnj.edu/public/clinical_services/program.asp?dept=surgery&program=vascular/vcnj " target="_blank"> Vascular Center of New Jersey</a></li>
+						<li><a href="http://rwjms.umdnj.edu/whi/" target="_blank"> Women's Health Institute</a></li>
+					</ul>
+				</div>
+				<!-- #end-of-main-content-area --> 
+				
+				<!-- Right Sidebar
+        ====================== --> 
+				<!--  <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            // Panel One 
+            <li>
+            <h2>TO BE DELETED</h2>
+                <p>TO BE DELETED</p>
+                
+            </li>
+        </ul>
+        </div>--><!-- #end-of-right-sidebar --> 
+			</div>
+		</div>
+		
+		<!-- Includes Left Side Navigation -->
+		<!--#include virtual="includes/side_nav-research.html" -->
+				<!-- Second Section -->
+				<div class="panel padding">
+					<h2>Related</h2>
+					<div class="row">
+						<div class="twelve columns item-list">
+							<ul>
+								<li><a href=" http://www.rutgers.edu/research/centers-institutes" target="_blank">Universitywide Centers &amp; Institutes</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- #end-of-all-content --> 
+	
+	<!-- Includes Footer -->
+	<!--#include virtual="includes/footer.html" -->
+</div>
+</body>
+</html>

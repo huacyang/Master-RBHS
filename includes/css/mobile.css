@@ -11,7 +11,7 @@
 }
 
 #home-rite_sidebar .panel { 
-	width:70%;}
+	width:100%;}
 
 #main {
 	margin-left:-15px;
@@ -49,4 +49,8 @@
 }
 #side_nav {
     padding-left: 50px;
+}
+
+#side_bar-home .bullets-green li {
+    display:block;
 }

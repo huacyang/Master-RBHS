@@ -6,7 +6,7 @@ function create_mobileNav() {
 	var a = document.createElement("a");
 	var img = document.createElement("img");
 	
-	img.src = "includes/img/bars.jpg";
+	img.src = "includes/img/bars.gif";
 	a.id = "mobile_header";
 	a.href = "#";
 	li.id = "mobile_menu";

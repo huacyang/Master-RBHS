@@ -1,4 +1,4 @@
-function remove() {
+function remove_mobile() {
 	var nav = document.getElementById('section-wrapper');
 	var mobile = document.getElementById('navigation');
 	var content = document.getElementById('mobile_dropdown');
@@ -11,19 +11,14 @@ function remove() {
 	//console.log(nav);
 }
 
-function shiftup() {
-	var header = document.getElementById("header");
-	var content = document.getElementById("shifting");
-	
-	if (header) {
-		//header.className = "twelve columns header_fix";
-	}
-	if (content) {
-		content.className = "twelve columns bg-white shifting"
+function remove_class_long() {
+	var classes = $('.long');
+	for (var i = 0; i < classes.length; i++) {
+		classes[i].className = "blab";
 	}
 }
 
 $(window).ready(function(e) {
-	shiftup();
-	remove();
+	remove_mobile();
+	//remove_class_long();
 });

@@ -27,30 +27,35 @@ function mobile() {
 	var shifting = $('#shifting');
 	var slideshow_area = $('#slideshow_area');
 	
-	if ($(window).width() <= 1000 && !menu.hasClass('has-dropdown')) {
+	/*
+	 * Depending on the width of the browser, triggers the following:
+	 *  1) switch to mobile navigation bar and static image
+	 *  2) switch to full navigation bar and image slideshow
+	 */
+	if ($(window).width() <= 800) { //&& !menu.hasClass('has-dropdown')) {
 		//console.log("Mobile");
 		menu.addClass('has-dropdown');
 		dropdown.addClass('dropdown');
 		header.addClass('show-for-medium-down');
 		header.removeClass('show-for-small');
-		shifting.removeClass('show-for-small');
-		shifting.addClass('show-for-medium-down');
-		slideshow_area.removeClass('hide-for-small');
 		slideshow_area.addClass('hide-for-medium-down');
+		slideshow_area.removeClass('hide-for-small');
+		shifting.addClass('show-for-medium-down');
+		shifting.removeClass('show-for-small');
 		randomize();
-	} else if ($(window).width() > 1000 && menu.hasClass('has-dropdown')) {
+	} else if ($(window).width() > 800) { // && menu.hasClass('has-dropdown')) {
 		//console.log("Full Screen");
 		menu.removeClass('has-dropdown');
 		dropdown.removeClass('dropdown');
 		header.removeClass('show-for-medium-down');
 		header.addClass('show-for-small');
-		shifting.addClass('show-for-small');
-		shifting.removeClass('show-for-medium-down');
 		slideshow_area.addClass('hide-for-small');
 		slideshow_area.removeClass('hide-for-medium-down');
+		shifting.addClass('show-for-small');
+		shifting.removeClass('show-for-medium-down');
 	}
 	
-	if ($(window).width() >= 924) {
+	if ($(window).width() > 800) {
 		shifting.addClass('shiftup');
 	} else {
 		shifting.removeClass('shiftup');
