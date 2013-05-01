@@ -2,6 +2,9 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
 	<title>Patient Care Overview | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
@@ -138,7 +141,7 @@ Find clinical trials and translational research, available only through universi
 			
 			<li>
 			<h2>Ethics and Compliance</h2>
-			<p>Employees and students of Rutgers Biomedical and Health Sciences are expected to adhere to the high standards of ethics and compliance whenever acting on behalf of RBHS. <a href="#">Learn more</a>. <span class="red">[NEW URL TO COME]</span></p>
+			<p>Employees and students of Rutgers Biomedical and Health Sciences are expected to adhere to the highest standards of ethics and compliance whenever acting on behalf of RBHS. <a href="#">Learn more</a>. <span class="red">[NEW URL TO COME]</span></p>
 			</li>
         </ul>
         </div>

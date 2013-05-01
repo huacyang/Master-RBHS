@@ -716,6 +716,22 @@ ul li.has-dropdown ul.dropdown li {
     padding-top: 0;
 }
 
+#mobile_dropdown li.title,
+#mobile_dropdown li.title:hover {
+	margin-top:-5px;
+	margin-bottom:0px;
+	height:40px;
+}
+
+.top-bar ul > li.has-dropdown .dropdown li.has-dropdown > a:after {
+	border-style:solid;
+	background-color:transparent;
+	border-width:5px;
+    border-color:white transparent transparent transparent;
+	/*margin-top:-10px;
+	height:15px;*/
+}
+
 .top-bar ul li.has-dropdown .dropdown li a {
     padding: 0;
 }

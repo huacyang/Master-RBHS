@@ -2,6 +2,9 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
 	<title>Admissions Overview | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
@@ -121,7 +124,7 @@ Our offerings are vast. Your options are open. Apply now.
         <div class="twelve columns item-list">
         <ul>
             <li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Universitywide Admissions</a></li>
-            <li>University Health Sciences Edcuation <span class="red">[LINK TO NEW HEALTH SCIENCES EDUCATION PAGE IN CORE SITE]</span></li>
+            <li><a href="#">University Health Sciences Education</a> <span class="red">[LINK TO NEW HEALTH SCIENCES EDUCATION PAGE IN CORE SITE]</span></li>
         </ul>
         </div>
     </div>

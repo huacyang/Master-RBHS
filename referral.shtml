@@ -2,6 +2,9 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
 	<title>Physicians Referral Services | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
@@ -69,7 +72,7 @@ Our doctors provide a wide range of dental care in one location, making the prac
 <p>If you are in need of behavioral health, mental health, or addiction services, contact <a href="http://ubhc.umdnj.edu" target="_blank">University Behavioral Health Care</a> <span class="red">[URL TO CHANGE]</span>. Services include inpatient, outpatient, partial hospitalization, screening, crisis stabilization, family/caregiver support, community outreach and case management, research, prevention, and consultation, as well as government-funded and privately sponsored specialty initiatives.</p>
 
 <p><a href="http://ubhc.umdnj.edu/accesscenter/index.htm" target="_blank" class="subhead">University Behavioral Health Care</a> <span class="red">[URL TO CHANGE]</span><br />
-University Behavioral Health Care is statewide asset that offers a full continuum of behavioral and mental health and addiction services for children, adolescents, adults, and seniors throughout New Jersey. UBHC&rsquo;s behavioral professionals and support staff are dedicated to treatment, prevention, and education. UBHC is one of the largest providers of behavioral health care in the nation, with services offered in locations throughout New Jersey.</p>
+University Behavioral Health Care is statewide asset that offers a full continuum of behavioral and mental health and addiction services for children, adolescents, adults, and seniors. UBHC&rsquo;s behavioral professionals and support staff are dedicated to treatment, prevention, and education. UBHC is one of the largest providers of behavioral health care in the nation, with services offered in locations throughout New Jersey.</p>
 
         
         </div><!-- #end-of-main-content-area -->

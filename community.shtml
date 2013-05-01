@@ -2,6 +2,9 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
 	<title>Community Health Programs | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
@@ -46,7 +49,7 @@
         ====================== -->
         <div class="row">
         <div class="twelve columns"><br />
-        	<img src="images/patientcare_CINJDay2_1952_.jpg" alt="Three students by MRI scans" title="Three students by MRI scans" />
+        	<img src="images/patientcare_comm_RDFH9A0195.jpg" alt="Student taking a man's blood pressure" title="Student taking a man's blood pressure" />
         </div>
         </div>
         <br />

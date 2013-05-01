@@ -3,6 +3,9 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
 	<title>Centers and Institutes | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
@@ -52,7 +55,7 @@
 			<div class="row">
 				<div id="context-large" class="twelve mobile-four columns">
 					<h1 id="page-title">Centers and Institutes</h1>
-					<p class="red">[More to come. We need an accurate list of active centers and institutes for each school]</p>
+					
 					<p>Our research centers and institutes are where new discoveries happen and inform the latest approaches to medicine, health, and patient care. From shedding light on the implications of health care policy to uncovering the basic mechanisms that fuel cancer, RBHS centers and institutes break new ground.<strong></strong></p>
 					<h2>Research Centers and Institutes</h2>
 					<p>Primary Rutgers Biomedical and Health Sciences research centers and institutes include the following:</p>
@@ -70,7 +73,7 @@
 						<p>Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur. <a href="#">Learn more</a>.</p>
 					<h3>Third Center Highlight</h3>
 						<p>Est inani numquam ceteros eu. Est quem dicat minimum cu, at vim paulo partiendo. Modus reformidans sed id. Id etiam virtute veritus nec, ea has justo utamur dissentiet. Eum no facilisi consti tuam omittantur. <a href="#">Learn more</a>.</p>
-					<h2 id="rbhs_behavioral">Centers and Institutes at RBHS Schools and at University Behavioral Health Care</h2>
+					<h2 id="rbhs_behavioral">Centers and Institutes: RBHS Schools and University Behavioral Health Care</h2>
 					<ul>
 						<li><a href="http://nursing.rutgers.edu/faculty-research-scholarship/centers-excellence" target="_blank">College of Nursing</a></li>
 						<li>Ernest Mario School of Pharmacy <span class="red">[no centers &amp; institutes page]</span></li>

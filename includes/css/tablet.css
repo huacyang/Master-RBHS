@@ -54,4 +54,9 @@
 
 .row {
 	width:100%;
-    max-width: 100%;}
+    max-width: 100%;
+}
+
+#navigation ul.dropdown li.long, #navigation ul.dropdown li.long a, #navigation ul.dropdown li.long:hover {
+	margin-bottom:-10px;
+}

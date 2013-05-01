@@ -2,6 +2,9 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
 	<title>Academics Overview | Rutgers Biomedical and Health Sciences</title>
 
     <!-- Included CSS Files -->
@@ -129,7 +132,7 @@ With more than two dozen centers and reading rooms across our campuses, the Rutg
         <ul>
             <li><a href="http://www.rutgers.edu/academics/academics-rutgers" target="_blank">Academics Universitywide</a></li>			
 			<li><a href="#">Ethics and Compliance</a> <span class="red">[URL TO COME]</span></li>
-            <li>Health Sciences Academics Universitywide  <span class="red">[LINK TO NEW HEALTH SCIENCES ACADEMICS PAGE ON CORE SITE]</span></li>
+            <li><a href="#">Health Sciences Academics Universitywide</a>  <span class="red">[LINK TO NEW HEALTH SCIENCES ACADEMICS PAGE ON CORE SITE]</span></li>
             <li><a href="http://www.rutgers.edu/about-rutgers/national-rankings" target="_blank">National Rankings</a></li>
             
         </ul>
